@@ -1,7 +1,7 @@
+use std::collections::HashSet;
 use std::error::Error;
 use std::future::Future;
 use std::path::PathBuf;
-use std::thread::sleep;
 use std::time::Duration;
 
 use chrono::Utc;
@@ -27,7 +27,7 @@ const REGIONS: &[(&str, &str)] = &[
     ("zeeland", "zeeland-provincie"),
 ];
 
-#[derive(Debug, Serialize)]
+#[derive(Debug, Hash, PartialEq, Eq, Serialize)]
 struct SalonDetails {
     name: String,
     street_address: String,
@@ -60,7 +60,7 @@ async fn scrape_region(region: &str, region_slug: &str, root_dir: PathBuf) -> Re
     let selector_province = Selector::parse("div.row.province-list.alphabetic")?;
     let selector_city_link = Selector::parse("a")?;
 
-    let mut salon_details = Vec::new();
+    let mut salon_details = HashSet::new();
     let links = document
         .select(&selector_province)
         .next()
@@ -84,22 +84,25 @@ async fn scrape_region(region: &str, region_slug: &str, root_dir: PathBuf) -> Re
             }
         };
 
-        println!("Found {} salons at {}", details.len(), page_url);
+        println!("Found {} unique salons at {}", details.len(), page_url);
         salon_details.extend(details);
 
         // Write everything to the file every iteration
         let mut file = File::create(filepath.clone()).await?;
         let contents = serde_json::to_string_pretty(&salon_details)?;
         file.write(contents.as_bytes()).await?;
+        file.flush().await?;
 
         // Be nice and do not spam the website
-        sleep(Duration::from_secs(2));
+        // sleep(Duration::from_secs(2));
     }
+
+
 
     Ok(())
 }
 
-async fn scrape_page(page_url: &str) -> Result<Vec<SalonDetails>, Box<dyn Error>> {
+async fn scrape_page(page_url: &str) -> Result<HashSet<SalonDetails>, Box<dyn Error>> {
     let body = reqwest::get(page_url).await.unwrap().text().await?;
     let document = Html::parse_document(&body);
     let selector_salon = Selector::parse("div.listing-details.d-flex.flex-column")?;
@@ -109,7 +112,7 @@ async fn scrape_page(page_url: &str) -> Result<Vec<SalonDetails>, Box<dyn Error>
     let selector_locality = Selector::parse(r#"span[itemprop="addressLocality"]"#)?;
     let selector_region = Selector::parse(r#"meta[itemprop="addressRegion"]"#)?;
 
-    let mut result = Vec::new();
+    let mut result = HashSet::new();
     for element in document.select(&selector_salon) {
         let name = element
             .select(&selector_name)
@@ -138,7 +141,7 @@ async fn scrape_page(page_url: &str) -> Result<Vec<SalonDetails>, Box<dyn Error>
             .flatten()
             .unwrap_or_default();
 
-        result.push(SalonDetails {
+        result.insert(SalonDetails {
             name: decode_html_entities(&name).into_owned(),
             street_address: decode_html_entities(&street_address).into_owned(),
             postal_code: decode_html_entities(&postal_code).into_owned(),
