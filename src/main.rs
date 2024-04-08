@@ -11,7 +11,8 @@ use serde::Serialize;
 use tokio::fs::{create_dir_all, File};
 use tokio::io::AsyncWriteExt;
 
-const BASE_URL: &str = "https://www.kappers.nl";
+const USER_AGENT: &str = "scrapy mc scrapeface, contact me at git@limpsquid.nl";
+const BASE_URL: &str = "https://kappers.nl";
 const REGIONS: &[(&str, &str)] = &[
     ("noord-holland", "noord-holland"),
     ("zuid-holland", "zuid-holland"),
@@ -50,9 +51,16 @@ async fn main() {
     }
 }
 
-async fn scrape_region(region: &str, region_slug: &str, root_dir: PathBuf) -> Result<(), Box<dyn Error>> {
+async fn scrape_region(
+    region: &str,
+    region_slug: &str,
+    root_dir: PathBuf,
+) -> Result<(), Box<dyn Error>> {
+    let client = reqwest::Client::builder().user_agent(USER_AGENT).build()?;
     let filepath = root_dir.join(format!("{}.json", region));
-    let body = reqwest::get(format!("{}/{}", BASE_URL, region_slug))
+    let body = client
+        .get(format!("{}/{}", BASE_URL, region_slug))
+        .send()
         .await?
         .text()
         .await?;
@@ -97,13 +105,12 @@ async fn scrape_region(region: &str, region_slug: &str, root_dir: PathBuf) -> Re
         // sleep(Duration::from_secs(2));
     }
 
-
-
     Ok(())
 }
 
 async fn scrape_page(page_url: &str) -> Result<HashSet<SalonDetails>, Box<dyn Error>> {
-    let body = reqwest::get(page_url).await.unwrap().text().await?;
+    let client = reqwest::Client::builder().user_agent(USER_AGENT).build()?;
+    let body = client.get(page_url).send().await?.text().await?;
     let document = Html::parse_document(&body);
     let selector_salon = Selector::parse("div.listing-details.d-flex.flex-column")?;
     let selector_name = Selector::parse(r#"span[itemprop="name"]"#).unwrap();
