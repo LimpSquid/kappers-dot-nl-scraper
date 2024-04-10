@@ -35,6 +35,8 @@ struct SalonDetails {
     postal_code: String,
     locality: String,
     region: String,
+    latitude: String,
+    longitude: String,
 }
 
 #[tokio::main]
@@ -118,6 +120,8 @@ async fn scrape_page(page_url: &str) -> Result<HashSet<SalonDetails>, Box<dyn Er
     let selector_postal_code = Selector::parse(r#"span[itemprop="postalCode"]"#)?;
     let selector_locality = Selector::parse(r#"span[itemprop="addressLocality"]"#)?;
     let selector_region = Selector::parse(r#"meta[itemprop="addressRegion"]"#)?;
+    let selector_latitude = Selector::parse(r#"meta[itemprop="latitude"]"#)?;
+    let selector_longitude = Selector::parse(r#"meta[itemprop="longitude"]"#)?;
 
     let mut result = HashSet::new();
     for element in document.select(&selector_salon) {
@@ -147,6 +151,18 @@ async fn scrape_page(page_url: &str) -> Result<HashSet<SalonDetails>, Box<dyn Er
             .map(|x| x.attr("content"))
             .flatten()
             .unwrap_or_default();
+        let latitude = element
+            .select(&selector_latitude)
+            .next()
+            .map(|x| x.attr("content"))
+            .flatten()
+            .unwrap_or_default();
+        let longitude = element
+            .select(&selector_longitude)
+            .next()
+            .map(|x| x.attr("content"))
+            .flatten()
+            .unwrap_or_default();
 
         result.insert(SalonDetails {
             name: decode_html_entities(&name).into_owned(),
@@ -154,6 +170,8 @@ async fn scrape_page(page_url: &str) -> Result<HashSet<SalonDetails>, Box<dyn Er
             postal_code: decode_html_entities(&postal_code).into_owned(),
             locality: decode_html_entities(&locality).into_owned(),
             region: decode_html_entities(&region).into_owned(),
+            latitude: decode_html_entities(&latitude).into_owned(),
+            longitude: decode_html_entities(&longitude).into_owned(),
         });
     }
 
