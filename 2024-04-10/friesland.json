@@ -1,0 +1,5771 @@
+[
+  {
+    "name": "Kapsalon Rodenburg",
+    "street_address": "Keppelstraat 12",
+    "postal_code": "9101MV",
+    "locality": "Dokkum",
+    "region": "Friesland",
+    "latitude": "53.3244133",
+    "longitude": "5.9986532"
+  },
+  {
+    "name": "'t Kniplokaeltsje",
+    "street_address": "Skilplein 1",
+    "postal_code": "8734GW",
+    "locality": "Easterein",
+    "region": "Friesland",
+    "latitude": "53.0969355",
+    "longitude": "5.6206467"
+  },
+  {
+    "name": "Trendy Hairstudio",
+    "street_address": "Friese Streek 29",
+    "postal_code": "9872PP",
+    "locality": "Stroobos",
+    "region": "Friesland",
+    "latitude": "53.2383805",
+    "longitude": "6.2103986"
+  },
+  {
+    "name": "Kapsalon Elly",
+    "street_address": "Herenweg 67",
+    "postal_code": "8435WP",
+    "locality": "Donkerbroek",
+    "region": "Friesland",
+    "latitude": "53.0185477",
+    "longitude": "6.241512999999999"
+  },
+  {
+    "name": "Dames- en Herenkapsalon Het Haa..",
+    "street_address": "Singel 17",
+    "postal_code": "8601AG",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0317186",
+    "longitude": "5.6622712"
+  },
+  {
+    "name": "Hair Express",
+    "street_address": "De Hoppen 34",
+    "postal_code": "8604CT",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0290433",
+    "longitude": "5.682869699999999"
+  },
+  {
+    "name": "Kapsalon Gien Beekema",
+    "street_address": "De Worteltuin 5",
+    "postal_code": "9163HL",
+    "locality": "Nes",
+    "region": "Friesland",
+    "latitude": "53.4481717",
+    "longitude": "5.772295"
+  },
+  {
+    "name": "Elvira's Haarstudio",
+    "street_address": "Leeuwarderstraatweg 64",
+    "postal_code": "8441PG",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9700347",
+    "longitude": "5.9079369"
+  },
+  {
+    "name": "Thúskapper Trijnie",
+    "street_address": "Tussendijken 47",
+    "postal_code": "9251LX",
+    "locality": "Burgum",
+    "region": "Friesland",
+    "latitude": "53.202963",
+    "longitude": "5.9920538"
+  },
+  {
+    "name": "Gerda's Kapsalon",
+    "street_address": "Weerd 1",
+    "postal_code": "8911HL",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.20108159999999",
+    "longitude": "5.7950537"
+  },
+  {
+    "name": "Piekolo",
+    "street_address": "Openderweg 10",
+    "postal_code": "9865XE",
+    "locality": "Opende",
+    "region": "Groningen",
+    "latitude": "53.1729041",
+    "longitude": "6.221446500000001"
+  },
+  {
+    "name": "Beauty Selection",
+    "street_address": "Stationsweg 32",
+    "postal_code": "9201GP",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1098385",
+    "longitude": "6.097493"
+  },
+  {
+    "name": "Kapsalon & Schoonheidssalon De..",
+    "street_address": "Coopmansstraat 8",
+    "postal_code": "8921ST",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2068091",
+    "longitude": "5.812109899999999"
+  },
+  {
+    "name": "Haarmode Caro-Line",
+    "street_address": "Kleijenburg 4",
+    "postal_code": "8801KN",
+    "locality": "Franeker",
+    "region": "Friesland",
+    "latitude": "53.188316",
+    "longitude": "5.5401752"
+  },
+  {
+    "name": "Kapsalon Greta",
+    "street_address": "Burgemeester Bothenius Lohmanlaan 5",
+    "postal_code": "9251LA",
+    "locality": "Burgum",
+    "region": "Friesland",
+    "latitude": "53.197775",
+    "longitude": "5.9856451"
+  },
+  {
+    "name": "Jouke Kooistra",
+    "street_address": "Het Swin 15",
+    "postal_code": "9201XV",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1137498",
+    "longitude": "6.0864156"
+  },
+  {
+    "name": "Kapsalon Hogeboom",
+    "street_address": "Kleine Dijlakker 14",
+    "postal_code": "8701HW",
+    "locality": "Bolsward",
+    "region": "Friesland",
+    "latitude": "53.0633969",
+    "longitude": "5.5238926"
+  },
+  {
+    "name": "Kapsalon 't Kniphuus",
+    "street_address": "Henric de Cranestraat 7",
+    "postal_code": "8374KK",
+    "locality": "Kuinre",
+    "region": "Overijssel",
+    "latitude": "52.7875508",
+    "longitude": "5.8401127"
+  },
+  {
+    "name": "Kapsalon 't Skuorke",
+    "street_address": "Haerdawei 30",
+    "postal_code": "8854AB",
+    "locality": "Oosterbierum",
+    "region": "Friesland",
+    "latitude": "53.2338989",
+    "longitude": "5.509680899999999"
+  },
+  {
+    "name": "de Kapperij",
+    "street_address": "Breewei 42",
+    "postal_code": "8406EG",
+    "locality": "Tijnje",
+    "region": "Friesland",
+    "latitude": "53.0305838",
+    "longitude": "5.993895699999999"
+  },
+  {
+    "name": "Kapsalon Monique",
+    "street_address": "Oeverloper 15",
+    "postal_code": "8532BG",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.8556509",
+    "longitude": "5.7007433"
+  },
+  {
+    "name": "Kapsalon Geartsje",
+    "street_address": "De Buorren 20",
+    "postal_code": "9137RS",
+    "locality": "Oosternijkerk",
+    "region": "Friesland",
+    "latitude": "53.3796659",
+    "longitude": "6.0530009"
+  },
+  {
+    "name": "Hair Affair",
+    "street_address": "Kleinzand 5",
+    "postal_code": "8601BE",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0325007",
+    "longitude": "5.662647799999999"
+  },
+  {
+    "name": "Kapsalon Koot",
+    "street_address": "Drachtsterweg 6",
+    "postal_code": "9001BE",
+    "locality": "Grou",
+    "region": "Friesland",
+    "latitude": "53.0956287",
+    "longitude": "5.8425378"
+  },
+  {
+    "name": "Froukje's Kapsalon",
+    "street_address": "De Jister 36",
+    "postal_code": "9262MA",
+    "locality": "Sumar",
+    "region": "Friesland",
+    "latitude": "53.1750329",
+    "longitude": "5.9996585"
+  },
+  {
+    "name": "Kapsalon Carolus",
+    "street_address": "Stripe 1",
+    "postal_code": "8493LB",
+    "locality": "Terherne",
+    "region": "Friesland",
+    "latitude": "53.04174829999999",
+    "longitude": "5.7801086"
+  },
+  {
+    "name": "de knip salon",
+    "street_address": "De Buorren 22",
+    "postal_code": "9289HG",
+    "locality": "Drogeham",
+    "region": "Friesland",
+    "latitude": "53.202562",
+    "longitude": "6.1145498"
+  },
+  {
+    "name": "Kapsalon Patries",
+    "street_address": "Legedyk 39 A",
+    "postal_code": "8629RL",
+    "locality": "Scharnegoutum",
+    "region": "Friesland",
+    "latitude": "53.060178",
+    "longitude": "5.677998"
+  },
+  {
+    "name": "Haarstudio Grietje",
+    "street_address": "Gravenburg 4",
+    "postal_code": "8702BC",
+    "locality": "Bolsward",
+    "region": "Friesland",
+    "latitude": "53.0726312",
+    "longitude": "5.5341719"
+  },
+  {
+    "name": "Dameskapsalon Joke",
+    "street_address": "Nieuwe Vaart 19",
+    "postal_code": "8426RA",
+    "locality": "Appelscha",
+    "region": "Friesland",
+    "latitude": "52.9489872",
+    "longitude": "6.397532300000001"
+  },
+  {
+    "name": "Kwafure Dames- en Herenkapsalon",
+    "street_address": "Stevenshoek 13",
+    "postal_code": "8525EK",
+    "locality": "Langweer",
+    "region": "Friesland",
+    "latitude": "52.95930490000001",
+    "longitude": "5.7223235"
+  },
+  {
+    "name": "Kapsalon Knappe Koppies",
+    "street_address": "Van Ghemmenichstraat 5",
+    "postal_code": "8801AE",
+    "locality": "Franeker",
+    "region": "Friesland",
+    "latitude": "53.1848439",
+    "longitude": "5.5497068"
+  },
+  {
+    "name": "Haarboutique Le Soleil",
+    "street_address": "H.G. van der Veenstrjitte 8",
+    "postal_code": "9114RR",
+    "locality": "Driezum",
+    "region": "Friesland",
+    "latitude": "53.2975402",
+    "longitude": "6.0446082"
+  },
+  {
+    "name": "Kapsalon Veldhuis",
+    "street_address": "De Wetterwille 177",
+    "postal_code": "9207BM",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.12257229999999",
+    "longitude": "6.0867223"
+  },
+  {
+    "name": "Kapsalon Suderigge",
+    "street_address": "Christiaan de Vriesstraat 2",
+    "postal_code": "8531EL",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.84484",
+    "longitude": "5.7141131"
+  },
+  {
+    "name": "Kapsalon De Jong",
+    "street_address": "Nieuwestad 35",
+    "postal_code": "8911CH",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2016697",
+    "longitude": "5.7911834"
+  },
+  {
+    "name": "De Trend Haar- en Huidverzorgin..",
+    "street_address": "Begoniastraat 2",
+    "postal_code": "8441EE",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9625728",
+    "longitude": "5.922274799999999"
+  },
+  {
+    "name": "Hair & Beautysalon Capelli's",
+    "street_address": "Dijkstraat 75",
+    "postal_code": "8801LT",
+    "locality": "Franeker",
+    "region": "Friesland",
+    "latitude": "53.1849544",
+    "longitude": "5.5477924"
+  },
+  {
+    "name": "Wendy's HaarVoetiek",
+    "street_address": "Haadwei 85 A",
+    "postal_code": "9104BC",
+    "locality": "Damwâld",
+    "region": "Friesland",
+    "latitude": "53.28715279999999",
+    "longitude": "5.9995333"
+  },
+  {
+    "name": "Kapsalon Gea",
+    "street_address": "Sjaerdawei 4",
+    "postal_code": "8625HS",
+    "locality": "Oppenhuizen",
+    "region": "Friesland",
+    "latitude": "53.0088841",
+    "longitude": "5.6983314"
+  },
+  {
+    "name": "K & F hairstyle",
+    "street_address": "Brouwerswal 4 G",
+    "postal_code": "8401CZ",
+    "locality": "Gorredijk",
+    "region": "Friesland",
+    "latitude": "53.002281",
+    "longitude": "6.0648317"
+  },
+  {
+    "name": "Kapsalon José",
+    "street_address": "Oostakkers 7",
+    "postal_code": "9161BG",
+    "locality": "Hollum",
+    "region": "Friesland",
+    "latitude": "53.43967079999999",
+    "longitude": "5.6406111"
+  },
+  {
+    "name": "Siep Offenga De Kapper",
+    "street_address": "Lieuwenburg 85",
+    "postal_code": "8925CJ",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2112144",
+    "longitude": "5.8389262"
+  },
+  {
+    "name": "Kapsalon De Freule",
+    "street_address": "Terp 42",
+    "postal_code": "8731BA",
+    "locality": "Wommels",
+    "region": "Friesland",
+    "latitude": "53.1088672",
+    "longitude": "5.586753799999999"
+  },
+  {
+    "name": "Kapsalon Style & Beauty",
+    "street_address": "Hannelswei 15 A",
+    "postal_code": "9251MR",
+    "locality": "Burgum",
+    "region": "Friesland",
+    "latitude": "53.201863",
+    "longitude": "5.982139999999999"
+  },
+  {
+    "name": "Set Neferoe",
+    "street_address": "Voorstreek 104",
+    "postal_code": "8911JV",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2051721",
+    "longitude": "5.801299999999999"
+  },
+  {
+    "name": "M-stijl haarverzorging",
+    "street_address": "Koutenburg 32",
+    "postal_code": "9263RM",
+    "locality": "Garyp",
+    "region": "Friesland",
+    "latitude": "53.1682605",
+    "longitude": "5.9757735"
+  },
+  {
+    "name": "Ami kappers Drachten",
+    "street_address": "Markt 60",
+    "postal_code": "9203AA",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.10762829999999",
+    "longitude": "6.0971043"
+  },
+  {
+    "name": "Salon Boucle",
+    "street_address": "Kleinzand 30",
+    "postal_code": "8601BH",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.03237000000001",
+    "longitude": "5.6638443"
+  },
+  {
+    "name": "2 Be Beautiful",
+    "street_address": "De Greide 19",
+    "postal_code": "9062HM",
+    "locality": "Oentsjerk",
+    "region": "Friesland",
+    "latitude": "53.2477657",
+    "longitude": "5.8995375"
+  },
+  {
+    "name": "Kapsalon De Arkens",
+    "street_address": "Cammingastraat 2",
+    "postal_code": "8802ZL",
+    "locality": "Franeker",
+    "region": "Friesland",
+    "latitude": "53.19142249999999",
+    "longitude": "5.5554168"
+  },
+  {
+    "name": "Kapsalon Nynke",
+    "street_address": "Kerkstraat 19 a",
+    "postal_code": "8754CP",
+    "locality": "Makkum",
+    "region": "Friesland",
+    "latitude": "53.0561179",
+    "longitude": "5.4023879"
+  },
+  {
+    "name": "Leny's Look",
+    "street_address": "Grettingalaan 106",
+    "postal_code": "8862ZE",
+    "locality": "Harlingen",
+    "region": "Friesland",
+    "latitude": "53.1667804",
+    "longitude": "5.444566"
+  },
+  {
+    "name": "Klaske for Total Beauty",
+    "street_address": "De Buorren 53",
+    "postal_code": "9289HE",
+    "locality": "Drogeham",
+    "region": "Friesland",
+    "latitude": "53.2030928",
+    "longitude": "6.1099791"
+  },
+  {
+    "name": "Knipperij De Boek",
+    "street_address": "Greate Buorren 37 A",
+    "postal_code": "9262SC",
+    "locality": "Sumar",
+    "region": "Friesland",
+    "latitude": "53.1776221",
+    "longitude": "6.008160699999999"
+  },
+  {
+    "name": "Nina's Opk(N.)Apperij",
+    "street_address": "Dekamalaan 17 a",
+    "postal_code": "8604ZG",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.03643839999999",
+    "longitude": "5.683269399999999"
+  },
+  {
+    "name": "Kapsalon Elja",
+    "street_address": "Dominee J. van Dijkstraat 6",
+    "postal_code": "8804RC",
+    "locality": "Tzum",
+    "region": "Friesland",
+    "latitude": "53.1571248",
+    "longitude": "5.5673626"
+  },
+  {
+    "name": "Kapsalon Jansen",
+    "street_address": "Peperstraat 3",
+    "postal_code": "8601CH",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0326208",
+    "longitude": "5.6603465"
+  },
+  {
+    "name": "xpressive kappers",
+    "street_address": "Moleneind Zuidzijde 189",
+    "postal_code": "9203ZZ",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1058622",
+    "longitude": "6.0829287"
+  },
+  {
+    "name": "Kapsalon Annie",
+    "street_address": "De Meenthe 31",
+    "postal_code": "8479KC",
+    "locality": "Oldetrijne",
+    "region": "Friesland",
+    "latitude": "52.84765119999999",
+    "longitude": "5.9549457"
+  },
+  {
+    "name": "Kapsalon Rob Oost",
+    "street_address": "Schrans 91",
+    "postal_code": "8932NC",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.1950004",
+    "longitude": "5.7988317"
+  },
+  {
+    "name": "N. Nijhuis",
+    "street_address": "Middelwyk 37",
+    "postal_code": "9202GN",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.10968889999999",
+    "longitude": "6.111961200000001"
+  },
+  {
+    "name": "Thuisknipservice Blitz",
+    "street_address": "Schumerstraat 23",
+    "postal_code": "8384EN",
+    "locality": "Wilhelminaoord",
+    "region": "Drenthe",
+    "latitude": "52.85557679999999",
+    "longitude": "6.1620522"
+  },
+  {
+    "name": "Kapsalon Atlas",
+    "street_address": "Nieuwe Oosterstraat 32",
+    "postal_code": "8911KN",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2006478",
+    "longitude": "5.8018868"
+  },
+  {
+    "name": "Kap-Zones",
+    "street_address": "Midstraat 146",
+    "postal_code": "8501AW",
+    "locality": "Joure",
+    "region": "Friesland",
+    "latitude": "52.96539929999999",
+    "longitude": "5.7993786"
+  },
+  {
+    "name": "More than hair",
+    "street_address": "Industrieweg 35",
+    "postal_code": "9422CX",
+    "locality": "Smilde",
+    "region": "Drenthe",
+    "latitude": "52.929849",
+    "longitude": "6.4136793"
+  },
+  {
+    "name": "Diena's Kapsalon",
+    "street_address": "Merelstraat 92",
+    "postal_code": "8916AX",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.20631179999999",
+    "longitude": "5.783514800000001"
+  },
+  {
+    "name": "Brenda's Hairstyle",
+    "street_address": "Leeuwerikplein 4",
+    "postal_code": "8917CW",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2082553",
+    "longitude": "5.786096199999999"
+  },
+  {
+    "name": "Hairstudio Wilma",
+    "street_address": "Stûken 33",
+    "postal_code": "9247DJ",
+    "locality": "Ureterp",
+    "region": "Friesland",
+    "latitude": "53.0925344",
+    "longitude": "6.1704452"
+  },
+  {
+    "name": "Berino the art of Beauty",
+    "street_address": "Biensma 28",
+    "postal_code": "9001ZZ",
+    "locality": "Grou",
+    "region": "Friesland",
+    "latitude": "53.0953336",
+    "longitude": "5.8238112"
+  },
+  {
+    "name": "RiStyle Haarmode",
+    "street_address": "Meuleveldweg 20",
+    "postal_code": "8431GH",
+    "locality": "Oosterwolde",
+    "region": "Friesland",
+    "latitude": "52.9878022",
+    "longitude": "6.2931755"
+  },
+  {
+    "name": "Holke's Dames- en Herensalon",
+    "street_address": "Singel 50",
+    "postal_code": "8601AK",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0307278",
+    "longitude": "5.6623407"
+  },
+  {
+    "name": "Nienke Kuiper",
+    "street_address": "Dragoonsplein 243",
+    "postal_code": "8923AJ",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2160984",
+    "longitude": "5.8201803"
+  },
+  {
+    "name": "E. Kuipers-Julsing",
+    "street_address": "Bommegaerde 180",
+    "postal_code": "9244AM",
+    "locality": "Beetsterzwaag",
+    "region": "Friesland",
+    "latitude": "53.06749749999999",
+    "longitude": "6.0771669"
+  },
+  {
+    "name": "Kapsalon M.A. van Dijk",
+    "street_address": "Hempenserweg 2",
+    "postal_code": "8935AA",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.1846021",
+    "longitude": "5.802811699999999"
+  },
+  {
+    "name": "Salon Postma Kappers",
+    "street_address": "Nieuwestad 12",
+    "postal_code": "8911CS",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2015391",
+    "longitude": "5.789955"
+  },
+  {
+    "name": "K&F Hairstyle",
+    "street_address": "Marowijnestraat 8 h",
+    "postal_code": "8931BT",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.1899768",
+    "longitude": "5.781155099999999"
+  },
+  {
+    "name": "Kapsalon Haarstijl",
+    "street_address": "Doctor Pieter Sipmastraat 3",
+    "postal_code": "8602AB",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.037408",
+    "longitude": "5.6528119"
+  },
+  {
+    "name": "Kapsalon Dijkstra & Gerbens",
+    "street_address": "Stationsweg 50",
+    "postal_code": "9201GP",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.11058870000001",
+    "longitude": "6.0973555"
+  },
+  {
+    "name": "Haarsalon Bina",
+    "street_address": "Rengersweg 21",
+    "postal_code": "9062EA",
+    "locality": "Oentsjerk",
+    "region": "Friesland",
+    "latitude": "53.2491443",
+    "longitude": "5.8960212"
+  },
+  {
+    "name": "Elly's Knipsalon",
+    "street_address": "Bospad 4",
+    "postal_code": "8476EA",
+    "locality": "Ter Idzard",
+    "region": "Friesland",
+    "latitude": "52.897973",
+    "longitude": "6.0227689"
+  },
+  {
+    "name": "Carla's Knipservice",
+    "street_address": "Van Andlastate 35",
+    "postal_code": "8925AD",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2054637",
+    "longitude": "5.840891900000001"
+  },
+  {
+    "name": "Haarstudio Dynamic",
+    "street_address": "Tronde 13",
+    "postal_code": "8424SK",
+    "locality": "Elsloo",
+    "region": "Friesland",
+    "latitude": "52.9564691",
+    "longitude": "6.2223885"
+  },
+  {
+    "name": "Dora's Haarmode",
+    "street_address": "Tjotterstraat 16",
+    "postal_code": "8937AS",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.19556",
+    "longitude": "5.819376200000001"
+  },
+  {
+    "name": "De Bigoudi",
+    "street_address": "Kanaalweg 36",
+    "postal_code": "9422BC",
+    "locality": "Smilde",
+    "region": "Drenthe",
+    "latitude": "52.95691619999999",
+    "longitude": "6.4528867"
+  },
+  {
+    "name": "Henny's Kapsalon",
+    "street_address": "Oosterweg 34",
+    "postal_code": "9367RM",
+    "locality": "De Wilp",
+    "region": "Groningen",
+    "latitude": "53.1187439",
+    "longitude": "6.256895099999999"
+  },
+  {
+    "name": "Thuiskapster Marleen Hogendorp",
+    "street_address": "Blauhuskamp 12",
+    "postal_code": "9261ZD",
+    "locality": "Eastermar",
+    "region": "Friesland",
+    "latitude": "53.17708589999999",
+    "longitude": "6.064061199999999"
+  },
+  {
+    "name": "Sietses HAIR Design",
+    "street_address": "Wedzebuorren 19",
+    "postal_code": "9286ER",
+    "locality": "Twijzel",
+    "region": "Friesland",
+    "latitude": "53.2354669",
+    "longitude": "6.0937015"
+  },
+  {
+    "name": "A.P. Laagland Ambulante Kapster",
+    "street_address": "Verkerckstraat 11",
+    "postal_code": "9231GX",
+    "locality": "Surhuisterveen",
+    "region": "Friesland",
+    "latitude": "53.183619",
+    "longitude": "6.1744119"
+  },
+  {
+    "name": "Rianne's haarmode",
+    "street_address": "Bakkeveensterweg 14 C",
+    "postal_code": "8434NP",
+    "locality": "Waskemeer",
+    "region": "Friesland",
+    "latitude": "53.0588174",
+    "longitude": "6.2820073"
+  },
+  {
+    "name": "Kapsalon Groen",
+    "street_address": "Warmoesstraat 3",
+    "postal_code": "9076DL",
+    "locality": "St.-Annaparochie",
+    "region": "Friesland",
+    "latitude": "53.27604830000001",
+    "longitude": "5.657263599999999"
+  },
+  {
+    "name": "Kapsalon Alie",
+    "street_address": "Fonteinstrjitte 16",
+    "postal_code": "9151JW",
+    "locality": "Holwerd",
+    "region": "Friesland",
+    "latitude": "53.3693817",
+    "longitude": "5.9020516"
+  },
+  {
+    "name": "Kapsalon Karin",
+    "street_address": "Provincialeweg 15",
+    "postal_code": "9864PA",
+    "locality": "Kornhorn",
+    "region": "Groningen",
+    "latitude": "53.1811078",
+    "longitude": "6.239420099999999"
+  },
+  {
+    "name": "Kapsalon For You",
+    "street_address": "Hoofdstraat Oost 25",
+    "postal_code": "8471JH",
+    "locality": "Wolvega",
+    "region": "Friesland",
+    "latitude": "52.876849",
+    "longitude": "6.0031815"
+  },
+  {
+    "name": "Kapper Hendrik",
+    "street_address": "Trekwei 7",
+    "postal_code": "9295MZ",
+    "locality": "Westergeest",
+    "region": "Friesland",
+    "latitude": "53.28740519999999",
+    "longitude": "6.0781025"
+  },
+  {
+    "name": "Kapsalon Pardouce",
+    "street_address": "Spekloane 25",
+    "postal_code": "9233LK",
+    "locality": "Boelenslaan",
+    "region": "Friesland",
+    "latitude": "53.1599705",
+    "longitude": "6.1412441"
+  },
+  {
+    "name": "La Bella Hair",
+    "street_address": "Hoedemakersweg 17",
+    "postal_code": "9101BS",
+    "locality": "Dokkum",
+    "region": "Friesland",
+    "latitude": "53.3236028",
+    "longitude": "5.9888327"
+  },
+  {
+    "name": "Haarstudio Lammie",
+    "street_address": "Schouw 24",
+    "postal_code": "8446EA",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9537907",
+    "longitude": "5.9092158"
+  },
+  {
+    "name": "Kapsalon Hennie",
+    "street_address": "Provincialeweg 57",
+    "postal_code": "9863PC",
+    "locality": "Doezum",
+    "region": "Groningen",
+    "latitude": "53.1993744",
+    "longitude": "6.247262399999999"
+  },
+  {
+    "name": "Thuiskapper Wypkje",
+    "street_address": "De Merel 47",
+    "postal_code": "9231JK",
+    "locality": "Surhuisterveen",
+    "region": "Friesland",
+    "latitude": "53.1850221",
+    "longitude": "6.1700991"
+  },
+  {
+    "name": "Dames- en Herenkapsalon Unique",
+    "street_address": "Hoofdstraat 81",
+    "postal_code": "9244CM",
+    "locality": "Beetsterzwaag",
+    "region": "Friesland",
+    "latitude": "53.0593534",
+    "longitude": "6.0807218"
+  },
+  {
+    "name": "de Knip Keamer fan Ineke",
+    "street_address": "Ielke Boonstraloane 3",
+    "postal_code": "9263TS",
+    "locality": "Garyp",
+    "region": "Friesland",
+    "latitude": "53.1638737",
+    "longitude": "5.9759436"
+  },
+  {
+    "name": "Henriët Coiffure",
+    "street_address": "Schoterlandseweg 4",
+    "postal_code": "8413NA",
+    "locality": "Oudehorne",
+    "region": "Friesland",
+    "latitude": "52.95442740000001",
+    "longitude": "6.065138000000001"
+  },
+  {
+    "name": "Petra's Kapsalon",
+    "street_address": "Jan Mankeslaan 84",
+    "postal_code": "8442HS",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.954718",
+    "longitude": "5.934925"
+  },
+  {
+    "name": "Rianne's Knipkeamer",
+    "street_address": "It Pypke 6",
+    "postal_code": "9074BK",
+    "locality": "Hallum",
+    "region": "Friesland",
+    "latitude": "53.3060777",
+    "longitude": "5.7869861"
+  },
+  {
+    "name": "Kapsalon Koppies",
+    "street_address": "Willem Lodewijkstraat 34",
+    "postal_code": "8606AE",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0315801",
+    "longitude": "5.6668031"
+  },
+  {
+    "name": "Kapsalon Janette",
+    "street_address": "Simon Stijlstraat 7",
+    "postal_code": "8861CH",
+    "locality": "Harlingen",
+    "region": "Friesland",
+    "latitude": "53.1741811",
+    "longitude": "5.419767999999999"
+  },
+  {
+    "name": "Kapsalon Jeannet",
+    "street_address": "Lytse Side 7",
+    "postal_code": "8561AX",
+    "locality": "Balk",
+    "region": "Friesland",
+    "latitude": "52.8992155",
+    "longitude": "5.584055200000001"
+  },
+  {
+    "name": "Kapsalon Lydia",
+    "street_address": "Boslaan 1",
+    "postal_code": "8899BM",
+    "locality": "Oost-Vlieland",
+    "region": "Friesland",
+    "latitude": "53.2977127",
+    "longitude": "5.0752168"
+  },
+  {
+    "name": "Mirako's Haarstyling",
+    "street_address": "De Pôle 5",
+    "postal_code": "8458CB",
+    "locality": "Tjalleberd",
+    "region": "Friesland",
+    "latitude": "52.997546",
+    "longitude": "5.9468288"
+  },
+  {
+    "name": "Herenkapsalon Bosma",
+    "street_address": "Torenplein 1",
+    "postal_code": "9231CG",
+    "locality": "Surhuisterveen",
+    "region": "Friesland",
+    "latitude": "53.1813932",
+    "longitude": "6.1634822"
+  },
+  {
+    "name": "HAAR = LIES",
+    "street_address": "'t Weike 20",
+    "postal_code": "8401AT",
+    "locality": "Gorredijk",
+    "region": "Friesland",
+    "latitude": "52.9979252",
+    "longitude": "6.0724737"
+  },
+  {
+    "name": "Beauty Sensation",
+    "street_address": "Dovenetel 27",
+    "postal_code": "8446SH",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9543207",
+    "longitude": "5.9153974"
+  },
+  {
+    "name": "Kapsalon Avenue",
+    "street_address": "Hendrik Ringenoldusstr 45",
+    "postal_code": "8401PW",
+    "locality": "Gorredijk",
+    "region": "Friesland",
+    "latitude": "53.0070804",
+    "longitude": "6.0712473"
+  },
+  {
+    "name": "De Knipkeamer",
+    "street_address": "De Seame 15",
+    "postal_code": "8491AA",
+    "locality": "Akkrum",
+    "region": "Friesland",
+    "latitude": "53.0536138",
+    "longitude": "5.8461858"
+  },
+  {
+    "name": "H. Jongedijk-Postma",
+    "street_address": "Flat Oranjewoud 1",
+    "postal_code": "8443EL",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9405617",
+    "longitude": "5.9452045"
+  },
+  {
+    "name": "Kapsalon Grytsje",
+    "street_address": "Kerkstraat 6",
+    "postal_code": "8567JG",
+    "locality": "Oudemirdum",
+    "region": "Friesland",
+    "latitude": "52.849628",
+    "longitude": "5.534267"
+  },
+  {
+    "name": "Nancy's Kapsalon",
+    "street_address": "Tsjerkebuorren 11",
+    "postal_code": "8495KE",
+    "locality": "Aldeboarn",
+    "region": "Friesland",
+    "latitude": "53.04761800000001",
+    "longitude": "5.894621"
+  },
+  {
+    "name": "Beauty",
+    "street_address": "Groningerstraat 13",
+    "postal_code": "9231CH",
+    "locality": "Surhuisterveen",
+    "region": "Friesland",
+    "latitude": "53.1814495",
+    "longitude": "6.166671099999999"
+  },
+  {
+    "name": "Salon Rapunzel",
+    "street_address": "Kruizebroederstraat 29",
+    "postal_code": "8601CK",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.03341349999999",
+    "longitude": "5.658914200000001"
+  },
+  {
+    "name": "Kapsalon Martine",
+    "street_address": "Jousterweg 35 A",
+    "postal_code": "8506BG",
+    "locality": "Haskerhorne",
+    "region": "Friesland",
+    "latitude": "52.953543",
+    "longitude": "5.8328053"
+  },
+  {
+    "name": "Kapsalon Wieke",
+    "street_address": "Greate Buorren 11",
+    "postal_code": "9262SB",
+    "locality": "Sumar",
+    "region": "Friesland",
+    "latitude": "53.1786417",
+    "longitude": "6.002117600000001"
+  },
+  {
+    "name": "Kapsalon Klazien",
+    "street_address": "Voorstraat 6-8",
+    "postal_code": "8715JA",
+    "locality": "Stavoren",
+    "region": "Friesland",
+    "latitude": "52.88440319999999",
+    "longitude": "5.358266899999999"
+  },
+  {
+    "name": "Kapsalon Your Style",
+    "street_address": "Tsjerkestrjitte 27",
+    "postal_code": "9271AL",
+    "locality": "De Westereen",
+    "region": "Friesland",
+    "latitude": "53.2590978",
+    "longitude": "6.033368299999999"
+  },
+  {
+    "name": "Kapsalon Promise",
+    "street_address": "Dijkstraat 25",
+    "postal_code": "8701KC",
+    "locality": "Bolsward",
+    "region": "Friesland",
+    "latitude": "53.0617112",
+    "longitude": "5.5190316"
+  },
+  {
+    "name": "Kapsalon V-Style",
+    "street_address": "Keizersmantel 545",
+    "postal_code": "8607GL",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0176707",
+    "longitude": "5.666311299999999"
+  },
+  {
+    "name": "Kapsalon Marianne",
+    "street_address": "Buorren 33",
+    "postal_code": "9223LC",
+    "locality": "Houtigehage",
+    "region": "Friesland",
+    "latitude": "53.1542921",
+    "longitude": "6.144563799999999"
+  },
+  {
+    "name": "Karin's Haarmode",
+    "street_address": "Markeweg 135",
+    "postal_code": "8398GN",
+    "locality": "Blesdijke",
+    "region": "Friesland",
+    "latitude": "52.824993",
+    "longitude": "6.0019316"
+  },
+  {
+    "name": "Kapsalon Kreatief",
+    "street_address": "Markt 15",
+    "postal_code": "8754CM",
+    "locality": "Makkum",
+    "region": "Friesland",
+    "latitude": "53.0555124",
+    "longitude": "5.4031653"
+  },
+  {
+    "name": "HairClub Leeuwarden",
+    "street_address": "Bij de Put 34",
+    "postal_code": "8911GG",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2038546",
+    "longitude": "5.7987315"
+  },
+  {
+    "name": "Haarmode Creatief",
+    "street_address": "Kanadeeskestrjitte 22",
+    "postal_code": "8491BE",
+    "locality": "Akkrum",
+    "region": "Friesland",
+    "latitude": "53.0492182",
+    "longitude": "5.8398371"
+  },
+  {
+    "name": "058knipperette",
+    "street_address": "Nieuwestad 127",
+    "postal_code": "8911CP",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.20101589999999",
+    "longitude": "5.7958612"
+  },
+  {
+    "name": "Hairstyle 11",
+    "street_address": "Fluessen 11",
+    "postal_code": "9204HR",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1005012",
+    "longitude": "6.068211"
+  },
+  {
+    "name": "Kemkers Kapsalon",
+    "street_address": "Súd 80",
+    "postal_code": "8711CX",
+    "locality": "Workum",
+    "region": "Friesland",
+    "latitude": "52.9772419",
+    "longitude": "5.439759899999999"
+  },
+  {
+    "name": "Kapsalon Francien",
+    "street_address": "Leeuwarderweg 3",
+    "postal_code": "9005NB",
+    "locality": "Wergea",
+    "region": "Friesland",
+    "latitude": "53.1519637",
+    "longitude": "5.8429024"
+  },
+  {
+    "name": "Kapsalon Echt Mooi!",
+    "street_address": "De Trije 5",
+    "postal_code": "9084AP",
+    "locality": "Goutum",
+    "region": "Friesland",
+    "latitude": "53.1792403",
+    "longitude": "5.7994248"
+  },
+  {
+    "name": "Kap- en Schoonheidssalon Zieba",
+    "street_address": "Dracht 119",
+    "postal_code": "8442BN",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9573707",
+    "longitude": "5.926654699999999"
+  },
+  {
+    "name": "Kapsalon Sietske",
+    "street_address": "Tsjerkebuorren 11",
+    "postal_code": "8495KE",
+    "locality": "Aldeboarn",
+    "region": "Friesland",
+    "latitude": "53.04761800000001",
+    "longitude": "5.894621"
+  },
+  {
+    "name": "Kapsalon Trendé",
+    "street_address": "Veenland 3",
+    "postal_code": "9205ET",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.08762669999999",
+    "longitude": "6.0709045"
+  },
+  {
+    "name": "Kapsalon Rowena",
+    "street_address": "Reinder de Vriessingel 35",
+    "postal_code": "9218RS",
+    "locality": "Opeinde",
+    "region": "Friesland",
+    "latitude": "53.1336818",
+    "longitude": "6.0547618"
+  },
+  {
+    "name": "Haarmode Alet",
+    "street_address": "De Petten 12",
+    "postal_code": "8539RM",
+    "locality": "Echtenerbrug",
+    "region": "Friesland",
+    "latitude": "52.87388499999999",
+    "longitude": "5.8161"
+  },
+  {
+    "name": "De Rijdende Schaar",
+    "street_address": "De Acacia 12",
+    "postal_code": "9251NG",
+    "locality": "Burgum",
+    "region": "Friesland",
+    "latitude": "53.19086189999999",
+    "longitude": "6.0076526"
+  },
+  {
+    "name": "Kapsalon Esther",
+    "street_address": "Pinksterbloem 108",
+    "postal_code": "8607DZ",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0209761",
+    "longitude": "5.6707884"
+  },
+  {
+    "name": "Salon Haar en Zo",
+    "street_address": "Plein 5",
+    "postal_code": "8754ER",
+    "locality": "Makkum",
+    "region": "Friesland",
+    "latitude": "53.0553059",
+    "longitude": "5.4020019"
+  },
+  {
+    "name": "PWHoofdstraat",
+    "street_address": "Eems 12",
+    "postal_code": "9204JX",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.0991805",
+    "longitude": "6.0744608"
+  },
+  {
+    "name": "Studio Hair",
+    "street_address": "Gedempte Vaart 40 A",
+    "postal_code": "9231AW",
+    "locality": "Surhuisterveen",
+    "region": "Friesland",
+    "latitude": "53.1803083",
+    "longitude": "6.1597975"
+  },
+  {
+    "name": "Kapsalon Perfect",
+    "street_address": "Dominee van Eijck van Heslingastrji.. 15",
+    "postal_code": "9041CX",
+    "locality": "Jonkersland",
+    "region": "Friesland",
+    "latitude": "53.2417506",
+    "longitude": "5.6516497"
+  },
+  {
+    "name": "Kapsalon De Spieghel",
+    "street_address": "Uilenburg 3",
+    "postal_code": "8651EK",
+    "locality": "IJlst",
+    "region": "Friesland",
+    "latitude": "53.0102992",
+    "longitude": "5.6216415"
+  },
+  {
+    "name": "Tineke De Rijdende Kapster",
+    "street_address": "Pream 25",
+    "postal_code": "9222LX",
+    "locality": "Drachtstercompagnie",
+    "region": "Friesland",
+    "latitude": "53.1340938",
+    "longitude": "6.143880200000001"
+  },
+  {
+    "name": "Kapsalon Helena",
+    "street_address": "Stadhouderlaan 212",
+    "postal_code": "8448PX",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9524517",
+    "longitude": "5.960565799999999"
+  },
+  {
+    "name": "Kapsalon Van Geffen",
+    "street_address": "De Rival 3",
+    "postal_code": "9207CT",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1212639",
+    "longitude": "6.082448299999999"
+  },
+  {
+    "name": "Coiffure Artistique",
+    "street_address": "Esdoornstraat 46",
+    "postal_code": "8924BK",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2044556",
+    "longitude": "5.8244038"
+  },
+  {
+    "name": "Haarboetiek RIAN",
+    "street_address": "Burgemeester Mentzstraat 10-12",
+    "postal_code": "8881AL",
+    "locality": "West-Terschelling",
+    "region": "Friesland",
+    "latitude": "53.3583642",
+    "longitude": "5.2139012"
+  },
+  {
+    "name": "Kapsalon Jolanda",
+    "street_address": "Het Oost 7",
+    "postal_code": "8431LE",
+    "locality": "Oosterwolde",
+    "region": "Friesland",
+    "latitude": "52.9942135",
+    "longitude": "6.2950367"
+  },
+  {
+    "name": "Bruidsboutique Tabita",
+    "street_address": "Wyldekamp 5",
+    "postal_code": "9287LJ",
+    "locality": "Twijzelerheide",
+    "region": "Friesland",
+    "latitude": "53.23980520000001",
+    "longitude": "6.0515332"
+  },
+  {
+    "name": "Aengwirder Haar Totaal",
+    "street_address": "Aengwirderweg 388",
+    "postal_code": "8457CC",
+    "locality": "Gersloot",
+    "region": "Friesland",
+    "latitude": "53.0055982",
+    "longitude": "5.9637519"
+  },
+  {
+    "name": "Kapsalon Anita",
+    "street_address": "De Splitting 47",
+    "postal_code": "8433JM",
+    "locality": "Haulerwijk",
+    "region": "Friesland",
+    "latitude": "53.06371590000001",
+    "longitude": "6.336708499999999"
+  },
+  {
+    "name": "Kapsalon Bertina",
+    "street_address": "Halbertsma's Plein 10",
+    "postal_code": "9001AH",
+    "locality": "Grou",
+    "region": "Friesland",
+    "latitude": "53.0969642",
+    "longitude": "5.839591899999999"
+  },
+  {
+    "name": "Kapsalon Raymond",
+    "street_address": "De Kolken 73",
+    "postal_code": "9201BW",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1142945",
+    "longitude": "6.0871765"
+  },
+  {
+    "name": "Kapsalon IRIS",
+    "street_address": "Quadoelenweg 27 a",
+    "postal_code": "8431LN",
+    "locality": "Oosterwolde",
+    "region": "Friesland",
+    "latitude": "52.9917717",
+    "longitude": "6.290353700000001"
+  },
+  {
+    "name": "A. de Haas",
+    "street_address": "Veldbies 21",
+    "postal_code": "8935PX",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.1915282",
+    "longitude": "5.8333398"
+  },
+  {
+    "name": "Kapsalon Chantel",
+    "street_address": "J. Droststraat 15",
+    "postal_code": "9103NN",
+    "locality": "Dokkum",
+    "region": "Friesland",
+    "latitude": "53.3149028",
+    "longitude": "6.0138588"
+  },
+  {
+    "name": "IT Knip Hûske",
+    "street_address": "Nijkamp 22",
+    "postal_code": "9281NA",
+    "locality": "Harkema",
+    "region": "Friesland",
+    "latitude": "53.18462",
+    "longitude": "6.134533"
+  },
+  {
+    "name": "@ Yours",
+    "street_address": "Langelaan 69",
+    "postal_code": "9231EL",
+    "locality": "Surhuisterveen",
+    "region": "Friesland",
+    "latitude": "53.1809613",
+    "longitude": "6.1740793"
+  },
+  {
+    "name": "Kapsalon Creativo",
+    "street_address": "Olde Meinenbos 7",
+    "postal_code": "8338SH",
+    "locality": "Willemsoord",
+    "region": "Overijssel",
+    "latitude": "52.822004",
+    "longitude": "6.056496"
+  },
+  {
+    "name": "A. Postma",
+    "street_address": "Van Beverwijckstraat 2",
+    "postal_code": "8921VE",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2097263",
+    "longitude": "5.810477199999999"
+  },
+  {
+    "name": "Coupe Tif Hair Health Beauty Sa..",
+    "street_address": "Schans 31",
+    "postal_code": "8441AB",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.969051",
+    "longitude": "5.911555799999999"
+  },
+  {
+    "name": "Kapsalon Jet",
+    "street_address": "Lemsterpoort 10",
+    "postal_code": "8313AD",
+    "locality": "Rutten",
+    "region": "Flevoland",
+    "latitude": "52.80599729999999",
+    "longitude": "5.6981926"
+  },
+  {
+    "name": "Salon Bunita",
+    "street_address": "Commanderij 29",
+    "postal_code": "8604AN",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0412159",
+    "longitude": "5.6769887"
+  },
+  {
+    "name": "Kapsalon Caroline",
+    "street_address": "Langewal 2",
+    "postal_code": "8401DD",
+    "locality": "Gorredijk",
+    "region": "Friesland",
+    "latitude": "53.00273259999999",
+    "longitude": "6.0644436"
+  },
+  {
+    "name": "Jantina's Haarsalon",
+    "street_address": "Hege Hearewei 29",
+    "postal_code": "9051AA",
+    "locality": "Stiens",
+    "region": "Friesland",
+    "latitude": "53.2666332",
+    "longitude": "5.7556116"
+  },
+  {
+    "name": "Kapsalon Karola",
+    "street_address": "Binnenweg 16",
+    "postal_code": "8475EG",
+    "locality": "Nijeholtpade",
+    "region": "Friesland",
+    "latitude": "52.9147075",
+    "longitude": "6.0837284"
+  },
+  {
+    "name": "Kapsalon Anneke Heida",
+    "street_address": "Burgemeester Falkenaweg 92",
+    "postal_code": "8442LH",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9523141",
+    "longitude": "5.931993299999999"
+  },
+  {
+    "name": "Kapsalon Jasmin",
+    "street_address": "Peperstraat 3",
+    "postal_code": "8911HZ",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2009366",
+    "longitude": "5.7972586"
+  },
+  {
+    "name": "Dames- en Herenkapsalon Schokke..",
+    "street_address": "Middenweg 124",
+    "postal_code": "8538RB",
+    "locality": "Bantega",
+    "region": "Friesland",
+    "latitude": "52.84256620000001",
+    "longitude": "5.795756099999999"
+  },
+  {
+    "name": "Kapsalon Karing",
+    "street_address": "Keimpemastins 22",
+    "postal_code": "8925JR",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2079731",
+    "longitude": "5.8496741"
+  },
+  {
+    "name": "Kapsalon Haarfijn",
+    "street_address": "Allemawei 3",
+    "postal_code": "9294KT",
+    "locality": "Oudwoude",
+    "region": "Friesland",
+    "latitude": "53.287502",
+    "longitude": "6.119400499999999"
+  },
+  {
+    "name": "Marcia's Salon",
+    "street_address": "Kastanjelaan 11",
+    "postal_code": "8804NB",
+    "locality": "Tzum",
+    "region": "Friesland",
+    "latitude": "53.1596565",
+    "longitude": "5.561094799999999"
+  },
+  {
+    "name": "Studio S",
+    "street_address": "Drachtsterweg 2",
+    "postal_code": "9001BE",
+    "locality": "Grou",
+    "region": "Friesland",
+    "latitude": "53.0949368",
+    "longitude": "5.8424377"
+  },
+  {
+    "name": "Studio Hair",
+    "street_address": "Schoolstraat 47",
+    "postal_code": "9251EA",
+    "locality": "Burgum",
+    "region": "Friesland",
+    "latitude": "53.1928048",
+    "longitude": "5.993189399999999"
+  },
+  {
+    "name": "Coco Coiffure",
+    "street_address": "De Wetterwille 67",
+    "postal_code": "9207BM",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.12124069999999",
+    "longitude": "6.0900766"
+  },
+  {
+    "name": "Kapsalon Subliem - Keppelstraat..",
+    "street_address": "Keppelstraat 25",
+    "postal_code": "9101MT",
+    "locality": "Dokkum",
+    "region": "Friesland",
+    "latitude": "53.3242583",
+    "longitude": "5.9996024"
+  },
+  {
+    "name": "Timme Hair Creations",
+    "street_address": "Willem Alexanderplein 8",
+    "postal_code": "8931DW",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.1849546",
+    "longitude": "5.7904386"
+  },
+  {
+    "name": "Kapsalon Esther",
+    "street_address": "Kuinder 13",
+    "postal_code": "9204AA",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.0976523",
+    "longitude": "6.0807965"
+  },
+  {
+    "name": "Kapsalon It Boskje",
+    "street_address": "Jousterweg 199",
+    "postal_code": "8465PE",
+    "locality": "Oudehaske",
+    "region": "Friesland",
+    "latitude": "52.957671",
+    "longitude": "5.8756606"
+  },
+  {
+    "name": "Sissy Rozema Kapsalon",
+    "street_address": "Greate Pierwei 1",
+    "postal_code": "8821LV",
+    "locality": "Kimswerd",
+    "region": "Friesland",
+    "latitude": "53.1414886",
+    "longitude": "5.4380019"
+  },
+  {
+    "name": "Kapsalon La Coupe",
+    "street_address": "Keppelstraat 1",
+    "postal_code": "9101MT",
+    "locality": "Dokkum",
+    "region": "Friesland",
+    "latitude": "53.32466549999999",
+    "longitude": "5.999037899999999"
+  },
+  {
+    "name": "Kapsalon Martha",
+    "street_address": "Schoterlandseweg 4",
+    "postal_code": "8451CP",
+    "locality": "Oudeschoot",
+    "region": "Friesland",
+    "latitude": "52.9334548",
+    "longitude": "5.9563278"
+  },
+  {
+    "name": "De Haarkunstenaars",
+    "street_address": "Nieuwe Oosterstraat 7",
+    "postal_code": "8911KM",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.20076299999999",
+    "longitude": "5.8014706"
+  },
+  {
+    "name": "Haarstudio Manda",
+    "street_address": "Pieter Stuyvesantweg 34",
+    "postal_code": "8478HE",
+    "locality": "Sonnega",
+    "region": "Friesland",
+    "latitude": "52.8679826",
+    "longitude": "5.973993399999999"
+  },
+  {
+    "name": "Hair-Stylist ¨'t Schaartje¨",
+    "street_address": "Kruisstraat 78",
+    "postal_code": "8375BH",
+    "locality": "Oldemarkt",
+    "region": "Overijssel",
+    "latitude": "52.820947",
+    "longitude": "5.9682591"
+  },
+  {
+    "name": "Hairstudio S'he Cares",
+    "street_address": "Marktstraat 16 a",
+    "postal_code": "8601CV",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.03228240000001",
+    "longitude": "5.6592087"
+  },
+  {
+    "name": "Knip Inn Wyb Feddema",
+    "street_address": "Kelders 33",
+    "postal_code": "8911JD",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2020829",
+    "longitude": "5.7988566"
+  },
+  {
+    "name": "Kapsalon Kapart",
+    "street_address": "Gaastweg 8",
+    "postal_code": "8521JC",
+    "locality": "Sint Nicolaasga",
+    "region": "Friesland",
+    "latitude": "52.9226196",
+    "longitude": "5.740554299999999"
+  },
+  {
+    "name": "Haarstudio IJpma",
+    "street_address": "Skilwyk 2",
+    "postal_code": "8701KN",
+    "locality": "Bolsward",
+    "region": "Friesland",
+    "latitude": "53.06197299999999",
+    "longitude": "5.519517599999999"
+  },
+  {
+    "name": "Studio Marjan",
+    "street_address": "Holdingastate 4",
+    "postal_code": "8926ME",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2154658",
+    "longitude": "5.8500387"
+  },
+  {
+    "name": "Handelsonderneming Kees Klaren",
+    "street_address": "Schoterlandseweg 82",
+    "postal_code": "8454KG",
+    "locality": "Mildam",
+    "region": "Friesland",
+    "latitude": "52.9363459",
+    "longitude": "6.0039028"
+  },
+  {
+    "name": "Artistique Kapsalon",
+    "street_address": "Kerkewal 23",
+    "postal_code": "8401CG",
+    "locality": "Gorredijk",
+    "region": "Friesland",
+    "latitude": "53.0039074",
+    "longitude": "6.061901499999999"
+  },
+  {
+    "name": "Sieta's Rijdende Thuiskapsalon",
+    "street_address": "Meyerweg 103",
+    "postal_code": "8456GC",
+    "locality": "De Knipe",
+    "region": "Friesland",
+    "latitude": "52.9687005",
+    "longitude": "5.967371600000001"
+  },
+  {
+    "name": "Kapsalon 't Steegje",
+    "street_address": "Buorren 37",
+    "postal_code": "9041AX",
+    "locality": "Berlikum",
+    "region": "Friesland",
+    "latitude": "53.2438788",
+    "longitude": "5.646891"
+  },
+  {
+    "name": "Haar en Beauty Studio Dynamic",
+    "street_address": "Vaart Zuidzijde 51 B",
+    "postal_code": "8426AE",
+    "locality": "Appelscha",
+    "region": "Friesland",
+    "latitude": "52.9548984",
+    "longitude": "6.354365899999999"
+  },
+  {
+    "name": "Haarstudio Camila",
+    "street_address": "Klein Schavernek 10",
+    "postal_code": "8911BV",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2014422",
+    "longitude": "5.7893855"
+  },
+  {
+    "name": "Kappersbedrijf A. van Dijk",
+    "street_address": "Gelderingen 16",
+    "postal_code": "8341PX",
+    "locality": "Steenwijkerwold",
+    "region": "Overijssel",
+    "latitude": "52.80402369999999",
+    "longitude": "6.0622583"
+  },
+  {
+    "name": "Net Salon",
+    "street_address": "Anjelierstraat 1",
+    "postal_code": "9101KE",
+    "locality": "Dokkum",
+    "region": "Friesland",
+    "latitude": "53.3272224",
+    "longitude": "5.9987543"
+  },
+  {
+    "name": "Kapsalon Sjiek",
+    "street_address": "Voorstraat 58",
+    "postal_code": "9291CL",
+    "locality": "Kollum",
+    "region": "Friesland",
+    "latitude": "53.2797984",
+    "longitude": "6.1495368"
+  },
+  {
+    "name": "Haarstudio Bergsma",
+    "street_address": "Buorren 66",
+    "postal_code": "9221TC",
+    "locality": "Rottevalle",
+    "region": "Friesland",
+    "latitude": "53.1483899",
+    "longitude": "6.1108449"
+  },
+  {
+    "name": "Jordankappers",
+    "street_address": "Wagnerstraat 9",
+    "postal_code": "8915CH",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2063441",
+    "longitude": "5.7757447"
+  },
+  {
+    "name": "Dameskapsalon Chantal",
+    "street_address": "Fostaland 22",
+    "postal_code": "9163JZ",
+    "locality": "Nes",
+    "region": "Friesland",
+    "latitude": "53.4436504",
+    "longitude": "5.772886499999999"
+  },
+  {
+    "name": "Kapsalon Kreatief",
+    "street_address": "Provincialeweg 64",
+    "postal_code": "9865AJ",
+    "locality": "Opende",
+    "region": "Groningen",
+    "latitude": "53.1739423",
+    "longitude": "6.198479300000001"
+  },
+  {
+    "name": "Kapsalon Bosma",
+    "street_address": "Vaart Zuidzijde 84",
+    "postal_code": "8426AH",
+    "locality": "Appelscha",
+    "region": "Friesland",
+    "latitude": "52.9523456",
+    "longitude": "6.3610648"
+  },
+  {
+    "name": "Pietrix' Kapmobiel",
+    "street_address": "Burgemeester Hesselinkstraat 11",
+    "postal_code": "9076EC",
+    "locality": "St.-Annaparochie",
+    "region": "Friesland",
+    "latitude": "53.2719988",
+    "longitude": "5.653070899999999"
+  },
+  {
+    "name": "Kapsalon TopHair",
+    "street_address": "Topweer 7",
+    "postal_code": "9865VD",
+    "locality": "Opende",
+    "region": "Groningen",
+    "latitude": "53.1734142",
+    "longitude": "6.1915001"
+  },
+  {
+    "name": "Kapsalon Mettien",
+    "street_address": "Elisabethlaan 6",
+    "postal_code": "8453VA",
+    "locality": "Oranjewoud",
+    "region": "Friesland",
+    "latitude": "52.9490467",
+    "longitude": "5.9467415"
+  },
+  {
+    "name": "Tjitske's Haarstijl",
+    "street_address": "Stationsweg 126",
+    "postal_code": "9201GS",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.11468869999999",
+    "longitude": "6.097181"
+  },
+  {
+    "name": "Kapsalon La Vie",
+    "street_address": "Zaailand 171",
+    "postal_code": "8911BL",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.1995061",
+    "longitude": "5.795936699999999"
+  },
+  {
+    "name": "Kapsalon Alphonso",
+    "street_address": "Grootzand 62-64",
+    "postal_code": "8601AZ",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.030216",
+    "longitude": "5.6606687"
+  },
+  {
+    "name": "Kapsalon Duet",
+    "street_address": "Zevenblad 2",
+    "postal_code": "8935RK",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.1893176",
+    "longitude": "5.8285296"
+  },
+  {
+    "name": "Pand 47",
+    "street_address": "Burgemeester Wuiteweg 47",
+    "postal_code": "9203KA",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.10202109999999",
+    "longitude": "6.0989178"
+  },
+  {
+    "name": "Kapsalon Scissors",
+    "street_address": "Zuidvliet 30",
+    "postal_code": "8921BL",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2024298",
+    "longitude": "5.8053775"
+  },
+  {
+    "name": "Kapsalon Wink",
+    "street_address": "Brouwersstraat 11",
+    "postal_code": "8861CW",
+    "locality": "Harlingen",
+    "region": "Friesland",
+    "latitude": "53.1727561",
+    "longitude": "5.419387899999999"
+  },
+  {
+    "name": "Kapsalon Bonbini",
+    "street_address": "Hoogstraat 8",
+    "postal_code": "8723AT",
+    "locality": "Koudum",
+    "region": "Friesland",
+    "latitude": "52.9153209",
+    "longitude": "5.4508645"
+  },
+  {
+    "name": "Haarstijl F.",
+    "street_address": "Nijewei 25",
+    "postal_code": "9212PB",
+    "locality": "Boornbergum",
+    "region": "Friesland",
+    "latitude": "53.0851063",
+    "longitude": "6.0443729"
+  },
+  {
+    "name": "Kapsalon Gerie",
+    "street_address": "Master Keulenstrjitte 39",
+    "postal_code": "8603EL",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0463649",
+    "longitude": "5.6673124"
+  },
+  {
+    "name": "Kapsalon Marianne",
+    "street_address": "Korenmolen 115",
+    "postal_code": "9203VB",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1044497",
+    "longitude": "6.0832115"
+  },
+  {
+    "name": "De Stationskapper",
+    "street_address": "Stationsplein 1",
+    "postal_code": "8911AC",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.196529",
+    "longitude": "5.7932805"
+  },
+  {
+    "name": "10 voor Haar",
+    "street_address": "Barkentijn 44",
+    "postal_code": "8531CZ",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.8427588",
+    "longitude": "5.7224832"
+  },
+  {
+    "name": "Salon Drachten",
+    "street_address": "Noordkade 45 a",
+    "postal_code": "9203CE",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1070944",
+    "longitude": "6.1030396"
+  },
+  {
+    "name": "Kapsalon Jantine Westra",
+    "street_address": "Great Sminia 13",
+    "postal_code": "9172PZ",
+    "locality": "Ferwert",
+    "region": "Friesland",
+    "latitude": "53.3381641",
+    "longitude": "5.8305946"
+  },
+  {
+    "name": "Herenkapsalon Klaas",
+    "street_address": "Hoofdstraat West 13",
+    "postal_code": "8391AK",
+    "locality": "Noordwolde",
+    "region": "Friesland",
+    "latitude": "52.8904209",
+    "longitude": "6.1392535"
+  },
+  {
+    "name": "Knipsalon Herman Radersma",
+    "street_address": "Van Knobelsdorffplein 30",
+    "postal_code": "9203DJ",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1035762",
+    "longitude": "6.0985871"
+  },
+  {
+    "name": "Salon 'Anneke'",
+    "street_address": "Hoge Dijk 126",
+    "postal_code": "8464NZ",
+    "locality": "Sintjohannesga",
+    "region": "Friesland",
+    "latitude": "52.925155",
+    "longitude": "5.8653036"
+  },
+  {
+    "name": "Kapsalon Phiro",
+    "street_address": "Noord 18-20",
+    "postal_code": "8801KP",
+    "locality": "Franeker",
+    "region": "Friesland",
+    "latitude": "53.1874408",
+    "longitude": "5.5429247"
+  },
+  {
+    "name": "Christy's Hair & Care",
+    "street_address": "Nieuwe Oosterstraat 8",
+    "postal_code": "8911KN",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.200694",
+    "longitude": "5.800646899999999"
+  },
+  {
+    "name": "Kappersteam Marcel",
+    "street_address": "Jister 3",
+    "postal_code": "8446CD",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9529766",
+    "longitude": "5.914971100000001"
+  },
+  {
+    "name": "Heren Kapsalon Bloemhof",
+    "street_address": "Legeweg 35",
+    "postal_code": "9101MB",
+    "locality": "Dokkum",
+    "region": "Friesland",
+    "latitude": "53.3263164",
+    "longitude": "5.9959696"
+  },
+  {
+    "name": "Kapsalon Neatocht",
+    "street_address": "De Tolve 14",
+    "postal_code": "9044NR",
+    "locality": "Bitgum",
+    "region": "Friesland",
+    "latitude": "53.2345619",
+    "longitude": "5.6886936"
+  },
+  {
+    "name": "Kapsalon Friends",
+    "street_address": "Grootzand 49",
+    "postal_code": "8601AS",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.03092969999999",
+    "longitude": "5.6605086"
+  },
+  {
+    "name": "Your coupe hairstyle Foarwei",
+    "street_address": "Foarwei 78",
+    "postal_code": "9298JN",
+    "locality": "Kollumerzwaag",
+    "region": "Friesland",
+    "latitude": "53.2630202",
+    "longitude": "6.080859299999999"
+  },
+  {
+    "name": "Kapsalon Sjoeke",
+    "street_address": "Kleasterdyk 16",
+    "postal_code": "8831XB",
+    "locality": "Winsum",
+    "region": "Friesland",
+    "latitude": "53.1541207",
+    "longitude": "5.630058699999999"
+  },
+  {
+    "name": "Zwart Kappers",
+    "street_address": "Kruizebroederstraat 81",
+    "postal_code": "8601CL",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0332677",
+    "longitude": "5.6609102"
+  },
+  {
+    "name": "S. Steenhuis",
+    "street_address": "Slotemaker de Bruineweg 1",
+    "postal_code": "8433MB",
+    "locality": "Haulerwijk",
+    "region": "Friesland",
+    "latitude": "53.0651228",
+    "longitude": "6.331532699999999"
+  },
+  {
+    "name": "Kapsalon Nelly",
+    "street_address": "Foarwei 2",
+    "postal_code": "9294KD",
+    "locality": "Oudwoude",
+    "region": "Friesland",
+    "latitude": "53.2778673",
+    "longitude": "6.1277263"
+  },
+  {
+    "name": "Kapsalon de Skjirre",
+    "street_address": "Boelenswei 24",
+    "postal_code": "9233KC",
+    "locality": "Boelenslaan",
+    "region": "Friesland",
+    "latitude": "53.16391609999999",
+    "longitude": "6.144567599999999"
+  },
+  {
+    "name": "Kapsalon Ingermo-de",
+    "street_address": "Schrans 82",
+    "postal_code": "8932NH",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.1943121",
+    "longitude": "5.7983316"
+  },
+  {
+    "name": "Hairstyle Marjan",
+    "street_address": "Oostergoplein 1 a",
+    "postal_code": "8931AJ",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.1860636",
+    "longitude": "5.795642099999999"
+  },
+  {
+    "name": "Salon Silhouette",
+    "street_address": "Lollius Ademalaan 46",
+    "postal_code": "8453WN",
+    "locality": "Oranjewoud",
+    "region": "Friesland",
+    "latitude": "52.9442473",
+    "longitude": "5.9506966"
+  },
+  {
+    "name": "De Drachtster Thuiskapper",
+    "street_address": "De Ee 17",
+    "postal_code": "9201BE",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.11304459999999",
+    "longitude": "6.0840595"
+  },
+  {
+    "name": "Kapsalon Metzstyle",
+    "street_address": "Terp 60",
+    "postal_code": "8731BA",
+    "locality": "Wommels",
+    "region": "Friesland",
+    "latitude": "53.10847219999999",
+    "longitude": "5.5865429"
+  },
+  {
+    "name": "Kapsalon Anneke",
+    "street_address": "Jeltewei 232",
+    "postal_code": "8622DC",
+    "locality": "Hommerts",
+    "region": "Friesland",
+    "latitude": "52.9703507",
+    "longitude": "5.6498573"
+  },
+  {
+    "name": "Emma's Kapsalon",
+    "street_address": "Kerkplein 11",
+    "postal_code": "8899AW",
+    "locality": "Oost-Vlieland",
+    "region": "Friesland",
+    "latitude": "53.2952591",
+    "longitude": "5.0647664"
+  },
+  {
+    "name": "Josien' Knipperij",
+    "street_address": "Veerhuisweg 25",
+    "postal_code": "8435SC",
+    "locality": "Donkerbroek",
+    "region": "Friesland",
+    "latitude": "53.0198097",
+    "longitude": "6.237270700000001"
+  },
+  {
+    "name": "Thea's Kapsalon",
+    "street_address": "Kruisstraat 80",
+    "postal_code": "8375BH",
+    "locality": "Oldemarkt",
+    "region": "Overijssel",
+    "latitude": "52.8208312",
+    "longitude": "5.9680499"
+  },
+  {
+    "name": "Johanna's Hierboetiek",
+    "street_address": "Sankop 3",
+    "postal_code": "9289JV",
+    "locality": "Drogeham",
+    "region": "Friesland",
+    "latitude": "53.1993503",
+    "longitude": "6.1121911"
+  },
+  {
+    "name": "Hairreset Instituut Jantien",
+    "street_address": "De Singel 16",
+    "postal_code": "9281LK",
+    "locality": "Harkema",
+    "region": "Friesland",
+    "latitude": "53.1886669",
+    "longitude": "6.132089199999999"
+  },
+  {
+    "name": "Haarstudio Simone",
+    "street_address": "Dokter Westrastrjitte 1",
+    "postal_code": "8561GK",
+    "locality": "Balk",
+    "region": "Friesland",
+    "latitude": "52.893248",
+    "longitude": "5.589748999999999"
+  },
+  {
+    "name": "Kapsalon Offenga",
+    "street_address": "Zilverstraat 50",
+    "postal_code": "8801KC",
+    "locality": "Franeker",
+    "region": "Friesland",
+    "latitude": "53.1868871",
+    "longitude": "5.5472012"
+  },
+  {
+    "name": "Leo Hairfashion",
+    "street_address": "Markt 10",
+    "postal_code": "9203AA",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1077457",
+    "longitude": "6.0958161"
+  },
+  {
+    "name": "Kapsalon Suk-6",
+    "street_address": "Tijnjedyk 76",
+    "postal_code": "8936AD",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.1919173",
+    "longitude": "5.8174525"
+  },
+  {
+    "name": "Kapsalon Wassenaar",
+    "street_address": "Tuinen 41",
+    "postal_code": "8911KC",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.20305279999999",
+    "longitude": "5.8027758"
+  },
+  {
+    "name": "Jouw Stijl Haarmode",
+    "street_address": "Domela Nieuwenhuisweg 15",
+    "postal_code": "9245VA",
+    "locality": "Nij Beets",
+    "region": "Friesland",
+    "latitude": "53.067266",
+    "longitude": "6.0095806"
+  },
+  {
+    "name": "Yourstyle@ureterp",
+    "street_address": "Weibuorren 114 A",
+    "postal_code": "9247BD",
+    "locality": "Ureterp",
+    "region": "Friesland",
+    "latitude": "53.0946884",
+    "longitude": "6.174962499999999"
+  },
+  {
+    "name": "EsraVDMhair",
+    "street_address": "Tjalling H. Haismastraat 20",
+    "postal_code": "9251AV",
+    "locality": "Burgum",
+    "region": "Friesland",
+    "latitude": "53.19629949999999",
+    "longitude": "5.996133299999999"
+  },
+  {
+    "name": "Dolores Bosma Hair & Beauty",
+    "street_address": "Molenkrite 142",
+    "postal_code": "8608XK",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.02118489999999",
+    "longitude": "5.6501942"
+  },
+  {
+    "name": "Kapsalon Medousa",
+    "street_address": "Minckelersstraat 4",
+    "postal_code": "8442CE",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9589188",
+    "longitude": "5.9247171"
+  },
+  {
+    "name": "Kapsalon Trijnie",
+    "street_address": "Jetze Veldstraweg 35",
+    "postal_code": "8513CK",
+    "locality": "Ouwsterhaule",
+    "region": "Friesland",
+    "latitude": "52.9384451",
+    "longitude": "5.8135317"
+  },
+  {
+    "name": "Janette Brak",
+    "street_address": "Oldeberkoperweg 11",
+    "postal_code": "8389TE",
+    "locality": "Zandhuizen",
+    "region": "Friesland",
+    "latitude": "52.9009003",
+    "longitude": "6.1448142"
+  },
+  {
+    "name": "Trendy Hairstyle",
+    "street_address": "Rijdstraat 8 a",
+    "postal_code": "9291MB",
+    "locality": "Kollum",
+    "region": "Friesland",
+    "latitude": "53.285971",
+    "longitude": "6.154567"
+  },
+  {
+    "name": "Kapsalon Heechterp",
+    "street_address": "Egelantierstraat 1",
+    "postal_code": "8924EJ",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2086732",
+    "longitude": "5.821018899999999"
+  },
+  {
+    "name": "Herenkapsalon Lammert",
+    "street_address": "Weibuorren 45",
+    "postal_code": "9247AZ",
+    "locality": "Ureterp",
+    "region": "Friesland",
+    "latitude": "53.0956312",
+    "longitude": "6.169836600000001"
+  },
+  {
+    "name": "Haarsalon Boonstra",
+    "street_address": "Grote Bredeplaats 3",
+    "postal_code": "8861BA",
+    "locality": "Harlingen",
+    "region": "Friesland",
+    "latitude": "53.1751355",
+    "longitude": "5.4143707"
+  },
+  {
+    "name": "Kapsalon Bruin",
+    "street_address": "De Veenscheiding 22",
+    "postal_code": "8539SH",
+    "locality": "Echtenerbrug",
+    "region": "Friesland",
+    "latitude": "52.873577",
+    "longitude": "5.8192754"
+  },
+  {
+    "name": "Kapsalon Fledderus",
+    "street_address": "Hoofdstraat West 51",
+    "postal_code": "8471HR",
+    "locality": "Wolvega",
+    "region": "Friesland",
+    "latitude": "52.8733338",
+    "longitude": "5.994032"
+  },
+  {
+    "name": "Eye 4 Your Hair",
+    "street_address": "Singel 8",
+    "postal_code": "8601AJ",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.032051",
+    "longitude": "5.662656200000001"
+  },
+  {
+    "name": "Capaldi Kappers",
+    "street_address": "Kleine Kerkstraat 35",
+    "postal_code": "8911DL",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2024351",
+    "longitude": "5.7914511"
+  },
+  {
+    "name": "Kapsalon Wilma",
+    "street_address": "Hottingawei 4",
+    "postal_code": "8771ST",
+    "locality": "Nijland",
+    "region": "Friesland",
+    "latitude": "53.0505833",
+    "longitude": "5.5762855"
+  },
+  {
+    "name": "Kapsalon Imago",
+    "street_address": "Oosteinde 12",
+    "postal_code": "9079LC",
+    "locality": "St.-Jacobiparochie",
+    "region": "Friesland",
+    "latitude": "53.2725193",
+    "longitude": "5.6042686"
+  },
+  {
+    "name": "Kapsalon J. Aarts",
+    "street_address": "Hoofdstraat West 5",
+    "postal_code": "8391AK",
+    "locality": "Noordwolde",
+    "region": "Friesland",
+    "latitude": "52.89067009999999",
+    "longitude": "6.139798"
+  },
+  {
+    "name": "Neris Hairstudio",
+    "street_address": "Dracht 140",
+    "postal_code": "8442BZ",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.95723899999999",
+    "longitude": "5.9259685"
+  },
+  {
+    "name": "Offenga Herenkapper",
+    "street_address": "Halbertsmaplein 12",
+    "postal_code": "9001AH",
+    "locality": "Grou",
+    "region": "Friesland",
+    "latitude": "53.096676",
+    "longitude": "5.839688"
+  },
+  {
+    "name": "De Kapperschuur",
+    "street_address": "Hoofdstraat 74",
+    "postal_code": "9342TA",
+    "locality": "Een",
+    "region": "Drenthe",
+    "latitude": "53.08834479999999",
+    "longitude": "6.3878486"
+  },
+  {
+    "name": "Kapper Coby",
+    "street_address": "Van Sminiaweg 58",
+    "postal_code": "9064KD",
+    "locality": "Aldtsjerk",
+    "region": "Friesland",
+    "latitude": "53.26488089999999",
+    "longitude": "5.8894595"
+  },
+  {
+    "name": "Haarstudio Annemarie",
+    "street_address": "Langestreek 9",
+    "postal_code": "9166LA",
+    "locality": "Schiermonnikoog",
+    "region": "Friesland",
+    "latitude": "53.47977900000001",
+    "longitude": "6.1639971"
+  },
+  {
+    "name": "Kapsalon De Molen",
+    "street_address": "Molenreed 4",
+    "postal_code": "9881PJ",
+    "locality": "Kommerzijl",
+    "region": "Groningen",
+    "latitude": "53.2860378",
+    "longitude": "6.3248937"
+  },
+  {
+    "name": "Kapsalon Your Choice",
+    "street_address": "Voorstraat 45",
+    "postal_code": "9291CD",
+    "locality": "Kollum",
+    "region": "Friesland",
+    "latitude": "53.28015",
+    "longitude": "6.150010399999999"
+  },
+  {
+    "name": "Animé Hair & Beauty Style",
+    "street_address": "Canterlandseweg 2 c",
+    "postal_code": "9061CB",
+    "locality": "Gytsjerk",
+    "region": "Friesland",
+    "latitude": "53.2425499",
+    "longitude": "5.892045899999999"
+  },
+  {
+    "name": "Kapsalon BA-Bé",
+    "street_address": "Haadstrjitte 21 a",
+    "postal_code": "9269SX",
+    "locality": "Feanwâlden",
+    "region": "Friesland",
+    "latitude": "53.24045599999999",
+    "longitude": "5.9930666"
+  },
+  {
+    "name": "Egbert Bonnema-Herensalon",
+    "street_address": "Burgemeester Drijberweg 26",
+    "postal_code": "9254BJ",
+    "locality": "Hurdegaryp",
+    "region": "Friesland",
+    "latitude": "53.2159692",
+    "longitude": "5.9411665"
+  },
+  {
+    "name": "Salon 21",
+    "street_address": "Iikmounewei 21",
+    "postal_code": "9251EV",
+    "locality": "Burgum",
+    "region": "Friesland",
+    "latitude": "53.19142249999999",
+    "longitude": "5.9962548"
+  },
+  {
+    "name": "Hairstudio P.W.",
+    "street_address": "Stationsstraat 21",
+    "postal_code": "8431ET",
+    "locality": "Oosterwolde",
+    "region": "Friesland",
+    "latitude": "52.9895497",
+    "longitude": "6.291171500000001"
+  },
+  {
+    "name": "Annine haar stijl",
+    "street_address": "Greate Pierwei 6",
+    "postal_code": "8821LW",
+    "locality": "Kimswerd",
+    "region": "Friesland",
+    "latitude": "53.1409132",
+    "longitude": "5.4387036"
+  },
+  {
+    "name": "Knipsalon Bauke Postma",
+    "street_address": "De Dellen 16 K-1",
+    "postal_code": "9231EB",
+    "locality": "Surhuisterveen",
+    "region": "Friesland",
+    "latitude": "53.1828479",
+    "longitude": "6.1698394"
+  },
+  {
+    "name": "Kapsalon Bleeker",
+    "street_address": "Jongemastraat 39",
+    "postal_code": "8701JB",
+    "locality": "Bolsward",
+    "region": "Friesland",
+    "latitude": "53.0620385",
+    "longitude": "5.524454"
+  },
+  {
+    "name": "Kapsalon Henny Blanken",
+    "street_address": "Rengersweg 86 A",
+    "postal_code": "9062EH",
+    "locality": "Oentsjerk",
+    "region": "Friesland",
+    "latitude": "53.2543924",
+    "longitude": "5.8964246"
+  },
+  {
+    "name": "Kapsalon FF Anders",
+    "street_address": "Bercoperweg 22",
+    "postal_code": "8423TS",
+    "locality": "Makkinga",
+    "region": "Friesland",
+    "latitude": "52.9798477",
+    "longitude": "6.2140076"
+  },
+  {
+    "name": "Bianca Steltenpool",
+    "street_address": "Admiraal Stellingwerffstraat 26",
+    "postal_code": "1671EP",
+    "locality": "Medemblik",
+    "region": "Noord-Holland",
+    "latitude": "53.1721715",
+    "longitude": "5.427254899999999"
+  },
+  {
+    "name": "Hilde Hairstyle",
+    "street_address": "Kruisweg 2 b",
+    "postal_code": "8434NE",
+    "locality": "Waskemeer",
+    "region": "Friesland",
+    "latitude": "53.05641689999999",
+    "longitude": "6.2809436"
+  },
+  {
+    "name": "Kapsalon Siebenga",
+    "street_address": "Meyerweg 67",
+    "postal_code": "8456GB",
+    "locality": "De Knipe",
+    "region": "Friesland",
+    "latitude": "52.9686148",
+    "longitude": "5.9646614"
+  },
+  {
+    "name": "Kapsalon le Salon",
+    "street_address": "Elias Annes Borgerstraat 7",
+    "postal_code": "8501NC",
+    "locality": "Joure",
+    "region": "Friesland",
+    "latitude": "52.9655525",
+    "longitude": "5.801835899999999"
+  },
+  {
+    "name": "Wini",
+    "street_address": "Koolwitje 17",
+    "postal_code": "8607GV",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0167182",
+    "longitude": "5.6663052"
+  },
+  {
+    "name": "Eye 4 Your hair Kappers",
+    "street_address": "Tuinen 30",
+    "postal_code": "8911KE",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2029621",
+    "longitude": "5.80218"
+  },
+  {
+    "name": "Kapsalon De Waag",
+    "street_address": "Stevenshoek 1",
+    "postal_code": "8525EK",
+    "locality": "Langweer",
+    "region": "Friesland",
+    "latitude": "52.9589386",
+    "longitude": "5.723090699999999"
+  },
+  {
+    "name": "Reny's Knipboetiekje",
+    "street_address": "Gytsjerksterhoeke 37 a",
+    "postal_code": "9061AX",
+    "locality": "Gytsjerk",
+    "region": "Friesland",
+    "latitude": "53.23856019999999",
+    "longitude": "5.8812602"
+  },
+  {
+    "name": "Marjan Jorritsma",
+    "street_address": "Zuider Es 2",
+    "postal_code": "8426KA",
+    "locality": "Appelscha",
+    "region": "Friesland",
+    "latitude": "52.9506148",
+    "longitude": "6.359508399999999"
+  },
+  {
+    "name": "Fora Hairstudio",
+    "street_address": "Sportlaan 1",
+    "postal_code": "8471NP",
+    "locality": "Wolvega",
+    "region": "Friesland",
+    "latitude": "52.8740701",
+    "longitude": "5.9986707"
+  },
+  {
+    "name": "g-style Hair",
+    "street_address": "Tsjerkestrjitte 39",
+    "postal_code": "9271AL",
+    "locality": "De Westereen",
+    "region": "Friesland",
+    "latitude": "53.2599406",
+    "longitude": "6.033725599999999"
+  },
+  {
+    "name": "K&F Hairstyle",
+    "street_address": "Stipeplein 1",
+    "postal_code": "8431WE",
+    "locality": "Oosterwolde",
+    "region": "Gelderland",
+    "latitude": "52.9905452",
+    "longitude": "6.290836499999999"
+  },
+  {
+    "name": "Kapsalon Gewoan Geertje",
+    "street_address": "Foarwei 48",
+    "postal_code": "9113PE",
+    "locality": "Walterswald",
+    "region": "Friesland",
+    "latitude": "53.2919273",
+    "longitude": "6.025716999999999"
+  },
+  {
+    "name": "Kapsalon Subliem - Grote Breeds..",
+    "street_address": "Grote Breedstraat 5",
+    "postal_code": "9101KH",
+    "locality": "Dokkum",
+    "region": "Friesland",
+    "latitude": "53.3261192",
+    "longitude": "5.9994187"
+  },
+  {
+    "name": "Dora's Haarmode",
+    "street_address": "Noordvliet 293",
+    "postal_code": "8921HG",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.20286489999999",
+    "longitude": "5.8100345"
+  },
+  {
+    "name": "Jeanine's Hairfashion",
+    "street_address": "Kerkstraat 6",
+    "postal_code": "8433LH",
+    "locality": "Haulerwijk",
+    "region": "Friesland",
+    "latitude": "53.0652925",
+    "longitude": "6.3297963"
+  },
+  {
+    "name": "Firma Kapsalon Antoine",
+    "street_address": "Stationsweg 97",
+    "postal_code": "9201GJ",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1129895",
+    "longitude": "6.096514099999999"
+  },
+  {
+    "name": "Kapsalon Kienstra",
+    "street_address": "Hoge Miedeweg 10",
+    "postal_code": "9163JS",
+    "locality": "Nes",
+    "region": "Friesland",
+    "latitude": "53.4455944",
+    "longitude": "5.780218199999999"
+  },
+  {
+    "name": "Knipsalon De Spiegel",
+    "street_address": "Prins Hendrikstraat 5",
+    "postal_code": "8911BJ",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.1991871",
+    "longitude": "5.7924434"
+  },
+  {
+    "name": "Kinderknipsalon Pieko",
+    "street_address": "Kerkstraat 11",
+    "postal_code": "9073HZ",
+    "locality": "Marrum",
+    "region": "Friesland",
+    "latitude": "53.32155969999999",
+    "longitude": "5.8028116"
+  },
+  {
+    "name": "Kapsalon Roelina",
+    "street_address": "Louwewei 2",
+    "postal_code": "8623XG",
+    "locality": "Jutrijp",
+    "region": "Friesland",
+    "latitude": "52.9967251",
+    "longitude": "5.6458163"
+  },
+  {
+    "name": "Haarpunt",
+    "street_address": "Keizersmantel 445",
+    "postal_code": "8607GK",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.01826029999999",
+    "longitude": "5.663960599999999"
+  },
+  {
+    "name": "Kapsalon Bea",
+    "street_address": "Tsjerkebuorren 11",
+    "postal_code": "8495KE",
+    "locality": "Aldeboarn",
+    "region": "Friesland",
+    "latitude": "53.04761800000001",
+    "longitude": "5.894621"
+  },
+  {
+    "name": "Karin Veldhuijzen Haarmode",
+    "street_address": "K.R. Poststraat 36",
+    "postal_code": "8441ER",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9629655",
+    "longitude": "5.9255036"
+  },
+  {
+    "name": "Dick & Ko",
+    "street_address": "Hoofdstraat West 21",
+    "postal_code": "8471HP",
+    "locality": "Wolvega",
+    "region": "Friesland",
+    "latitude": "52.8741014",
+    "longitude": "5.9957458"
+  },
+  {
+    "name": "Hairstyling La Coupe",
+    "street_address": "Fuormanderij 7 a",
+    "postal_code": "9254GS",
+    "locality": "Hurdegaryp",
+    "region": "Friesland",
+    "latitude": "53.2142887",
+    "longitude": "5.9423786"
+  },
+  {
+    "name": "Kapsalon Elly Hielkema",
+    "street_address": "Castor 38",
+    "postal_code": "8531NB",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.8527552",
+    "longitude": "5.6968403"
+  },
+  {
+    "name": "Haarmode Cats",
+    "street_address": "Sint Jacobstraat 5",
+    "postal_code": "8861AX",
+    "locality": "Harlingen",
+    "region": "Friesland",
+    "latitude": "53.1752013",
+    "longitude": "5.420032"
+  },
+  {
+    "name": "Kapsalon de Passage",
+    "street_address": "Van Swinderenstraat 26 a",
+    "postal_code": "8561AR",
+    "locality": "Balk",
+    "region": "Friesland",
+    "latitude": "52.8983281",
+    "longitude": "5.5807667"
+  },
+  {
+    "name": "Kapsalon Cobie",
+    "street_address": "De Splitting 55",
+    "postal_code": "8472AN",
+    "locality": "Wolvega",
+    "region": "Friesland",
+    "latitude": "52.8825187",
+    "longitude": "6.005040999999999"
+  },
+  {
+    "name": "Kapsalon Kingma",
+    "street_address": "Pieter Sipmawei 7",
+    "postal_code": "8915DZ",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2080808",
+    "longitude": "5.7679095"
+  },
+  {
+    "name": "Kapsalon Jan de Vos",
+    "street_address": "Herenwal 14",
+    "postal_code": "8441AZ",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9602415",
+    "longitude": "5.9198719"
+  },
+  {
+    "name": "Corrie's Hairstyling",
+    "street_address": "Kalverkamp 18",
+    "postal_code": "8414LD",
+    "locality": "Nieuwehorne",
+    "region": "Friesland",
+    "latitude": "52.95057509999999",
+    "longitude": "6.059855499999999"
+  },
+  {
+    "name": "De Toppenhuster Kapsalon",
+    "street_address": "Noardein 74",
+    "postal_code": "8625TK",
+    "locality": "Oppenhuizen",
+    "region": "Friesland",
+    "latitude": "53.01330369999999",
+    "longitude": "5.6954575"
+  },
+  {
+    "name": "Kapsalon It Sluske",
+    "street_address": "Jelle van Damweg 1",
+    "postal_code": "8411XA",
+    "locality": "Jubbega",
+    "region": "Friesland",
+    "latitude": "53.0042106",
+    "longitude": "6.1217637"
+  },
+  {
+    "name": "Haarzaak m/v",
+    "street_address": "Markt 67",
+    "postal_code": "9251JR",
+    "locality": "Burgum",
+    "region": "Friesland",
+    "latitude": "53.191913",
+    "longitude": "5.993096899999999"
+  },
+  {
+    "name": "Kapsalon Henriette",
+    "street_address": "Abel Tasmanweg 109",
+    "postal_code": "9866AB",
+    "locality": "Lutjegast",
+    "region": "Groningen",
+    "latitude": "53.2350072",
+    "longitude": "6.255535099999999"
+  },
+  {
+    "name": "Carin's Haarmode",
+    "street_address": "Kuipersweg 13",
+    "postal_code": "9285SN",
+    "locality": "Buitenpost",
+    "region": "Friesland",
+    "latitude": "53.2528213",
+    "longitude": "6.1456614"
+  },
+  {
+    "name": "Hairstudio Marian",
+    "street_address": "Weverswâl 3 a",
+    "postal_code": "9243JL",
+    "locality": "Bakkeveen",
+    "region": "Friesland",
+    "latitude": "53.0805958",
+    "longitude": "6.257041"
+  },
+  {
+    "name": "Pink Kapsalon",
+    "street_address": "De Eker 13",
+    "postal_code": "9084DS",
+    "locality": "Goutum",
+    "region": "Friesland",
+    "latitude": "53.1825689",
+    "longitude": "5.8162398"
+  },
+  {
+    "name": "Haarstudio Bouwina",
+    "street_address": "Drachtsterweg 30",
+    "postal_code": "9865VH",
+    "locality": "Opende",
+    "region": "Groningen",
+    "latitude": "53.17003219999999",
+    "longitude": "6.1979045"
+  },
+  {
+    "name": "Haarstudio Niveau",
+    "street_address": "De Seine 2",
+    "postal_code": "9033XV",
+    "locality": "Deinum",
+    "region": "Friesland",
+    "latitude": "53.1892613",
+    "longitude": "5.723887899999999"
+  },
+  {
+    "name": "Carina's Hair & Nails",
+    "street_address": "Reade Hoas 9 a",
+    "postal_code": "9061CS",
+    "locality": "Gytsjerk",
+    "region": "Friesland",
+    "latitude": "53.242568",
+    "longitude": "5.906755700000001"
+  },
+  {
+    "name": "Hierboetiek unyk",
+    "street_address": "Hoofdstraat 22",
+    "postal_code": "9172MP",
+    "locality": "Ferwert",
+    "region": "Friesland",
+    "latitude": "53.3385134",
+    "longitude": "5.8250438"
+  },
+  {
+    "name": "Remy Coiffures",
+    "street_address": "Prins Hendrikstraat 12",
+    "postal_code": "8911BK",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.198877",
+    "longitude": "5.7920934"
+  },
+  {
+    "name": "TOP Hairfashion",
+    "street_address": "Weverswâl 3 c",
+    "postal_code": "9243JL",
+    "locality": "Bakkeveen",
+    "region": "Friesland",
+    "latitude": "53.0805958",
+    "longitude": "6.257041"
+  },
+  {
+    "name": "Nan Bulthuis Kapper",
+    "street_address": "Sexbierumerstraat 41",
+    "postal_code": "8913GH",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2029495",
+    "longitude": "5.777778"
+  },
+  {
+    "name": "De Kapschuur",
+    "street_address": "Menninge 46",
+    "postal_code": "8431CE",
+    "locality": "Oosterwolde",
+    "region": "Friesland",
+    "latitude": "52.9838957",
+    "longitude": "6.284472500000001"
+  },
+  {
+    "name": "Harry Bijlsma Coiffure",
+    "street_address": "Gedempte Molenwijk 61",
+    "postal_code": "8442BH",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9581668",
+    "longitude": "5.923494799999999"
+  },
+  {
+    "name": "Janneke's Kapsalon",
+    "street_address": "Gealeloane 3",
+    "postal_code": "9284TB",
+    "locality": "Augustinusga",
+    "region": "Friesland",
+    "latitude": "53.21927040000001",
+    "longitude": "6.1627396"
+  },
+  {
+    "name": "Kapsalon Sylvia",
+    "street_address": "Fonterbuorren 10",
+    "postal_code": "9011XK",
+    "locality": "Irnsum",
+    "region": "Friesland",
+    "latitude": "53.0745748",
+    "longitude": "5.7908206"
+  },
+  {
+    "name": "Kapsalon Kees & Sita",
+    "street_address": "Molenwal 2",
+    "postal_code": "8401CD",
+    "locality": "Gorredijk",
+    "region": "Friesland",
+    "latitude": "53.0028716",
+    "longitude": "6.063396399999999"
+  },
+  {
+    "name": "Patricia's Haarverzorging",
+    "street_address": "Huissteegde 21",
+    "postal_code": "8426CM",
+    "locality": "Appelscha",
+    "region": "Friesland",
+    "latitude": "52.9564837",
+    "longitude": "6.3472282"
+  },
+  {
+    "name": "Siesoo Haarmode",
+    "street_address": "Rijksweg 124",
+    "postal_code": "9011VH",
+    "locality": "Irnsum",
+    "region": "Friesland",
+    "latitude": "53.0782878",
+    "longitude": "5.792959199999999"
+  },
+  {
+    "name": "K & K Kappers & Knippers",
+    "street_address": "Sint Jacobsstraat 16",
+    "postal_code": "8911HV",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2017618",
+    "longitude": "5.796782700000001"
+  },
+  {
+    "name": "Ina's Hairfashion",
+    "street_address": "Grindweg 46",
+    "postal_code": "8471EL",
+    "locality": "Wolvega",
+    "region": "Friesland",
+    "latitude": "52.8747432",
+    "longitude": "5.9914771"
+  },
+  {
+    "name": "Kapsalon S'he",
+    "street_address": "Skoallestrjitte 1",
+    "postal_code": "9271BT",
+    "locality": "De Westereen",
+    "region": "Friesland",
+    "latitude": "53.25672489999999",
+    "longitude": "6.0334977"
+  },
+  {
+    "name": "Kapsalon Braaksma",
+    "street_address": "Midlumerlaan 51",
+    "postal_code": "8861JG",
+    "locality": "Harlingen",
+    "region": "Friesland",
+    "latitude": "53.1789272",
+    "longitude": "5.427037700000001"
+  },
+  {
+    "name": "Haar´Salon",
+    "street_address": "Simmerwei 5 c",
+    "postal_code": "9295KA",
+    "locality": "Westergeest",
+    "region": "Friesland",
+    "latitude": "53.2821874",
+    "longitude": "6.091413699999999"
+  },
+  {
+    "name": "Kapsalon Laurentia",
+    "street_address": "Hagenadyk 1",
+    "postal_code": "8614AB",
+    "locality": "Oudega Gem Wymbritserad",
+    "region": "Friesland",
+    "latitude": "52.99228369999999",
+    "longitude": "5.5517147"
+  },
+  {
+    "name": "K&F Hairstyle",
+    "street_address": "Brouwerswal 4 g",
+    "postal_code": "8401BV",
+    "locality": "Gorredijk",
+    "region": "Friesland",
+    "latitude": "53.0022534",
+    "longitude": "6.0647835"
+  },
+  {
+    "name": "New Generation Hairstyling",
+    "street_address": "Lijteplein 16",
+    "postal_code": "9247EN",
+    "locality": "Ureterp",
+    "region": "Friesland",
+    "latitude": "53.094942",
+    "longitude": "6.1719365"
+  },
+  {
+    "name": "Kapsalon Annet",
+    "street_address": "Dwarsvaartweg 84",
+    "postal_code": "8392MT",
+    "locality": "Boijl",
+    "region": "Friesland",
+    "latitude": "52.8954485",
+    "longitude": "6.1883643"
+  },
+  {
+    "name": "Jellie's Kapsalon",
+    "street_address": "Oud Ambacht 62",
+    "postal_code": "9201XC",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.11060639999999",
+    "longitude": "6.0907107"
+  },
+  {
+    "name": "Kapsalon Thuis",
+    "street_address": "Hoogstraat 11",
+    "postal_code": "8701JR",
+    "locality": "Bolsward",
+    "region": "Friesland",
+    "latitude": "53.06122260000001",
+    "longitude": "5.5235875"
+  },
+  {
+    "name": "Truus Roolvink",
+    "street_address": "Douwelaan 14",
+    "postal_code": "9062EN",
+    "locality": "Oentsjerk",
+    "region": "Friesland",
+    "latitude": "53.2497943",
+    "longitude": "5.9000559"
+  },
+  {
+    "name": "Ineke's Knipschuur",
+    "street_address": "Molenweg 16",
+    "postal_code": "8433JG",
+    "locality": "Haulerwijk",
+    "region": "Friesland",
+    "latitude": "53.0642176",
+    "longitude": "6.328946999999999"
+  },
+  {
+    "name": "Kapsalon Douwina",
+    "street_address": "Tillewei 1",
+    "postal_code": "9258GN",
+    "locality": "Jistrum",
+    "region": "Friesland",
+    "latitude": "53.2122051",
+    "longitude": "6.0684131"
+  },
+  {
+    "name": "Corrie uw kapster aan huis",
+    "street_address": "Nij Kleaster 8",
+    "postal_code": "8629EK",
+    "locality": "Scharnegoutum",
+    "region": "Friesland",
+    "latitude": "53.0708896",
+    "longitude": "5.6977911"
+  },
+  {
+    "name": "Kapsalon Trijnie",
+    "street_address": "Harddraversweg 7 A",
+    "postal_code": "8501CG",
+    "locality": "Joure",
+    "region": "Friesland",
+    "latitude": "52.9682939",
+    "longitude": "5.791189699999999"
+  },
+  {
+    "name": "Kapsalon Monique",
+    "street_address": "Bleeklaan 145 d",
+    "postal_code": "8921HB",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2037529",
+    "longitude": "5.809864999999999"
+  },
+  {
+    "name": "Hairstudio New Image",
+    "street_address": "Veenhoopsweg 1 A",
+    "postal_code": "9422AA",
+    "locality": "Smilde",
+    "region": "Drenthe",
+    "latitude": "52.9514831",
+    "longitude": "6.448258399999999"
+  },
+  {
+    "name": "Haarsalon Kappuccino",
+    "street_address": "De Fisker 9",
+    "postal_code": "9001NW",
+    "locality": "Grou",
+    "region": "Friesland",
+    "latitude": "53.0870097",
+    "longitude": "5.8294738"
+  },
+  {
+    "name": "Kapsalon Elly De Vries",
+    "street_address": "Boskrânne 38",
+    "postal_code": "9036KW",
+    "locality": "Menaam",
+    "region": "Friesland",
+    "latitude": "53.2135634",
+    "longitude": "5.6660936"
+  },
+  {
+    "name": "Fimmes Hairstyle",
+    "street_address": "Zuiderdwarsvaart 100 d",
+    "postal_code": "9203JB",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.10104459999999",
+    "longitude": "6.1089084"
+  },
+  {
+    "name": "Willy's Hair 4 You",
+    "street_address": "Pastorijelannen 11",
+    "postal_code": "9262NW",
+    "locality": "Sumar",
+    "region": "Friesland",
+    "latitude": "53.17655569999999",
+    "longitude": "6.0023572"
+  },
+  {
+    "name": "Kapsalon Just Me",
+    "street_address": "Van Harinxmaloane 8",
+    "postal_code": "9271AH",
+    "locality": "De Westereen",
+    "region": "Friesland",
+    "latitude": "53.2590423",
+    "longitude": "6.032003899999999"
+  },
+  {
+    "name": "Kapsalon Bontje",
+    "street_address": "Walperterwei 9",
+    "postal_code": "8731CC",
+    "locality": "Wommels",
+    "region": "Friesland",
+    "latitude": "53.1103186",
+    "longitude": "5.589328999999999"
+  },
+  {
+    "name": "Kapsalon van Vliet",
+    "street_address": "Rinia van Nautaweg 44 c",
+    "postal_code": "9061AH",
+    "locality": "Gytsjerk",
+    "region": "Friesland",
+    "latitude": "53.2419498",
+    "longitude": "5.8937015"
+  },
+  {
+    "name": "Haarstudio Diana L.",
+    "street_address": "Grindweg 58",
+    "postal_code": "8471EL",
+    "locality": "Wolvega",
+    "region": "Friesland",
+    "latitude": "52.8750953",
+    "longitude": "5.9911552"
+  },
+  {
+    "name": "'t Knipmountsje",
+    "street_address": "Mounestrjitte 10",
+    "postal_code": "9288AS",
+    "locality": "Kootstertille",
+    "region": "Friesland",
+    "latitude": "53.2097214",
+    "longitude": "6.096933"
+  },
+  {
+    "name": "Kapsalon 't Leantsje",
+    "street_address": "Loksleane 40",
+    "postal_code": "9241GS",
+    "locality": "Wijnjewoude",
+    "region": "Friesland",
+    "latitude": "53.0556547",
+    "longitude": "6.2079627"
+  },
+  {
+    "name": "Hairstudio Capelli",
+    "street_address": "Lies 23",
+    "postal_code": "8895KP",
+    "locality": "Lies",
+    "region": "Friesland",
+    "latitude": "53.393827",
+    "longitude": "5.325559399999999"
+  },
+  {
+    "name": "Kapsalon Haar & Daar",
+    "street_address": "Súdhoekster Faart 15",
+    "postal_code": "8801XD",
+    "locality": "Franeker",
+    "region": "Friesland",
+    "latitude": "53.1794407",
+    "longitude": "5.5495624"
+  },
+  {
+    "name": "Baukje's Haarboetiek",
+    "street_address": "Lege Hearewei 30",
+    "postal_code": "9051BL",
+    "locality": "Stiens",
+    "region": "Friesland",
+    "latitude": "53.2643834",
+    "longitude": "5.759638799999999"
+  },
+  {
+    "name": "Kapsalon v.d. Kooij",
+    "street_address": "Waagsteeg 5",
+    "postal_code": "8754ET",
+    "locality": "Makkum",
+    "region": "Friesland",
+    "latitude": "53.0549821",
+    "longitude": "5.4038214"
+  },
+  {
+    "name": "HAIR FOR ALL, geknipt voor iede..",
+    "street_address": "Tichelkamp 24",
+    "postal_code": "9251AR",
+    "locality": "Burgum",
+    "region": "Friesland",
+    "latitude": "53.1990567",
+    "longitude": "5.9969908"
+  },
+  {
+    "name": "Studio TrendStyle",
+    "street_address": "Brinkstraat 5",
+    "postal_code": "8431LC",
+    "locality": "Oosterwolde",
+    "region": "Friesland",
+    "latitude": "52.9925952",
+    "longitude": "6.293479199999999"
+  },
+  {
+    "name": "E.M. Kammeraad met de Droogkap..",
+    "street_address": "Onderweegshof 4",
+    "postal_code": "8531ES",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.8474917",
+    "longitude": "5.7138806"
+  },
+  {
+    "name": "Studio Kimo",
+    "street_address": "Wijbrand de Geeststraat 91",
+    "postal_code": "8921AK",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2004381",
+    "longitude": "5.8042414"
+  },
+  {
+    "name": "Lia's Haarstudio",
+    "street_address": "Herestraat 72",
+    "postal_code": "9851AD",
+    "locality": "Burum",
+    "region": "Friesland",
+    "latitude": "53.27571829999999",
+    "longitude": "6.2328911"
+  },
+  {
+    "name": "Kapsalon de vlotte knip",
+    "street_address": "Reitsmastrjitte 77",
+    "postal_code": "9281LC",
+    "locality": "Harkema",
+    "region": "Friesland",
+    "latitude": "53.1873322",
+    "longitude": "6.1231503"
+  },
+  {
+    "name": "Kapsalon de Waterlelie",
+    "street_address": "Waterlelie 71",
+    "postal_code": "9207AX",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1225843",
+    "longitude": "6.0984338"
+  },
+  {
+    "name": "Caro's Knipmobiel",
+    "street_address": "Zwartehofslaan 37",
+    "postal_code": "8375AE",
+    "locality": "Oldemarkt",
+    "region": "Overijssel",
+    "latitude": "52.8195825",
+    "longitude": "5.9789217"
+  },
+  {
+    "name": "Haarstudio Winan",
+    "street_address": "Noorderdwarsvaart 5",
+    "postal_code": "9203CA",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.107455",
+    "longitude": "6.1083848"
+  },
+  {
+    "name": "Kapsalon Aukje",
+    "street_address": "Houtlaan 118",
+    "postal_code": "9203AZ",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1090053",
+    "longitude": "6.1076042"
+  },
+  {
+    "name": "Afrosalon M&R",
+    "street_address": "Voorstreek 68",
+    "postal_code": "8911JS",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2041726",
+    "longitude": "5.8012374"
+  },
+  {
+    "name": "Knipkeamer Nynke",
+    "street_address": "Buorren 1",
+    "postal_code": "9255KK",
+    "locality": "Tietjerk",
+    "region": "Friesland",
+    "latitude": "53.2117234",
+    "longitude": "5.9142584"
+  },
+  {
+    "name": "Kapsalon Johan",
+    "street_address": "Voorstraat 95",
+    "postal_code": "9291CE",
+    "locality": "Kollum",
+    "region": "Friesland",
+    "latitude": "53.2803955",
+    "longitude": "6.153732"
+  },
+  {
+    "name": "Kapsalon Ziza",
+    "street_address": "Badweg 32 a",
+    "postal_code": "8401BL",
+    "locality": "Gorredijk",
+    "region": "Friesland",
+    "latitude": "53.0036541",
+    "longitude": "6.0576725"
+  },
+  {
+    "name": "Kapsalon Annet",
+    "street_address": "Unemastraat 25",
+    "postal_code": "9171LC",
+    "locality": "Blije",
+    "region": "Friesland",
+    "latitude": "53.352984",
+    "longitude": "5.8581093"
+  },
+  {
+    "name": "Haarstudio Marianne",
+    "street_address": "Schans 12 A",
+    "postal_code": "8531DW",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.8433727",
+    "longitude": "5.7117423"
+  },
+  {
+    "name": "Haarstudio Mirjam",
+    "street_address": "Wylster 43",
+    "postal_code": "9101XZ",
+    "locality": "Dokkum",
+    "region": "Friesland",
+    "latitude": "53.3273733",
+    "longitude": "6.0158412"
+  },
+  {
+    "name": "Kapsalon up to date",
+    "street_address": "Arumerweg 18",
+    "postal_code": "8748AD",
+    "locality": "Witmarsum",
+    "region": "Friesland",
+    "latitude": "53.1028599",
+    "longitude": "5.4682061"
+  },
+  {
+    "name": "Dames- en Herenkapsalon Unique",
+    "street_address": "Heechein 52",
+    "postal_code": "8491EN",
+    "locality": "Akkrum",
+    "region": "Friesland",
+    "latitude": "53.0503244",
+    "longitude": "5.8329925"
+  },
+  {
+    "name": "Sari's haarsalon",
+    "street_address": "Handwerkerszijde 110",
+    "postal_code": "9201CP",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1145328",
+    "longitude": "6.0915418"
+  },
+  {
+    "name": "Hairfashion Rutten",
+    "street_address": "Meerweg 8",
+    "postal_code": "8313AJ",
+    "locality": "Rutten",
+    "region": "Flevoland",
+    "latitude": "52.8051407",
+    "longitude": "5.6958436"
+  },
+  {
+    "name": "Bellezza Haarmode",
+    "street_address": "Tsjerkebuorren 4",
+    "postal_code": "9222NJ",
+    "locality": "Drachtstercompagnie",
+    "region": "Friesland",
+    "latitude": "53.1338741",
+    "longitude": "6.1405312"
+  },
+  {
+    "name": "Pietsje's Haar & Make up",
+    "street_address": "Great Haersmawei 1",
+    "postal_code": "9216WG",
+    "locality": "Oudega Gem Smallingerlnd",
+    "region": "Friesland",
+    "latitude": "53.1246387",
+    "longitude": "5.9963171"
+  },
+  {
+    "name": "Hairstylist Anja",
+    "street_address": "Henric de Cranestraat 52",
+    "postal_code": "8374KP",
+    "locality": "Kuinre",
+    "region": "Overijssel",
+    "latitude": "52.7902376",
+    "longitude": "5.8401998"
+  },
+  {
+    "name": "Kapsalon Hier by Agnetha",
+    "street_address": "Brouwersstrjitte 14",
+    "postal_code": "9251JA",
+    "locality": "Burgum",
+    "region": "Friesland",
+    "latitude": "53.1904797",
+    "longitude": "5.995141299999999"
+  },
+  {
+    "name": "Expression Hairstyling",
+    "street_address": "Dijkstraat 31",
+    "postal_code": "8801LS",
+    "locality": "Franeker",
+    "region": "Friesland",
+    "latitude": "53.1854692",
+    "longitude": "5.5457599"
+  },
+  {
+    "name": "Hierknipperij Hilda",
+    "street_address": "Noard 141-143",
+    "postal_code": "8711AE",
+    "locality": "Workum",
+    "region": "Friesland",
+    "latitude": "52.9829405",
+    "longitude": "5.447254399999999"
+  },
+  {
+    "name": "Kapsalon Hotel Bornholm",
+    "street_address": "Hoofdweg 6",
+    "postal_code": "8881HA",
+    "locality": "West-Terschelling",
+    "region": "Friesland",
+    "latitude": "53.3705936",
+    "longitude": "5.234299"
+  },
+  {
+    "name": "Haarstudio Lyan",
+    "street_address": "Fluessenstraat 10",
+    "postal_code": "8531RE",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.8489345",
+    "longitude": "5.6970247"
+  },
+  {
+    "name": "Bianca's Knip-Art",
+    "street_address": "De Finne 8",
+    "postal_code": "9089CA",
+    "locality": "Wytgaard",
+    "region": "Friesland",
+    "latitude": "53.1423631",
+    "longitude": "5.780557600000001"
+  },
+  {
+    "name": "Alie's Haarboetiek",
+    "street_address": "De Keats 8",
+    "postal_code": "9041EX",
+    "locality": "Berlikum",
+    "region": "Friesland",
+    "latitude": "53.24395089999999",
+    "longitude": "5.658979899999999"
+  },
+  {
+    "name": "Kapsalon Stynke",
+    "street_address": "Drachtster Heawei 41",
+    "postal_code": "9213VG",
+    "locality": "De Wilgen",
+    "region": "Friesland",
+    "latitude": "53.0974942",
+    "longitude": "6.0285414"
+  },
+  {
+    "name": "Annelie Haaridee",
+    "street_address": "Gysbert Japicxstraat 68",
+    "postal_code": "8933BE",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.199076",
+    "longitude": "5.8111212"
+  },
+  {
+    "name": "Kapsalon Jasperina",
+    "street_address": "Lytse Buorren 7",
+    "postal_code": "9263PP",
+    "locality": "Garyp",
+    "region": "Friesland",
+    "latitude": "53.1651023",
+    "longitude": "5.967385"
+  },
+  {
+    "name": "Herenkapsalon Harm Hijlkema",
+    "street_address": "Kon. Julianaweg 27",
+    "postal_code": "8443DP",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.94644719999999",
+    "longitude": "5.9447971"
+  },
+  {
+    "name": "Harrysalon",
+    "street_address": "Midstraat 85",
+    "postal_code": "8501AG",
+    "locality": "Joure",
+    "region": "Friesland",
+    "latitude": "52.9677108",
+    "longitude": "5.7955328"
+  },
+  {
+    "name": "Kapsalon Jessica",
+    "street_address": "Lijsterstraat 180",
+    "postal_code": "9201TM",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1148604",
+    "longitude": "6.102056"
+  },
+  {
+    "name": "Tokkie's Knipout",
+    "street_address": "Basserweg 8",
+    "postal_code": "8342TD",
+    "locality": "Basse",
+    "region": "Overijssel",
+    "latitude": "52.8038398",
+    "longitude": "6.0387811"
+  },
+  {
+    "name": "Hoeksema Kapper",
+    "street_address": "Kerkstraat 25",
+    "postal_code": "8754CR",
+    "locality": "Makkum",
+    "region": "Friesland",
+    "latitude": "53.0563213",
+    "longitude": "5.4023602"
+  },
+  {
+    "name": "Het Haarboetiekje",
+    "street_address": "Verlengde Stationsstraat 83",
+    "postal_code": "9271CC",
+    "locality": "De Westereen",
+    "region": "Friesland",
+    "latitude": "53.26146379999999",
+    "longitude": "6.0411665"
+  },
+  {
+    "name": "Knipkeamer Rixt",
+    "street_address": "Lytse Buorren 11",
+    "postal_code": "9088AH",
+    "locality": "Wirdum",
+    "region": "Friesland",
+    "latitude": "53.1500707",
+    "longitude": "5.8025102"
+  },
+  {
+    "name": "De Barbier",
+    "street_address": "Eewal 67",
+    "postal_code": "8911GS",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2031275",
+    "longitude": "5.798515099999999"
+  },
+  {
+    "name": "Dora's Haarmode",
+    "street_address": "Leeuwerikstraat 21 A",
+    "postal_code": "8917ED",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2082843",
+    "longitude": "5.7881919"
+  },
+  {
+    "name": "M. v.d. Vegt-Buma Haarboetiek 2..",
+    "street_address": "Lageweg 31",
+    "postal_code": "9251JV",
+    "locality": "Burgum",
+    "region": "Friesland",
+    "latitude": "53.1906939",
+    "longitude": "5.9910679"
+  },
+  {
+    "name": "Herenkapsalon De knipper",
+    "street_address": "Meyerweg 86",
+    "postal_code": "8456GH",
+    "locality": "De Knipe",
+    "region": "Friesland",
+    "latitude": "52.9683739",
+    "longitude": "5.9680073"
+  },
+  {
+    "name": "Salon Minnesma",
+    "street_address": "Gemeenteplein 61",
+    "postal_code": "8442MB",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9596229",
+    "longitude": "5.925417599999999"
+  },
+  {
+    "name": "Mariska's hairfashion",
+    "street_address": "De Tsjerne 1",
+    "postal_code": "9051HV",
+    "locality": "Stiens",
+    "region": "Friesland",
+    "latitude": "53.2549769",
+    "longitude": "5.7620749"
+  },
+  {
+    "name": "Kapsalon Moodz",
+    "street_address": "Haersmastins 4",
+    "postal_code": "8925EJ",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2054552",
+    "longitude": "5.8454865"
+  },
+  {
+    "name": "New Image",
+    "street_address": "Hoekstersingel 59",
+    "postal_code": "8922AM",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2071842",
+    "longitude": "5.8020245"
+  },
+  {
+    "name": "Ingrid's Hairstyle",
+    "street_address": "Túnkerij 10",
+    "postal_code": "8501TJ",
+    "locality": "Joure",
+    "region": "Friesland",
+    "latitude": "52.96411",
+    "longitude": "5.811529699999999"
+  },
+  {
+    "name": "Herenkapsalon Galema",
+    "street_address": "Voorstraat 63",
+    "postal_code": "8801LB",
+    "locality": "Franeker",
+    "region": "Friesland",
+    "latitude": "53.1863405",
+    "longitude": "5.5403458"
+  },
+  {
+    "name": "Kapsalon Kreas",
+    "street_address": "Beuckelaerstraat 28",
+    "postal_code": "9076DA",
+    "locality": "St.-Annaparochie",
+    "region": "Friesland",
+    "latitude": "53.2764658",
+    "longitude": "5.660928"
+  },
+  {
+    "name": "Kapsalon Sabina",
+    "street_address": "Heawei 26",
+    "postal_code": "8406AW",
+    "locality": "Tijnje",
+    "region": "Friesland",
+    "latitude": "53.0222223",
+    "longitude": "5.9893974"
+  },
+  {
+    "name": "Kapsalon Marjon",
+    "street_address": "Pieter Stuyvesantweg 156",
+    "postal_code": "8481JB",
+    "locality": "Nijetrijne",
+    "region": "Friesland",
+    "latitude": "52.84111650000001",
+    "longitude": "5.9051835"
+  },
+  {
+    "name": "Kapsalon Haaridéaal",
+    "street_address": "De Harke 7",
+    "postal_code": "8494PD",
+    "locality": "Nes",
+    "region": "Friesland",
+    "latitude": "53.0547388",
+    "longitude": "5.8466695"
+  },
+  {
+    "name": "De Kappers-Stjelp",
+    "street_address": "Ljochtmisdyk 9",
+    "postal_code": "9036MZ",
+    "locality": "Menaam",
+    "region": "Friesland",
+    "latitude": "53.2165208",
+    "longitude": "5.6577594"
+  },
+  {
+    "name": "Haarsalon Babs",
+    "street_address": "Reidfjild 19",
+    "postal_code": "9255JR",
+    "locality": "Tietjerk",
+    "region": "Friesland",
+    "latitude": "53.2147324",
+    "longitude": "5.9145346"
+  },
+  {
+    "name": "Knip&Care Beauty|Hair",
+    "street_address": "Verlengde Oostend e Oostend",
+    "postal_code": "8748AR",
+    "locality": "Witmarsum",
+    "region": "Friesland",
+    "latitude": "53.1025034",
+    "longitude": "5.4704488"
+  },
+  {
+    "name": "Kapsalon Heleen",
+    "street_address": "Skilpaed 40",
+    "postal_code": "9035AN",
+    "locality": "Dronryp",
+    "region": "Friesland",
+    "latitude": "53.1930408",
+    "longitude": "5.6429512"
+  },
+  {
+    "name": "Kapsalon Sytske",
+    "street_address": "Van Swinderenstraat 64",
+    "postal_code": "8561AS",
+    "locality": "Balk",
+    "region": "Friesland",
+    "latitude": "52.8971164",
+    "longitude": "5.5784736"
+  },
+  {
+    "name": "R. van der Laan",
+    "street_address": "Voergang 39",
+    "postal_code": "9205AV",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.0907408",
+    "longitude": "6.0589225"
+  },
+  {
+    "name": "Trendy Hairexpress",
+    "street_address": "Swingoerd 37",
+    "postal_code": "8731CV",
+    "locality": "Wommels",
+    "region": "Friesland",
+    "latitude": "53.1101495",
+    "longitude": "5.593629"
+  },
+  {
+    "name": "Alie's Knipskuorre",
+    "street_address": "Kooiweg 3",
+    "postal_code": "9258CR",
+    "locality": "Jistrum",
+    "region": "Friesland",
+    "latitude": "53.21764899999999",
+    "longitude": "6.0575103"
+  },
+  {
+    "name": "Rinskje's Haarsalon",
+    "street_address": "Inialoane 71",
+    "postal_code": "9263RC",
+    "locality": "Garyp",
+    "region": "Friesland",
+    "latitude": "53.1623341",
+    "longitude": "5.9748835"
+  },
+  {
+    "name": "Kapsalon Doreen",
+    "street_address": "Hoofdstraat 80",
+    "postal_code": "8375AS",
+    "locality": "Oldemarkt",
+    "region": "Overijssel",
+    "latitude": "52.821663",
+    "longitude": "5.9736544"
+  },
+  {
+    "name": "Kapsalon Nijnke",
+    "street_address": "Maria Louisestraat 7",
+    "postal_code": "8606AV",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0307952",
+    "longitude": "5.6681396"
+  },
+  {
+    "name": "Kapsalon Ideaal",
+    "street_address": "Hoofdweg 13",
+    "postal_code": "8424PH",
+    "locality": "Elsloo",
+    "region": "Friesland",
+    "latitude": "52.9437835",
+    "longitude": "6.2396704"
+  },
+  {
+    "name": "Haar in Huis mobiele kapster",
+    "street_address": "Molenhoek 33",
+    "postal_code": "9291DB",
+    "locality": "Kollum",
+    "region": "Friesland",
+    "latitude": "53.27948079999999",
+    "longitude": "6.1563104"
+  },
+  {
+    "name": "Kapsalon Hanka",
+    "street_address": "Pier Panderstraat 42",
+    "postal_code": "9203SH",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1046294",
+    "longitude": "6.092450299999999"
+  },
+  {
+    "name": "Kapsalon Renata",
+    "street_address": "Willibrordusstraat 8 A",
+    "postal_code": "9164KV",
+    "locality": "Buren",
+    "region": "Friesland",
+    "latitude": "53.4458129",
+    "longitude": "5.7982049"
+  },
+  {
+    "name": "Kapsalon Tineke",
+    "street_address": "Steenwijkerweg 252",
+    "postal_code": "8335LJ",
+    "locality": "Witte Paarden",
+    "region": "Overijssel",
+    "latitude": "52.80650439999999",
+    "longitude": "6.0811904"
+  },
+  {
+    "name": "Hanedan Kapsalon",
+    "street_address": "Molenplein 18",
+    "postal_code": "8442LM",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9572049",
+    "longitude": "5.9255515"
+  },
+  {
+    "name": "Kapsalon Jochems",
+    "street_address": "Gedempte Pol 19",
+    "postal_code": "8601BX",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0335092",
+    "longitude": "5.6618071"
+  },
+  {
+    "name": "Kapsalon Anita",
+    "street_address": "Kleine Dijlakker 14",
+    "postal_code": "8701HW",
+    "locality": "Bolsward",
+    "region": "Friesland",
+    "latitude": "53.0633969",
+    "longitude": "5.5238926"
+  },
+  {
+    "name": "Van Assendelft Haarmode",
+    "street_address": "Schrans 69",
+    "postal_code": "8932NB",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.19554309999999",
+    "longitude": "5.798800099999999"
+  },
+  {
+    "name": "Frans G. Groen Herenkapsalon",
+    "street_address": "Van Harenstraat 29",
+    "postal_code": "9076BS",
+    "locality": "St.-Annaparochie",
+    "region": "Friesland",
+    "latitude": "53.2768198",
+    "longitude": "5.6597"
+  },
+  {
+    "name": "Hairsalon Restyling",
+    "street_address": "Tolhûswei 9",
+    "postal_code": "8501ZP",
+    "locality": "Joure",
+    "region": "Friesland",
+    "latitude": "52.9733889",
+    "longitude": "5.796536499999999"
+  },
+  {
+    "name": "Kapsalon Knippenz",
+    "street_address": "De Trije 16",
+    "postal_code": "9084AP",
+    "locality": "Goutum",
+    "region": "Friesland",
+    "latitude": "53.1788386",
+    "longitude": "5.797987"
+  },
+  {
+    "name": "Kapsalon De Kapper",
+    "street_address": "Harlingersingel 1",
+    "postal_code": "8913CJ",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2027412",
+    "longitude": "5.7878561"
+  },
+  {
+    "name": "Westersalon",
+    "street_address": "Lageweg 9",
+    "postal_code": "9251JT",
+    "locality": "Burgum",
+    "region": "Friesland",
+    "latitude": "53.1920533",
+    "longitude": "5.9905782"
+  },
+  {
+    "name": "Op & Top Stylistes",
+    "street_address": "Midstrjitte 20",
+    "postal_code": "8551PH",
+    "locality": "Woudsend",
+    "region": "Friesland",
+    "latitude": "52.9439388",
+    "longitude": "5.629124099999999"
+  },
+  {
+    "name": "Kapsalon studio Joke",
+    "street_address": "Bakwei 10 a",
+    "postal_code": "8574TC",
+    "locality": "Bakhuizen",
+    "region": "Friesland",
+    "latitude": "52.8683352",
+    "longitude": "5.4589786"
+  },
+  {
+    "name": "Kapster Baukje Visser",
+    "street_address": "Reapdraeijersreed 1",
+    "postal_code": "9287NK",
+    "locality": "Twijzelerheide",
+    "region": "Friesland",
+    "latitude": "53.2340361",
+    "longitude": "6.0401223"
+  },
+  {
+    "name": "De Knipskuorre",
+    "street_address": "Wâlddyk 5",
+    "postal_code": "9295LE",
+    "locality": "Westergeest",
+    "region": "Friesland",
+    "latitude": "53.3209113",
+    "longitude": "6.0983284"
+  },
+  {
+    "name": "Kuipers Coiffures",
+    "street_address": "Eems 28",
+    "postal_code": "9204JX",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.0986893",
+    "longitude": "6.073930499999999"
+  },
+  {
+    "name": "Kapsalon Scissors",
+    "street_address": "Kruizebroederstraat 45",
+    "postal_code": "8601CK",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0334033",
+    "longitude": "5.6594508"
+  },
+  {
+    "name": "Kapsalon Picobello",
+    "street_address": "Hoofdstraat Oost 2",
+    "postal_code": "8391AV",
+    "locality": "Noordwolde",
+    "region": "Friesland",
+    "latitude": "52.89074549999999",
+    "longitude": "6.1405072"
+  },
+  {
+    "name": "Kapsalon Petra",
+    "street_address": "Steegde 72",
+    "postal_code": "8426CD",
+    "locality": "Appelscha",
+    "region": "Friesland",
+    "latitude": "52.9578913",
+    "longitude": "6.345399"
+  },
+  {
+    "name": "Kaja's Kapsalon",
+    "street_address": "Hollandiastraat 124",
+    "postal_code": "8517HK",
+    "locality": "Scharsterbrug",
+    "region": "Friesland",
+    "latitude": "52.9485152",
+    "longitude": "5.7884175"
+  },
+  {
+    "name": "Hairline F.",
+    "street_address": "Schorpioen 5",
+    "postal_code": "8531NT",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.8517143",
+    "longitude": "5.700908"
+  },
+  {
+    "name": "Kapsalon Anna",
+    "street_address": "Veldmansweg 1",
+    "postal_code": "9257VP",
+    "locality": "Noardburgum",
+    "region": "Friesland",
+    "latitude": "53.2218119",
+    "longitude": "6.0034055"
+  },
+  {
+    "name": "E. Boon",
+    "street_address": "Pieter Sipmawei 2",
+    "postal_code": "8915EA",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2085583",
+    "longitude": "5.7674946"
+  },
+  {
+    "name": "Kapsalon De Super Schaar",
+    "street_address": "Tuinen 29",
+    "postal_code": "8911KC",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2032134",
+    "longitude": "5.8022573"
+  },
+  {
+    "name": "It Kniphúske",
+    "street_address": "Hege Bouwen 5",
+    "postal_code": "8566JB",
+    "locality": "Nijemirdum",
+    "region": "Friesland",
+    "latitude": "52.8559263",
+    "longitude": "5.5555927"
+  },
+  {
+    "name": "Kapsalon Figaro",
+    "street_address": "Hoofdstraat 45",
+    "postal_code": "9244CL",
+    "locality": "Beetsterzwaag",
+    "region": "Friesland",
+    "latitude": "53.0593784",
+    "longitude": "6.0781656"
+  },
+  {
+    "name": "'t Kapperszaakje Klaas en Gerri..",
+    "street_address": "Dijkstraat 60",
+    "postal_code": "8801LW",
+    "locality": "Franeker",
+    "region": "Friesland",
+    "latitude": "53.1852041",
+    "longitude": "5.547762"
+  },
+  {
+    "name": "Nancy’s HairSalon",
+    "street_address": "Zwartsstraat 10",
+    "postal_code": "8441GH",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9627789",
+    "longitude": "5.926578"
+  },
+  {
+    "name": "Haarsalon Drachten",
+    "street_address": "Handwerkerszijde 110",
+    "postal_code": "9201CP",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1145328",
+    "longitude": "6.0915418"
+  },
+  {
+    "name": "Puur Haar Kappers",
+    "street_address": "Molehiem 16",
+    "postal_code": "9011TC",
+    "locality": "Irnsum",
+    "region": "Friesland",
+    "latitude": "53.0799742",
+    "longitude": "5.7953166"
+  },
+  {
+    "name": "Kapsalon Amarant",
+    "street_address": "Kerkplein 11",
+    "postal_code": "8748BP",
+    "locality": "Witmarsum",
+    "region": "Friesland",
+    "latitude": "53.10203420000001",
+    "longitude": "5.4666219"
+  },
+  {
+    "name": "Korina's HAARmode",
+    "street_address": "Heerenveenseweg 25",
+    "postal_code": "8471BA",
+    "locality": "Wolvega",
+    "region": "Friesland",
+    "latitude": "52.8778016",
+    "longitude": "6.001471599999999"
+  },
+  {
+    "name": "Dameskapsalon Piety",
+    "street_address": "Haadstrjitte 13",
+    "postal_code": "9269SW",
+    "locality": "Feanwâlden",
+    "region": "Friesland",
+    "latitude": "53.2401005",
+    "longitude": "5.9922977"
+  },
+  {
+    "name": "Herenkapsalon J. Wijma",
+    "street_address": "Rijweg 19",
+    "postal_code": "8431KG",
+    "locality": "Oosterwolde",
+    "region": "Friesland",
+    "latitude": "52.99308389999999",
+    "longitude": "6.2963751"
+  },
+  {
+    "name": "Kapsalon Peter & Binny",
+    "street_address": "Schoolstraat 33",
+    "postal_code": "9251EA",
+    "locality": "Burgum",
+    "region": "Friesland",
+    "latitude": "53.1928373",
+    "longitude": "5.992543899999999"
+  },
+  {
+    "name": "Kapsalon Tineke",
+    "street_address": "Rijksstraatweg 75",
+    "postal_code": "9254DB",
+    "locality": "Hurdegaryp",
+    "region": "Friesland",
+    "latitude": "53.21817859999999",
+    "longitude": "5.945281800000001"
+  },
+  {
+    "name": "T&M Hair & Beauty",
+    "street_address": "Dijkstraat 54",
+    "postal_code": "8801LW",
+    "locality": "Franeker",
+    "region": "Friesland",
+    "latitude": "53.1851345",
+    "longitude": "5.547464"
+  },
+  {
+    "name": "Hair & Beauty",
+    "street_address": "Gerard Doustraat 42",
+    "postal_code": "8932JJ",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.19217709999999",
+    "longitude": "5.7923066"
+  },
+  {
+    "name": "Kapsalon Titia",
+    "street_address": "Torenstraat 6",
+    "postal_code": "8501BW",
+    "locality": "Joure",
+    "region": "Friesland",
+    "latitude": "52.9684416",
+    "longitude": "5.795861899999999"
+  },
+  {
+    "name": "Trend to You",
+    "street_address": "Puoldyk ",
+    "postal_code": "9035BZ",
+    "locality": "Dronryp",
+    "region": "Friesland",
+    "latitude": "53.19517159999999",
+    "longitude": "5.650634699999999"
+  },
+  {
+    "name": "Kapsalon Square",
+    "street_address": "Oude Koemarkt 34",
+    "postal_code": "8601EK",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.03021",
+    "longitude": "5.6596879"
+  },
+  {
+    "name": "Kapsalon Mint",
+    "street_address": "Puoldyk 34",
+    "postal_code": "9035BZ",
+    "locality": "Dronryp",
+    "region": "Friesland",
+    "latitude": "53.1948183",
+    "longitude": "5.650710999999999"
+  },
+  {
+    "name": "Kapsalon Mystic",
+    "street_address": "Hoofdstraat 115 a",
+    "postal_code": "9861AD",
+    "locality": "Grootegast",
+    "region": "Groningen",
+    "latitude": "53.2132328",
+    "longitude": "6.2760155"
+  },
+  {
+    "name": "Dames & Heren Kapsalon Allure",
+    "street_address": "Montferlandplantsoen 10",
+    "postal_code": "8443CX",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9424633",
+    "longitude": "5.940170999999999"
+  },
+  {
+    "name": "De Kapperij",
+    "street_address": "Kerkewal 9",
+    "postal_code": "8401CG",
+    "locality": "Gorredijk",
+    "region": "Friesland",
+    "latitude": "53.0033249",
+    "longitude": "6.0632034"
+  },
+  {
+    "name": "Haar Trends Hiltje",
+    "street_address": "Midstraat 153 c",
+    "postal_code": "8501AL",
+    "locality": "Joure",
+    "region": "Friesland",
+    "latitude": "52.96631989999999",
+    "longitude": "5.7982115"
+  },
+  {
+    "name": "Capello Haarmode",
+    "street_address": "De Wieren 21",
+    "postal_code": "9866AH",
+    "locality": "Lutjegast",
+    "region": "Groningen",
+    "latitude": "53.2333219",
+    "longitude": "6.2574631"
+  },
+  {
+    "name": "Kapsalon Esther",
+    "street_address": "Stationsweg 24",
+    "postal_code": "8401DP",
+    "locality": "Gorredijk",
+    "region": "Friesland",
+    "latitude": "53.0053214",
+    "longitude": "6.0645156"
+  },
+  {
+    "name": "Herenkapsalon Kor Fledderus",
+    "street_address": "Hoofdstraat West 53-55",
+    "postal_code": "8471HR",
+    "locality": "Wolvega",
+    "region": "Friesland",
+    "latitude": "52.873311",
+    "longitude": "5.9939581"
+  },
+  {
+    "name": "Kapsalon Roelie",
+    "street_address": "De Buorren 68",
+    "postal_code": "8408HN",
+    "locality": "Lippenhuizen",
+    "region": "Friesland",
+    "latitude": "53.0190035",
+    "longitude": "6.094742099999999"
+  },
+  {
+    "name": "Kapsalon Thérèse",
+    "street_address": "Oude Koemarkt 7",
+    "postal_code": "8601EH",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.031284",
+    "longitude": "5.6587966"
+  },
+  {
+    "name": "Kapsalon Joukje",
+    "street_address": "Elte Martens Beimastrjitte 31",
+    "postal_code": "9261VG",
+    "locality": "Eastermar",
+    "region": "Friesland",
+    "latitude": "53.174462",
+    "longitude": "6.0578698"
+  },
+  {
+    "name": "Griet's Knipskjirre",
+    "street_address": "Bûtenwei 6",
+    "postal_code": "8731AL",
+    "locality": "Wommels",
+    "region": "Friesland",
+    "latitude": "53.1065546",
+    "longitude": "5.5832938"
+  },
+  {
+    "name": "Kapsalon De Vlinder",
+    "street_address": "Schoener 60",
+    "postal_code": "8802NN",
+    "locality": "Franeker",
+    "region": "Friesland",
+    "latitude": "53.1982898",
+    "longitude": "5.547213500000001"
+  },
+  {
+    "name": "Kapsalon Dijkstra",
+    "street_address": "Van der Brugghenstrjitte 30",
+    "postal_code": "9245HM",
+    "locality": "Nij Beets",
+    "region": "Friesland",
+    "latitude": "53.0690412",
+    "longitude": "5.9999233"
+  },
+  {
+    "name": "Yourstyleathome",
+    "street_address": "Koarte Baan 26",
+    "postal_code": "9247EA",
+    "locality": "Ureterp",
+    "region": "Friesland",
+    "latitude": "53.0904682",
+    "longitude": "6.1693812"
+  },
+  {
+    "name": "Kapsalon Peter",
+    "street_address": "Noard 1",
+    "postal_code": "8711AA",
+    "locality": "Workum",
+    "region": "Friesland",
+    "latitude": "52.9799003",
+    "longitude": "5.443098099999999"
+  },
+  {
+    "name": "A.H. Nip",
+    "street_address": "Vaart Noordzijde 59",
+    "postal_code": "8426AS",
+    "locality": "Appelscha",
+    "region": "Friesland",
+    "latitude": "52.9553506",
+    "longitude": "6.3547365"
+  },
+  {
+    "name": "yourstyle@home",
+    "street_address": "Stationsweg 245",
+    "postal_code": "9201GN",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1188854",
+    "longitude": "6.0948182"
+  },
+  {
+    "name": "It Kappershus",
+    "street_address": "De Finne 2",
+    "postal_code": "9022AZ",
+    "locality": "Mantgum",
+    "region": "Friesland",
+    "latitude": "53.1308985",
+    "longitude": "5.716232799999999"
+  },
+  {
+    "name": "Sigrid's Haarmode",
+    "street_address": "Moleneind Noordzijde 18",
+    "postal_code": "9203ZP",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1065693",
+    "longitude": "6.097006299999999"
+  },
+  {
+    "name": "Kapsalon Zieba",
+    "street_address": "Akkersplein 170",
+    "postal_code": "8443BB",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9452892",
+    "longitude": "5.9353718"
+  },
+  {
+    "name": "Total Look",
+    "street_address": "Geert van de Zwaagstrjitte 4",
+    "postal_code": "8401BS",
+    "locality": "Gorredijk",
+    "region": "Friesland",
+    "latitude": "53.0025321",
+    "longitude": "6.0612263"
+  },
+  {
+    "name": "Spa Wellness Sneek",
+    "street_address": "Westereems 10",
+    "postal_code": "8602CR",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0484648",
+    "longitude": "5.659083"
+  },
+  {
+    "name": "De Knipperij voor Hem & Haar",
+    "street_address": "Johan Willem Frisostraat 12",
+    "postal_code": "8606CV",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0297779",
+    "longitude": "5.6650923"
+  },
+  {
+    "name": "Dames- en Herenkapsalon Hagen-v..",
+    "street_address": "Franekereind 12",
+    "postal_code": "8861EC",
+    "locality": "Harlingen",
+    "region": "Friesland",
+    "latitude": "53.17431",
+    "longitude": "5.422486999999999"
+  },
+  {
+    "name": "Kapsalon Nadia Gorter",
+    "street_address": "Driessenstraat 17",
+    "postal_code": "8501GD",
+    "locality": "Joure",
+    "region": "Friesland",
+    "latitude": "52.96492629999999",
+    "longitude": "5.7984067"
+  },
+  {
+    "name": "Salon 2000",
+    "street_address": "Lijnbaan 6",
+    "postal_code": "8531JR",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.8452602",
+    "longitude": "5.711607799999999"
+  },
+  {
+    "name": "Kapsalon Reekers",
+    "street_address": "Midstrjitte 38",
+    "postal_code": "8551PJ",
+    "locality": "Woudsend",
+    "region": "Friesland",
+    "latitude": "52.9433915",
+    "longitude": "5.6286897"
+  },
+  {
+    "name": "Kapsalon Ut & Thûs",
+    "street_address": "It Pypke 1",
+    "postal_code": "9074BK",
+    "locality": "Hallum",
+    "region": "Friesland",
+    "latitude": "53.3065988",
+    "longitude": "5.786696399999999"
+  },
+  {
+    "name": "Paula Robben",
+    "street_address": "Bordineweg 36",
+    "postal_code": "8931AS",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.1891416",
+    "longitude": "5.7782601"
+  },
+  {
+    "name": "Haar-O-Theek",
+    "street_address": "Suupmarkt 12",
+    "postal_code": "8601BD",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0321861",
+    "longitude": "5.6621795"
+  },
+  {
+    "name": "By Janneke",
+    "street_address": "Migchelbrinkwei 11",
+    "postal_code": "9296ME",
+    "locality": "Triemen",
+    "region": "Friesland",
+    "latitude": "53.2790117",
+    "longitude": "6.087578"
+  },
+  {
+    "name": "Kapsalon Ida de Vos",
+    "street_address": "Brouwerswal 13",
+    "postal_code": "8401CZ",
+    "locality": "Gorredijk",
+    "region": "Friesland",
+    "latitude": "53.0019435",
+    "longitude": "6.065491"
+  },
+  {
+    "name": "Monique's Hair Shop",
+    "street_address": "Zevenblad 11",
+    "postal_code": "8935RK",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.1890376",
+    "longitude": "5.8272213"
+  },
+  {
+    "name": "Kapsjones",
+    "street_address": "De Fisker 10",
+    "postal_code": "9001NW",
+    "locality": "Grou",
+    "region": "Friesland",
+    "latitude": "53.0868027",
+    "longitude": "5.8295612"
+  },
+  {
+    "name": "'t Kniphuus",
+    "street_address": "Kerkstraat 41",
+    "postal_code": "9853PP",
+    "locality": "Munnekezijl",
+    "region": "Friesland",
+    "latitude": "53.3047657",
+    "longitude": "6.2689258"
+  },
+  {
+    "name": "Natasja's Rijdende Kapsalon",
+    "street_address": "Lyclamaweg 20",
+    "postal_code": "8421PV",
+    "locality": "Oldeberkoop",
+    "region": "Friesland",
+    "latitude": "52.9377206",
+    "longitude": "6.1345509"
+  },
+  {
+    "name": "Hair 4 You",
+    "street_address": "Warmoltsstrjitte 10 C",
+    "postal_code": "9281PR",
+    "locality": "Harkema",
+    "region": "Friesland",
+    "latitude": "53.1832322",
+    "longitude": "6.1337164"
+  },
+  {
+    "name": "Hairstylecenter De Passaazje",
+    "street_address": "De Passaazje 3 A",
+    "postal_code": "9251CX",
+    "locality": "Burgum",
+    "region": "Friesland",
+    "latitude": "53.19218499999999",
+    "longitude": "5.9925859"
+  },
+  {
+    "name": "Total Hair Care",
+    "street_address": "Verlaet 18",
+    "postal_code": "8532BN",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.8537001",
+    "longitude": "5.7077002"
+  },
+  {
+    "name": "Kapsalon Lafajet",
+    "street_address": "Brink 6",
+    "postal_code": "8423TE",
+    "locality": "Makkinga",
+    "region": "Friesland",
+    "latitude": "52.98122189999999",
+    "longitude": "6.2180092"
+  },
+  {
+    "name": "Anneke Westra Hairstyliste",
+    "street_address": "Rozenbergswijk 13",
+    "postal_code": "8411KN",
+    "locality": "Jubbega",
+    "region": "Friesland",
+    "latitude": "52.9744999",
+    "longitude": "6.0890912"
+  },
+  {
+    "name": "Kapsalon Geertje",
+    "street_address": "Gaastweg 27",
+    "postal_code": "8521JA",
+    "locality": "Sint Nicolaasga",
+    "region": "Friesland",
+    "latitude": "52.9218555",
+    "longitude": "5.7390455"
+  },
+  {
+    "name": "Hoofdzaak",
+    "street_address": "Steenwijkerweg 116",
+    "postal_code": "8397LG",
+    "locality": "De Blesse",
+    "region": "Friesland",
+    "latitude": "52.8373047",
+    "longitude": "6.0473192"
+  },
+  {
+    "name": "Esther Kitsz Haarmode",
+    "street_address": "Melkkelder 4",
+    "postal_code": "9205DA",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.093787",
+    "longitude": "6.054118"
+  },
+  {
+    "name": "knipoog haarstyling",
+    "street_address": "Bremsingel 18",
+    "postal_code": "8411VX",
+    "locality": "Jubbega",
+    "region": "Friesland",
+    "latitude": "53.0043094",
+    "longitude": "6.124685299999999"
+  },
+  {
+    "name": "Kapsalon Sfinx",
+    "street_address": "Siaerdamasingel 4",
+    "postal_code": "9035GG",
+    "locality": "Dronryp",
+    "region": "Friesland",
+    "latitude": "53.1950838",
+    "longitude": "5.6400742"
+  },
+  {
+    "name": "Confianca Haarmode",
+    "street_address": "J.G. van Blomstraat 14",
+    "postal_code": "9203RV",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1058954",
+    "longitude": "6.0971895"
+  },
+  {
+    "name": "Kapsalon Bosma",
+    "street_address": "Vaart Zuidzijde 94",
+    "postal_code": "8426AJ",
+    "locality": "Appelscha",
+    "region": "Friesland",
+    "latitude": "52.95141779999999",
+    "longitude": "6.3637089"
+  },
+  {
+    "name": "Kapsalon en Pedicurepraktijk My..",
+    "street_address": "Oosterparkweg 11",
+    "postal_code": "8862BA",
+    "locality": "Harlingen",
+    "region": "Friesland",
+    "latitude": "53.1697046",
+    "longitude": "5.4359117"
+  },
+  {
+    "name": "ICI Kappers",
+    "street_address": "Kerkstraat 21",
+    "postal_code": "9285TA",
+    "locality": "Buitenpost",
+    "region": "Friesland",
+    "latitude": "53.2530662",
+    "longitude": "6.1437295"
+  },
+  {
+    "name": "Kapsalon Van der Wal-Veldhuis",
+    "street_address": "Ingenieur Lelylaan 18",
+    "postal_code": "8471MP",
+    "locality": "Wolvega",
+    "region": "Friesland",
+    "latitude": "52.8708699",
+    "longitude": "6.0055029"
+  },
+  {
+    "name": "Natasja's Knipperij",
+    "street_address": "Wederik 38",
+    "postal_code": "8471VL",
+    "locality": "Wolvega",
+    "region": "Friesland",
+    "latitude": "52.86598350000001",
+    "longitude": "5.9963158"
+  },
+  {
+    "name": "Kapsalon Jadi",
+    "street_address": "C.F. Engelhardstraat 21",
+    "postal_code": "8802XT",
+    "locality": "Franeker",
+    "region": "Friesland",
+    "latitude": "53.1890312",
+    "longitude": "5.5562153"
+  },
+  {
+    "name": "Herenkapsalon charisma",
+    "street_address": "Dracht 148",
+    "postal_code": "8442BZ",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9570574",
+    "longitude": "5.926383"
+  },
+  {
+    "name": "Le Coq",
+    "street_address": "Heiligeweg 66",
+    "postal_code": "8861EB",
+    "locality": "Harlingen",
+    "region": "Friesland",
+    "latitude": "53.1743012",
+    "longitude": "5.4218439"
+  },
+  {
+    "name": "Kapsalon Hendrika",
+    "street_address": "Sint Jacobstraat 11",
+    "postal_code": "8861AX",
+    "locality": "Harlingen",
+    "region": "Friesland",
+    "latitude": "53.1750846",
+    "longitude": "5.419985"
+  },
+  {
+    "name": "Kapsalon Ina",
+    "street_address": "Mounleane 1",
+    "postal_code": "9241HA",
+    "locality": "Wijnjewoude",
+    "region": "Friesland",
+    "latitude": "53.0589959",
+    "longitude": "6.2042819"
+  },
+  {
+    "name": "Kapsalon La Coupe",
+    "street_address": "Conradi-Veenlandstrjitte 36-40",
+    "postal_code": "9104BN",
+    "locality": "Damwâld",
+    "region": "Friesland",
+    "latitude": "53.2937407",
+    "longitude": "5.994864799999999"
+  },
+  {
+    "name": "Shira Haarmode",
+    "street_address": "Leeuwarderweg 7",
+    "postal_code": "9005NB",
+    "locality": "Wergea",
+    "region": "Friesland",
+    "latitude": "53.15211840000001",
+    "longitude": "5.842395799999999"
+  },
+  {
+    "name": "Salon New Style Klasiena",
+    "street_address": "Voorstraat 26",
+    "postal_code": "9285NS",
+    "locality": "Buitenpost",
+    "region": "Friesland",
+    "latitude": "53.2537202",
+    "longitude": "6.141902"
+  },
+  {
+    "name": "Kapsalon Myléne",
+    "street_address": "Oosterslag 2",
+    "postal_code": "8385GW",
+    "locality": "Vledderveen",
+    "region": "Drenthe",
+    "latitude": "52.8753549",
+    "longitude": "6.191300999999999"
+  },
+  {
+    "name": "Lúx by Robin",
+    "street_address": "Taanderij 6",
+    "postal_code": "8531WD",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.8571837",
+    "longitude": "5.720397"
+  },
+  {
+    "name": "Sieta",
+    "street_address": "Hoofdweg Boven 17",
+    "postal_code": "8433LA",
+    "locality": "Haulerwijk",
+    "region": "Friesland",
+    "latitude": "53.0657659",
+    "longitude": "6.3286076"
+  },
+  {
+    "name": "Rianne's Knip & Go",
+    "street_address": "Oldemarktseweg 106",
+    "postal_code": "8341SJ",
+    "locality": "Steenwijkerwold",
+    "region": "Overijssel",
+    "latitude": "52.805102",
+    "longitude": "6.063861699999999"
+  },
+  {
+    "name": "Rolien's Hierknipperij",
+    "street_address": "Buorren 38",
+    "postal_code": "8542AB",
+    "locality": "Terkaple",
+    "region": "Friesland",
+    "latitude": "53.01226579999999",
+    "longitude": "5.7878881"
+  },
+  {
+    "name": "Hem en Haar salon noorderpoort",
+    "street_address": "Ringweg 8 a",
+    "postal_code": "9201GL",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1184344",
+    "longitude": "6.097096899999999"
+  },
+  {
+    "name": "Dames- en Herenkapsalon Gretina",
+    "street_address": "Bûterhoeke 30",
+    "postal_code": "9041AC",
+    "locality": "Berlikum",
+    "region": "Friesland",
+    "latitude": "53.2435274",
+    "longitude": "5.643189"
+  },
+  {
+    "name": "Kapsalon Laura",
+    "street_address": "Jeen Hornstraweg 5",
+    "postal_code": "8563AJ",
+    "locality": "Wijckel",
+    "region": "Friesland",
+    "latitude": "52.89162959999999",
+    "longitude": "5.6332172"
+  },
+  {
+    "name": "Kapsalon Amerens",
+    "street_address": "Swaerderwei 1 A",
+    "postal_code": "8851EG",
+    "locality": "Tzummarum",
+    "region": "Friesland",
+    "latitude": "53.2424812",
+    "longitude": "5.565609299999999"
+  },
+  {
+    "name": "Knipsalon Hoekstra",
+    "street_address": "Schoolstraat 67",
+    "postal_code": "9251EB",
+    "locality": "Burgum",
+    "region": "Friesland",
+    "latitude": "53.1931646",
+    "longitude": "5.9947233"
+  },
+  {
+    "name": "De Kappersjop",
+    "street_address": "Schapendrift 6 a",
+    "postal_code": "8435WK",
+    "locality": "Donkerbroek",
+    "region": "Friesland",
+    "latitude": "53.0182922",
+    "longitude": "6.234748"
+  },
+  {
+    "name": "Kapsalon Bas",
+    "street_address": "Druifstreek 53",
+    "postal_code": "8911LH",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2007044",
+    "longitude": "5.800227899999999"
+  },
+  {
+    "name": "Perron 28",
+    "street_address": "Willemstraat 28",
+    "postal_code": "8601GH",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0326696",
+    "longitude": "5.6540351"
+  },
+  {
+    "name": "New Look Haarmode",
+    "street_address": "Vaart Zuidzijde 22",
+    "postal_code": "8426AC",
+    "locality": "Appelscha",
+    "region": "Friesland",
+    "latitude": "52.9583406",
+    "longitude": "6.3476412"
+  },
+  {
+    "name": "Herenkapper Johan",
+    "street_address": "Achter de Smeden 6",
+    "postal_code": "8701KE",
+    "locality": "Bolsward",
+    "region": "Friesland",
+    "latitude": "53.0619993",
+    "longitude": "5.520084499999999"
+  },
+  {
+    "name": "Kapsalon Douma",
+    "street_address": "Greate Buorren 12",
+    "postal_code": "9263PM",
+    "locality": "Garyp",
+    "region": "Friesland",
+    "latitude": "53.1685136",
+    "longitude": "5.9717823"
+  },
+  {
+    "name": "Saskia's Rijdende Kapsalon",
+    "street_address": "Grindweg 139",
+    "postal_code": "8471EJ",
+    "locality": "Wolvega",
+    "region": "Friesland",
+    "latitude": "52.8799475",
+    "longitude": "5.985933999999999"
+  },
+  {
+    "name": "Anet's Haarmobiel",
+    "street_address": "It Hoarnleger 27",
+    "postal_code": "9262NZ",
+    "locality": "Sumar",
+    "region": "Friesland",
+    "latitude": "53.1760019",
+    "longitude": "5.9980606"
+  },
+  {
+    "name": "Thuiskapster Marijke",
+    "street_address": "Hanenburg 27",
+    "postal_code": "9255JX",
+    "locality": "Tietjerk",
+    "region": "Friesland",
+    "latitude": "53.2139892",
+    "longitude": "5.911875999999999"
+  },
+  {
+    "name": "Kapsalon Papillot",
+    "street_address": "Dominee Boersstrjitte 16",
+    "postal_code": "9008SC",
+    "locality": "Reduzum",
+    "region": "Friesland",
+    "latitude": "53.1164942",
+    "longitude": "5.782832000000001"
+  },
+  {
+    "name": "Kapsalon Promise",
+    "street_address": "Noordkade 35",
+    "postal_code": "9203CD",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.10703969999999",
+    "longitude": "6.1027035"
+  },
+  {
+    "name": "Thuiskapster Mieneke",
+    "street_address": "Marktweg 34",
+    "postal_code": "8451CE",
+    "locality": "Oudeschoot",
+    "region": "Friesland",
+    "latitude": "52.9354071",
+    "longitude": "5.9539586"
+  },
+  {
+    "name": "Kapsalon Bergsma",
+    "street_address": "Hoogstraat 6-8",
+    "postal_code": "9101LJ",
+    "locality": "Dokkum",
+    "region": "Friesland",
+    "latitude": "53.32541579999999",
+    "longitude": "5.998148100000001"
+  },
+  {
+    "name": "Kim's Kapsalon",
+    "street_address": "De Finne 17",
+    "postal_code": "8404GR",
+    "locality": "Langezwaag",
+    "region": "Friesland",
+    "latitude": "52.9835658",
+    "longitude": "6.0046908"
+  },
+  {
+    "name": "De Haarsalon",
+    "street_address": "It West 31",
+    "postal_code": "9216XD",
+    "locality": "Oudega Gem Smallingerlnd",
+    "region": "Friesland",
+    "latitude": "53.1249052",
+    "longitude": "5.9844446"
+  },
+  {
+    "name": "Kapsalon Noord",
+    "street_address": "Overweg 2 a",
+    "postal_code": "8602TS",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0365234",
+    "longitude": "5.6586057"
+  },
+  {
+    "name": "Kapsalon Methilda",
+    "street_address": "Kommisjewei 149",
+    "postal_code": "9218PE",
+    "locality": "Opeinde",
+    "region": "Friesland",
+    "latitude": "53.1354801",
+    "longitude": "6.0529516"
+  },
+  {
+    "name": "Haarstudio Esther",
+    "street_address": "Wythusterwei 19",
+    "postal_code": "9051EC",
+    "locality": "Stiens",
+    "region": "Friesland",
+    "latitude": "53.25748280000001",
+    "longitude": "5.7643226"
+  },
+  {
+    "name": "Head Room Kappers",
+    "street_address": "Torenstraat 31",
+    "postal_code": "8501BV",
+    "locality": "Joure",
+    "region": "Friesland",
+    "latitude": "52.9689987",
+    "longitude": "5.7953342"
+  },
+  {
+    "name": "HaarStudio Glamm",
+    "street_address": "Hempenserweg 2 a",
+    "postal_code": "8935AA",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.1850135",
+    "longitude": "5.800781199999999"
+  },
+  {
+    "name": "Double Face Hairfashion",
+    "street_address": "De Dellen 16 F",
+    "postal_code": "9231EB",
+    "locality": "Surhuisterveen",
+    "region": "Friesland",
+    "latitude": "53.1833731",
+    "longitude": "6.1694111"
+  },
+  {
+    "name": "Anneke's Haarstudio",
+    "street_address": "Waling Dykstrastrjitte 1",
+    "postal_code": "9061BL",
+    "locality": "Gytsjerk",
+    "region": "Friesland",
+    "latitude": "53.2401624",
+    "longitude": "5.8935458"
+  },
+  {
+    "name": "Kapsalon Kirsten",
+    "street_address": "De Nijverheid 16",
+    "postal_code": "9207DK",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1184155",
+    "longitude": "6.0829957"
+  },
+  {
+    "name": "Kapsalon Eugene",
+    "street_address": "Manauplein 20",
+    "postal_code": "8391BZ",
+    "locality": "Noordwolde",
+    "region": "Friesland",
+    "latitude": "52.8919207",
+    "longitude": "6.140839499999999"
+  },
+  {
+    "name": "Kapsalon Evelien",
+    "street_address": "Terp 6",
+    "postal_code": "8855CD",
+    "locality": "Sexbierum",
+    "region": "Friesland",
+    "latitude": "53.2186831",
+    "longitude": "5.4834189"
+  },
+  {
+    "name": "Eye 4 Your Hair",
+    "street_address": "Dijkstraat 61",
+    "postal_code": "8801LT",
+    "locality": "Franeker",
+    "region": "Friesland",
+    "latitude": "53.185009",
+    "longitude": "5.5472391"
+  },
+  {
+    "name": "Kapsalon Henriet",
+    "street_address": "Hoofdstraat West 74",
+    "postal_code": "8471HX",
+    "locality": "Wolvega",
+    "region": "Friesland",
+    "latitude": "52.8731545",
+    "longitude": "5.9928661"
+  },
+  {
+    "name": "Kinder- & 10er Kapsalon Bengelz",
+    "street_address": "De Petten 20",
+    "postal_code": "8539RM",
+    "locality": "Echtenerbrug",
+    "region": "Friesland",
+    "latitude": "52.8735708",
+    "longitude": "5.8160227"
+  },
+  {
+    "name": "Kapsalon Dubbel K",
+    "street_address": "Lutskedyk 6",
+    "postal_code": "9051CL",
+    "locality": "Stiens",
+    "region": "Friesland",
+    "latitude": "53.26194479999999",
+    "longitude": "5.763649"
+  },
+  {
+    "name": "Marlies haar & make-up",
+    "street_address": "Kleasterwei 27",
+    "postal_code": "8633KL",
+    "locality": "Ysbrechtum",
+    "region": "Friesland",
+    "latitude": "53.041602",
+    "longitude": "5.6330076"
+  },
+  {
+    "name": "Kapsalon Blitzzz",
+    "street_address": "Geawei 19",
+    "postal_code": "9284TA",
+    "locality": "Augustinusga",
+    "region": "Friesland",
+    "latitude": "53.217765",
+    "longitude": "6.1620838"
+  },
+  {
+    "name": "Kapsalon Hannie",
+    "street_address": "Dyksterbuorren 9",
+    "postal_code": "9036MR",
+    "locality": "Menaam",
+    "region": "Friesland",
+    "latitude": "53.217037",
+    "longitude": "5.6599634"
+  },
+  {
+    "name": "Haircraft",
+    "street_address": "Lysterstrjitte 23",
+    "postal_code": "9269NR",
+    "locality": "Feanwâlden",
+    "region": "Friesland",
+    "latitude": "53.2398166",
+    "longitude": "5.9951246"
+  },
+  {
+    "name": "Thúskapster Annie Veenema",
+    "street_address": "Platohof 35",
+    "postal_code": "9051KP",
+    "locality": "Stiens",
+    "region": "Friesland",
+    "latitude": "53.2585269",
+    "longitude": "5.7704072"
+  },
+  {
+    "name": "Kapsalon Dick en Tineke van Dij..",
+    "street_address": "Langestreek 24",
+    "postal_code": "8531HW",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.8450474",
+    "longitude": "5.7079865"
+  },
+  {
+    "name": "Kapsalon Lucky Lok",
+    "street_address": "Oosterburen 8",
+    "postal_code": "8891GC",
+    "locality": "Midsland",
+    "region": "Friesland",
+    "latitude": "53.3828201",
+    "longitude": "5.2860135"
+  },
+  {
+    "name": "Haar aan huis Sneek",
+    "street_address": "Eenheid 25",
+    "postal_code": "8602TV",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0353687",
+    "longitude": "5.6566158"
+  },
+  {
+    "name": "Janet's Haarmode",
+    "street_address": "Vaartweg 62 A",
+    "postal_code": "9422CR",
+    "locality": "Smilde",
+    "region": "Drenthe",
+    "latitude": "52.9324722",
+    "longitude": "6.427536099999999"
+  },
+  {
+    "name": "Kapsalon Rosa",
+    "street_address": "Burchtstraat 7",
+    "postal_code": "8374KC",
+    "locality": "Kuinre",
+    "region": "Overijssel",
+    "latitude": "52.78605899999999",
+    "longitude": "5.8424837"
+  },
+  {
+    "name": "Kapsalon Hier & Sa.... haar en..",
+    "street_address": "De Leijen 18",
+    "postal_code": "8939BC",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.1784861",
+    "longitude": "5.8265895"
+  },
+  {
+    "name": "Kapsalon Ans",
+    "street_address": "Jelle van Damweg 12",
+    "postal_code": "8411XD",
+    "locality": "Jubbega",
+    "region": "Friesland",
+    "latitude": "53.0041686",
+    "longitude": "6.1227462"
+  },
+  {
+    "name": "Hair2hair",
+    "street_address": "Dorpsstraat 10",
+    "postal_code": "9974PR",
+    "locality": "Zoutkamp",
+    "region": "Groningen",
+    "latitude": "53.3374312",
+    "longitude": "6.3010761"
+  },
+  {
+    "name": "Eye 4 Your Hair",
+    "street_address": "Gerard Doustraat 42",
+    "postal_code": "8932JJ",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.19217709999999",
+    "longitude": "5.7923066"
+  },
+  {
+    "name": "Ria Bronshof Hairstyliste",
+    "street_address": "Boslaan 35",
+    "postal_code": "8426EG",
+    "locality": "Appelscha",
+    "region": "Friesland",
+    "latitude": "52.948114",
+    "longitude": "6.3598097"
+  },
+  {
+    "name": "Asthur Haarmode",
+    "street_address": "Frittemastate 44",
+    "postal_code": "8925AA",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2087172",
+    "longitude": "5.8383217"
+  },
+  {
+    "name": "Haarzaak m/v Buitenpost",
+    "street_address": "Kerkstraat 56",
+    "postal_code": "9285TB",
+    "locality": "Buitenpost",
+    "region": "Friesland",
+    "latitude": "53.2526723",
+    "longitude": "6.1436989"
+  },
+  {
+    "name": "Simone's Thuis Knip Service",
+    "street_address": "Dûkdalf 38",
+    "postal_code": "8502CA",
+    "locality": "Joure",
+    "region": "Friesland",
+    "latitude": "52.9686847",
+    "longitude": "5.8106776"
+  },
+  {
+    "name": "Kinki Kappers",
+    "street_address": "Voorstreek 21-23",
+    "postal_code": "8911JH",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2027467",
+    "longitude": "5.7994992"
+  },
+  {
+    "name": "Restyle Haarmode",
+    "street_address": "Langebuorren 10",
+    "postal_code": "9051BG",
+    "locality": "Stiens",
+    "region": "Friesland",
+    "latitude": "53.2604497",
+    "longitude": "5.759532699999999"
+  },
+  {
+    "name": "Hairstudio Yvonne",
+    "street_address": "It Noarderfjild 25",
+    "postal_code": "9051BM",
+    "locality": "Stiens",
+    "region": "Friesland",
+    "latitude": "53.2650905",
+    "longitude": "5.7662542"
+  },
+  {
+    "name": "Knipsalon Happy Hair",
+    "street_address": "Bosruiter 60",
+    "postal_code": "8532AC",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.8540147",
+    "longitude": "5.7009691"
+  },
+  {
+    "name": "Veldman Kappers",
+    "street_address": "Snekerpoort 11",
+    "postal_code": "8701HK",
+    "locality": "Bolsward",
+    "region": "Friesland",
+    "latitude": "53.0621988",
+    "longitude": "5.525989900000001"
+  },
+  {
+    "name": "Salon Andre",
+    "street_address": "Heerenveenseweg 1",
+    "postal_code": "8471BA",
+    "locality": "Wolvega",
+    "region": "Friesland",
+    "latitude": "52.8765239",
+    "longitude": "6.0016178"
+  },
+  {
+    "name": "Kapsalon Aphrodite",
+    "street_address": "Van Harenstraat 4 B",
+    "postal_code": "8471JD",
+    "locality": "Wolvega",
+    "region": "Friesland",
+    "latitude": "52.8764165",
+    "longitude": "6.0013399"
+  },
+  {
+    "name": "Haarcreatie",
+    "street_address": "Stationsstraat 217",
+    "postal_code": "8441AX",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9618297",
+    "longitude": "5.9162177"
+  },
+  {
+    "name": "Kapsalon Piekasso",
+    "street_address": "Gedempte Vaart 4 A",
+    "postal_code": "9231AV",
+    "locality": "Surhuisterveen",
+    "region": "Friesland",
+    "latitude": "53.1816924",
+    "longitude": "6.1627998"
+  },
+  {
+    "name": "Jitske's Knipmobiel",
+    "street_address": "Popelierstrjitte 4",
+    "postal_code": "9051RC",
+    "locality": "Stiens",
+    "region": "Friesland",
+    "latitude": "53.2656735",
+    "longitude": "5.7637414"
+  },
+  {
+    "name": "Shape 'n' Style",
+    "street_address": "Eigen Haard 55 A",
+    "postal_code": "8561EX",
+    "locality": "Balk",
+    "region": "Friesland",
+    "latitude": "52.89603529999999",
+    "longitude": "5.5663426"
+  },
+  {
+    "name": "Ina's Haarmode",
+    "street_address": "Mennerdahôf 24",
+    "postal_code": "9033XE",
+    "locality": "Deinum",
+    "region": "Friesland",
+    "latitude": "53.1909638",
+    "longitude": "5.7273152"
+  },
+  {
+    "name": "Kapsalon Rien Van Ruiten",
+    "street_address": "Tsjerkebuorren 36",
+    "postal_code": "9035BB",
+    "locality": "Dronryp",
+    "region": "Friesland",
+    "latitude": "53.1957762",
+    "longitude": "5.6440011"
+  },
+  {
+    "name": "Kap, schoonheid & nagelsalon Ch..",
+    "street_address": "Pieter Stuyvesantweg 40",
+    "postal_code": "8478HE",
+    "locality": "Sonnega",
+    "region": "Friesland",
+    "latitude": "52.8663324",
+    "longitude": "5.9759855"
+  },
+  {
+    "name": "Kapsalon Willie Oord",
+    "street_address": "Hoofdstraat West 54",
+    "postal_code": "8391AP",
+    "locality": "Noordwolde",
+    "region": "Friesland",
+    "latitude": "52.8869931",
+    "longitude": "6.1355841"
+  },
+  {
+    "name": "Hairstyling Stormer",
+    "street_address": "Aalsumerpoort 4",
+    "postal_code": "9101JL",
+    "locality": "Dokkum",
+    "region": "Friesland",
+    "latitude": "53.3278451",
+    "longitude": "6.000666400000001"
+  },
+  {
+    "name": "Trendkappers",
+    "street_address": "Lijteplein 4",
+    "postal_code": "9247EN",
+    "locality": "Ureterp",
+    "region": "Friesland",
+    "latitude": "53.094942",
+    "longitude": "6.1719365"
+  },
+  {
+    "name": "Kapsalon de Barbier",
+    "street_address": "Oude Koemarkt 10",
+    "postal_code": "8601EK",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0311848",
+    "longitude": "5.658989699999999"
+  },
+  {
+    "name": "Kapsalon Jalving",
+    "street_address": "Van Maasdijkstraat 39",
+    "postal_code": "8441CK",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9640962",
+    "longitude": "5.9198321"
+  },
+  {
+    "name": "Kapsalon Inspiration",
+    "street_address": "Grote Ossenmarkt 25",
+    "postal_code": "8861CN",
+    "locality": "Harlingen",
+    "region": "Friesland",
+    "latitude": "53.1736739",
+    "longitude": "5.4155922"
+  },
+  {
+    "name": "G. Rozenberg-Vriesema",
+    "street_address": "De Bou 33",
+    "postal_code": "9244BL",
+    "locality": "Beetsterzwaag",
+    "region": "Friesland",
+    "latitude": "53.062132",
+    "longitude": "6.0804081"
+  },
+  {
+    "name": "Kapsalon Style 4 You",
+    "street_address": "Torenstraat 17",
+    "postal_code": "8881BE",
+    "locality": "West-Terschelling",
+    "region": "Friesland",
+    "latitude": "53.35871599999999",
+    "longitude": "5.2149766"
+  },
+  {
+    "name": "Daisy's Hairstyling",
+    "street_address": "J.H. van Aismawei 18 A",
+    "postal_code": "9045PJ",
+    "locality": "Bitgum",
+    "region": "Friesland",
+    "latitude": "53.23521",
+    "longitude": "5.7030523"
+  },
+  {
+    "name": "Salon New Style-Klasiena",
+    "street_address": "Doarpsstrjitte 9",
+    "postal_code": "9271GL",
+    "locality": "De Westereen",
+    "region": "Friesland",
+    "latitude": "53.25588519999999",
+    "longitude": "6.0325861"
+  },
+  {
+    "name": "Kapsalon Corrie",
+    "street_address": "Sint Odulphusstraat 27",
+    "postal_code": "8574SW",
+    "locality": "Bakhuizen",
+    "region": "Friesland",
+    "latitude": "52.8699172",
+    "longitude": "5.4583575"
+  },
+  {
+    "name": "K & F hairstyle",
+    "street_address": "Stipeplein 1",
+    "postal_code": "8431WE",
+    "locality": "Oosterwolde",
+    "region": "Friesland",
+    "latitude": "52.9905452",
+    "longitude": "6.290836499999999"
+  },
+  {
+    "name": "Kapsalon Paula",
+    "street_address": "Harinxmastrjitte 38",
+    "postal_code": "8621BL",
+    "locality": "Heeg",
+    "region": "Friesland",
+    "latitude": "52.9678342",
+    "longitude": "5.6053823"
+  },
+  {
+    "name": "J.P. Khan",
+    "street_address": "Javastraat 16",
+    "postal_code": "8921JG",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2034688",
+    "longitude": "5.816507"
+  },
+  {
+    "name": "Kapsalon Natasja",
+    "street_address": "Titia Bogardastraat 8",
+    "postal_code": "8801GD",
+    "locality": "Franeker",
+    "region": "Friesland",
+    "latitude": "53.1913132",
+    "longitude": "5.5361762"
+  },
+  {
+    "name": "Kapsalon Antoinette",
+    "street_address": "Warmoltsstrjitte 115",
+    "postal_code": "9281PM",
+    "locality": "Harkema",
+    "region": "Friesland",
+    "latitude": "53.1866103",
+    "longitude": "6.1424366"
+  },
+  {
+    "name": "Beautyboulevard Drachten",
+    "street_address": "Noorderbuurt 39",
+    "postal_code": "9203AL",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1081355",
+    "longitude": "6.096915399999999"
+  },
+  {
+    "name": "Huid&Haar",
+    "street_address": "Suupmarkt 17-19",
+    "postal_code": "8601BD",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.0323948",
+    "longitude": "5.662076900000001"
+  },
+  {
+    "name": "Kapsalon Haar Styl",
+    "street_address": "Winterakoniet 20",
+    "postal_code": "8935JR",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.1876896",
+    "longitude": "5.8215564"
+  }
+]

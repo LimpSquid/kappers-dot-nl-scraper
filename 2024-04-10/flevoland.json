@@ -1,0 +1,2891 @@
+[
+  {
+    "name": "E.M. Kammeraad met de Droogkap..",
+    "street_address": "Onderweegshof 4",
+    "postal_code": "8531ES",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.8474917",
+    "longitude": "5.7138806"
+  },
+  {
+    "name": "Hettie's Knipservice",
+    "street_address": "Zeeweg 148",
+    "postal_code": "3853LP",
+    "locality": "Ermelo",
+    "region": "Gelderland",
+    "latitude": "52.3045005",
+    "longitude": "5.568349"
+  },
+  {
+    "name": "4 Yor Hair",
+    "street_address": "Meerkoetlaan 6",
+    "postal_code": "1343AW",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3360219",
+    "longitude": "5.303544"
+  },
+  {
+    "name": "Kapsalon Trendy",
+    "street_address": "Churchillweg 61",
+    "postal_code": "13614RC",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3788674",
+    "longitude": "5.2187961"
+  },
+  {
+    "name": "Kapsalon Esther",
+    "street_address": "Kerkgracht 42",
+    "postal_code": "1354AM",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3358353",
+    "longitude": "5.22053"
+  },
+  {
+    "name": "Your Choice Hair & Beauty Centr..",
+    "street_address": "Amarantstraat 15",
+    "postal_code": "1339CN",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3954873",
+    "longitude": "5.2962183"
+  },
+  {
+    "name": "Louis Coiffures",
+    "street_address": "Vlietstroom 3",
+    "postal_code": "3891EM",
+    "locality": "Zeewolde",
+    "region": "Flevoland",
+    "latitude": "52.3329911",
+    "longitude": "5.543377899999999"
+  },
+  {
+    "name": "Hairstudio 'Desiree'",
+    "street_address": "Stationsweg 2",
+    "postal_code": "8232DN",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5086752",
+    "longitude": "5.474041"
+  },
+  {
+    "name": "Studio Angeline Swanborn",
+    "street_address": "De Veluwse Snees 9",
+    "postal_code": "8252KV",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.5190846",
+    "longitude": "5.691940199999999"
+  },
+  {
+    "name": "Clubkappers Almere",
+    "street_address": "Cinemadreef 180",
+    "postal_code": "1325EP",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3728499",
+    "longitude": "5.2297449"
+  },
+  {
+    "name": "Mina's Hairsalon",
+    "street_address": "Jol 1774",
+    "postal_code": "8243GC",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5107771",
+    "longitude": "5.4511243"
+  },
+  {
+    "name": "Pure hair & cosmetics",
+    "street_address": "Zomerstraat 190",
+    "postal_code": "1335GP",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3996872",
+    "longitude": "5.2884224"
+  },
+  {
+    "name": "Haarstudio Edith Peek",
+    "street_address": "Zadelmakerstraat 49",
+    "postal_code": "1315AN",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3684275",
+    "longitude": "5.2163846"
+  },
+  {
+    "name": "Hiltje Doeven-Post",
+    "street_address": "Gorechtpad 2",
+    "postal_code": "8302JS",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.7205923",
+    "longitude": "5.741219099999999"
+  },
+  {
+    "name": "Kapsalon Baravan",
+    "street_address": "Goedewerf ",
+    "postal_code": "1357AR",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3347904",
+    "longitude": "5.2243289"
+  },
+  {
+    "name": "Hairfashion at home",
+    "street_address": "Rietgors 9",
+    "postal_code": "8322CD",
+    "locality": "Urk",
+    "region": "Flevoland",
+    "latitude": "52.6603698",
+    "longitude": "5.6262458"
+  },
+  {
+    "name": "Mario's Haarverzorging",
+    "street_address": "Evenaar 262",
+    "postal_code": "1338NV",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3933201",
+    "longitude": "5.2837501"
+  },
+  {
+    "name": "Kapsalon Hairstyling-Heleen",
+    "street_address": "C. van Eesterenplein 122",
+    "postal_code": "1333KS",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3953986",
+    "longitude": "5.2550406"
+  },
+  {
+    "name": "Hair4you",
+    "street_address": "Gondel 35 35-12",
+    "postal_code": "8243DE",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.513894",
+    "longitude": "5.454644"
+  },
+  {
+    "name": "Hairstudio Variaty",
+    "street_address": "Albrecht Dürerweg 172",
+    "postal_code": "1328TM",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3687534",
+    "longitude": "5.2738607"
+  },
+  {
+    "name": "Gabriëlle Edwards",
+    "street_address": "Wipmolenweg 279",
+    "postal_code": "1333GL",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3990119",
+    "longitude": "5.2768311"
+  },
+  {
+    "name": "Kapsalon Ellen",
+    "street_address": "Binnenhof 87",
+    "postal_code": "1354KH",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3383189",
+    "longitude": "5.216353499999999"
+  },
+  {
+    "name": "De Salon",
+    "street_address": "Espelerweg 6 E",
+    "postal_code": "8303HX",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.7240042",
+    "longitude": "5.7422827"
+  },
+  {
+    "name": "Hairstudio Headline",
+    "street_address": "Plaats 6",
+    "postal_code": "8224AB",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5195359",
+    "longitude": "5.483647899999999"
+  },
+  {
+    "name": "Kapsalon Zeewolde",
+    "street_address": "Stevinweg 2-8",
+    "postal_code": "3891EA",
+    "locality": "Zeewolde",
+    "region": "Flevoland",
+    "latitude": "52.3321761",
+    "longitude": "5.542057799999999"
+  },
+  {
+    "name": "Bibob",
+    "street_address": "Wim Kanplein 4",
+    "postal_code": "1311LH",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3708488",
+    "longitude": "5.1793284"
+  },
+  {
+    "name": "Hizi Hair",
+    "street_address": "Agorahof 11",
+    "postal_code": "8224JG",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5099611",
+    "longitude": "5.4764234"
+  },
+  {
+    "name": "Beau Styling",
+    "street_address": "Fonteinkruid 18",
+    "postal_code": "3892AG",
+    "locality": "Zeewolde",
+    "region": "Flevoland",
+    "latitude": "52.32727879999999",
+    "longitude": "5.5404826"
+  },
+  {
+    "name": "Hairdesign Mirjam",
+    "street_address": "Trombonedreef 24",
+    "postal_code": "3845CM",
+    "locality": "Harderwijk",
+    "region": "Gelderland",
+    "latitude": "52.3271413",
+    "longitude": "5.5981904"
+  },
+  {
+    "name": "Kapsalon Filiz",
+    "street_address": "Dukaatpassage 19",
+    "postal_code": "8232GC",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5083437",
+    "longitude": "5.4760814"
+  },
+  {
+    "name": "Haarmode Alexandra",
+    "street_address": "Horsterweg 14",
+    "postal_code": "3891EV",
+    "locality": "Zeewolde",
+    "region": "Flevoland",
+    "latitude": "52.3299465",
+    "longitude": "5.5416947"
+  },
+  {
+    "name": "Kapsalon Bertha",
+    "street_address": "Horsterweg 207",
+    "postal_code": "3853JC",
+    "locality": "Ermelo",
+    "region": "Gelderland",
+    "latitude": "52.3117063",
+    "longitude": "5.5917824"
+  },
+  {
+    "name": "Home-Gym",
+    "street_address": "De Steiger 170",
+    "postal_code": "1351AS",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3492985",
+    "longitude": "5.2268197"
+  },
+  {
+    "name": "Esther's Hairfashion",
+    "street_address": "Ransuil 62 A",
+    "postal_code": "8321RG",
+    "locality": "Urk",
+    "region": "Flevoland",
+    "latitude": "52.6629884",
+    "longitude": "5.625157199999999"
+  },
+  {
+    "name": "Nicole's Haarsalon",
+    "street_address": "Westergo 1",
+    "postal_code": "8245CR",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.4966932",
+    "longitude": "5.4676055"
+  },
+  {
+    "name": "Piekfijn",
+    "street_address": "Januaristraat 144",
+    "postal_code": "1335AJ",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.40570049999999",
+    "longitude": "5.2891143"
+  },
+  {
+    "name": "Haarmode Randstad",
+    "street_address": "Randstad 2216",
+    "postal_code": "1316BX",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3788948",
+    "longitude": "5.2269331"
+  },
+  {
+    "name": "Eugenie Hair & Make-Up",
+    "street_address": "Het Spaarne 53",
+    "postal_code": "8253PE",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.5388808",
+    "longitude": "5.703352799999999"
+  },
+  {
+    "name": "Kapsalon Le Garage",
+    "street_address": "De Rijnlandse Roe 8",
+    "postal_code": "8252JS",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.515534",
+    "longitude": "5.699455299999999"
+  },
+  {
+    "name": "Cicilia",
+    "street_address": "Bottelaarpassage 6- 8",
+    "postal_code": "1315ES",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3701699",
+    "longitude": "5.215585"
+  },
+  {
+    "name": "Ingrid's Haircare",
+    "street_address": "Karveel 34 34-38",
+    "postal_code": "8231BN",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5210608",
+    "longitude": "5.4630089"
+  },
+  {
+    "name": "Bianca's Own Style",
+    "street_address": "Cézannestraat 143",
+    "postal_code": "1328PC",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3703818",
+    "longitude": "5.262908899999999"
+  },
+  {
+    "name": "Rona's Hairstyle",
+    "street_address": "Terschellingstraat 26",
+    "postal_code": "1339TD",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.4013006",
+    "longitude": "5.3063451"
+  },
+  {
+    "name": "Hizi Hair",
+    "street_address": "Rimsky-Korssakovweg 45",
+    "postal_code": "1323LP",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3670942",
+    "longitude": "5.1911654"
+  },
+  {
+    "name": "Adalien uw kapster aan huis",
+    "street_address": "De Drainhaak 21",
+    "postal_code": "8255HS",
+    "locality": "Swifterbant",
+    "region": "Flevoland",
+    "latitude": "52.5744553",
+    "longitude": "5.6423895"
+  },
+  {
+    "name": "Vito Kapsalon",
+    "street_address": "G.T. Rietveldstraat 170 a",
+    "postal_code": "1333LJ",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.4007851",
+    "longitude": "5.25868"
+  },
+  {
+    "name": "Gerard Coiffeur",
+    "street_address": "Sint Hubertusplaats 33",
+    "postal_code": "8309AA",
+    "locality": "Tollebeek",
+    "region": "Flevoland",
+    "latitude": "52.6772562",
+    "longitude": "5.6786651"
+  },
+  {
+    "name": "Hair & beauty salon de kapper",
+    "street_address": "Nagel 52",
+    "postal_code": "8321RG",
+    "locality": "Urk",
+    "region": "Flevoland",
+    "latitude": "52.6629811",
+    "longitude": "5.6237028"
+  },
+  {
+    "name": "Peluqueria",
+    "street_address": "Tjalk 1502",
+    "postal_code": "8232LK",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5011184",
+    "longitude": "5.4720087"
+  },
+  {
+    "name": "Kapsalon Inge",
+    "street_address": "Botter 4425",
+    "postal_code": "8243JE",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.50245839999999",
+    "longitude": "5.462075"
+  },
+  {
+    "name": "Kapsalon & Nagelsalon Olga",
+    "street_address": "Schoener 4523",
+    "postal_code": "8243XG",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.4986668",
+    "longitude": "5.4592431"
+  },
+  {
+    "name": "De Haardroom",
+    "street_address": "Regenboogweg 14",
+    "postal_code": "1339BE",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3957447",
+    "longitude": "5.2920894"
+  },
+  {
+    "name": "Inpanipa",
+    "street_address": "Schietwilgsingel 2",
+    "postal_code": "1326EN",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3722",
+    "longitude": "5.2463201"
+  },
+  {
+    "name": "Hairstyling Titia",
+    "street_address": "Waterland 45",
+    "postal_code": "8245GG",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.4965779",
+    "longitude": "5.4502146"
+  },
+  {
+    "name": "Kapsalon NEWLOOK",
+    "street_address": "Markerkant 10 10-132 D",
+    "postal_code": "1316AL",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3877465",
+    "longitude": "5.2196887"
+  },
+  {
+    "name": "Lydia's Hairstyling",
+    "street_address": "Mosweg 19",
+    "postal_code": "1314MA",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3851251",
+    "longitude": "5.209372699999999"
+  },
+  {
+    "name": "Kapsalon Bianca",
+    "street_address": "Ter Apelpad 14",
+    "postal_code": "1324AK",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.37280999999999",
+    "longitude": "5.2140182"
+  },
+  {
+    "name": "Herenkapsalon Kymani",
+    "street_address": "Laan der V.O.C. 424",
+    "postal_code": "1335TC",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.4051273",
+    "longitude": "5.3034726"
+  },
+  {
+    "name": "Patricia Muller",
+    "street_address": "Helena Kuipers-Rietbergstraat 9",
+    "postal_code": "1318AT",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.378389",
+    "longitude": "5.23886"
+  },
+  {
+    "name": "Kapsalon Liesette",
+    "street_address": "Hendrik Werkmanstraat 97",
+    "postal_code": "1328DK",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3779911",
+    "longitude": "5.262859499999999"
+  },
+  {
+    "name": "Hairlines by Sandra",
+    "street_address": "Roald Amundsenstraat 170",
+    "postal_code": "1363KH",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3518755",
+    "longitude": "5.1410168"
+  },
+  {
+    "name": "Kellys Hairstudio",
+    "street_address": "De Meent 18",
+    "postal_code": "8224BR",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.51361559999999",
+    "longitude": "5.476822299999999"
+  },
+  {
+    "name": "Hizi Hair",
+    "street_address": "De Rede 35",
+    "postal_code": "8254KA",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.5241",
+    "longitude": "5.7179663"
+  },
+  {
+    "name": "Royalty Hairsalon",
+    "street_address": "Madridweg 7",
+    "postal_code": "1334CN",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3952469",
+    "longitude": "5.2775751"
+  },
+  {
+    "name": "Goodlooking",
+    "street_address": "Duifkruid 3",
+    "postal_code": "3892AN",
+    "locality": "Zeewolde",
+    "region": "Flevoland",
+    "latitude": "52.3301221",
+    "longitude": "5.5448641"
+  },
+  {
+    "name": "Waty's Haarstudio",
+    "street_address": "Vasalisstraat 90",
+    "postal_code": "1321PC",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.35378000000001",
+    "longitude": "5.1785423"
+  },
+  {
+    "name": "Hair Devotion",
+    "street_address": "Föhn 4",
+    "postal_code": "3893CS",
+    "locality": "Zeewolde",
+    "region": "Flevoland",
+    "latitude": "52.3312453",
+    "longitude": "5.515365699999999"
+  },
+  {
+    "name": "All-In Hairstyling",
+    "street_address": "Koolzaadweg 1",
+    "postal_code": "1313GJ",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3809864",
+    "longitude": "5.195166200000001"
+  },
+  {
+    "name": "Mandy's Knipservice",
+    "street_address": "Galjoen 01 178",
+    "postal_code": "8243MJ",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5088036",
+    "longitude": "5.4338966"
+  },
+  {
+    "name": "HairSalon Felice",
+    "street_address": "Sont 56-58",
+    "postal_code": "8226AB",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.4973942",
+    "longitude": "5.4907113"
+  },
+  {
+    "name": "Hairfashion Galaxy",
+    "street_address": "Azorenweg 17",
+    "postal_code": "1339VJ",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3980792",
+    "longitude": "5.300807799999999"
+  },
+  {
+    "name": "Hairstudio Adelinda",
+    "street_address": "Hondsdraf 2",
+    "postal_code": "8255KA",
+    "locality": "Swifterbant",
+    "region": "Flevoland",
+    "latitude": "52.5623075",
+    "longitude": "5.6410509"
+  },
+  {
+    "name": "Haarstudio Marijke",
+    "street_address": "Pianoweg 110 A",
+    "postal_code": "1312JJ",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3699519",
+    "longitude": "5.1909325"
+  },
+  {
+    "name": "Trendline Int. Hair & Beauty",
+    "street_address": "Haagbeukweg 54",
+    "postal_code": "1326CP",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.37583420000001",
+    "longitude": "5.2431744"
+  },
+  {
+    "name": "Kapsalon De Hoofdzaak",
+    "street_address": "Griend 4168",
+    "postal_code": "8225TV",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.4985686",
+    "longitude": "5.492794"
+  },
+  {
+    "name": "Universal Hairstyling",
+    "street_address": "Joris Ivenslaan 123",
+    "postal_code": "1325LZ",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3611449",
+    "longitude": "5.241295900000001"
+  },
+  {
+    "name": "Kap-Sones",
+    "street_address": "Noorderveld 5",
+    "postal_code": "8307DS",
+    "locality": "Ens",
+    "region": "Flevoland",
+    "latitude": "52.64199319999999",
+    "longitude": "5.819583499999999"
+  },
+  {
+    "name": "Hairstyliste Daniëlle",
+    "street_address": "Helmstok 32",
+    "postal_code": "1319CK",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3895935",
+    "longitude": "5.1825164"
+  },
+  {
+    "name": "Global Hairstyling",
+    "street_address": "Schapenmeent 217",
+    "postal_code": "1357GV",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.33305070000001",
+    "longitude": "5.2350355"
+  },
+  {
+    "name": "BrainWash Dronten",
+    "street_address": "De Kajuit 6",
+    "postal_code": "8251CL",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.52429619999999",
+    "longitude": "5.7165532"
+  },
+  {
+    "name": "B Creative Hair Concept",
+    "street_address": "Belfort 9",
+    "postal_code": "1315VA",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3701672",
+    "longitude": "5.218081"
+  },
+  {
+    "name": "Hair Inn",
+    "street_address": "Loefzijde 25",
+    "postal_code": "1316VD",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.39130180000001",
+    "longitude": "5.204925999999999"
+  },
+  {
+    "name": "La Mesa hair and beauty",
+    "street_address": "Beursplein 6",
+    "postal_code": "8253EA",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.5357142",
+    "longitude": "5.6943496"
+  },
+  {
+    "name": "Hair & Body Adventure",
+    "street_address": "Europalaan 94",
+    "postal_code": "8303GL",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.7109592",
+    "longitude": "5.7402174"
+  },
+  {
+    "name": "Kapsalon Theresia",
+    "street_address": "Zwaard 12",
+    "postal_code": "8325HZ",
+    "locality": "Vollenhove",
+    "region": "Overijssel",
+    "latitude": "52.67590329999999",
+    "longitude": "5.948497199999999"
+  },
+  {
+    "name": "Kapsalon Bellissimo Hair",
+    "street_address": "Agorahof 145",
+    "postal_code": "8224JH",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.509404",
+    "longitude": "5.4762897"
+  },
+  {
+    "name": "Kapsalon De Waardenborg",
+    "street_address": "De Waardenborg 67",
+    "postal_code": "8219BC",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.4897844",
+    "longitude": "5.5071245"
+  },
+  {
+    "name": "Salon 2000",
+    "street_address": "Lijnbaan 6",
+    "postal_code": "8531JR",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.8452602",
+    "longitude": "5.711607799999999"
+  },
+  {
+    "name": "S. Alebatool Haarmode Lelystad",
+    "street_address": "Kroonpassage 2",
+    "postal_code": "8232VP",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5072925",
+    "longitude": "5.475666899999999"
+  },
+  {
+    "name": "Jacqueline Coiffeur",
+    "street_address": "Rietmeent 225",
+    "postal_code": "1357CW",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3346738",
+    "longitude": "5.232198299999999"
+  },
+  {
+    "name": "Eureka",
+    "street_address": "Apolloweg 275",
+    "postal_code": "8239DC",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.4844638",
+    "longitude": "5.488005999999999"
+  },
+  {
+    "name": "D-Hairstyle",
+    "street_address": "Kempenaar 529",
+    "postal_code": "8231EB",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5165404",
+    "longitude": "5.4643584"
+  },
+  {
+    "name": "Kapsalon Ria",
+    "street_address": "Poëziestraat 166",
+    "postal_code": "1321HT",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.357056",
+    "longitude": "5.181125199999999"
+  },
+  {
+    "name": "Kapsalon Betty Boop",
+    "street_address": "Frans Piëtstraat 2",
+    "postal_code": "1336CA",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.4064557",
+    "longitude": "5.3144181"
+  },
+  {
+    "name": "'t Harenhuis",
+    "street_address": "Zonneweide 1",
+    "postal_code": "8256GR",
+    "locality": "Biddinghuizen",
+    "region": "Flevoland",
+    "latitude": "52.4495775",
+    "longitude": "5.694829599999999"
+  },
+  {
+    "name": "Walter Rombout Kapsalon",
+    "street_address": "Koopmansstraat 13",
+    "postal_code": "8223AH",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5197776",
+    "longitude": "5.4849001"
+  },
+  {
+    "name": "Kapsalon Ri Jo / hairextensions..",
+    "street_address": "Beursstraat 8 A",
+    "postal_code": "8302CW",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.71104219999999",
+    "longitude": "5.75331"
+  },
+  {
+    "name": "Kapsalon Kreta",
+    "street_address": "Kretastraat 32",
+    "postal_code": "1339VW",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.39962689999999",
+    "longitude": "5.3034389"
+  },
+  {
+    "name": "Ebony & Ivory",
+    "street_address": "Gran Canariastraat 98",
+    "postal_code": "1339XL",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3994526",
+    "longitude": "5.298575800000001"
+  },
+  {
+    "name": "Divasa Nail & Hairsalon",
+    "street_address": "Hendrik Werkmanstraat 20",
+    "postal_code": "1328AR",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3768651",
+    "longitude": "5.2575305"
+  },
+  {
+    "name": "Arcade Dames- en Herenhaarmode",
+    "street_address": "Plein 17",
+    "postal_code": "1354LH",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.33521349999999",
+    "longitude": "5.2193733"
+  },
+  {
+    "name": "Kapsalon Shenice",
+    "street_address": "Winterpeil 1",
+    "postal_code": "8322BK",
+    "locality": "Urk",
+    "region": "Flevoland",
+    "latitude": "52.6610326",
+    "longitude": "5.6317477"
+  },
+  {
+    "name": "Kim's Hairstyle",
+    "street_address": "Horst 3603",
+    "postal_code": "8225NP",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5040707",
+    "longitude": "5.4920083"
+  },
+  {
+    "name": "Happy Hair",
+    "street_address": "C. van Eesterenplein 204",
+    "postal_code": "1333HG",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3957305",
+    "longitude": "5.2580189"
+  },
+  {
+    "name": "Kapsalon Nathalie",
+    "street_address": "Bosgouw 212",
+    "postal_code": "1352GV",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3443507",
+    "longitude": "5.2109154"
+  },
+  {
+    "name": "Million Hairs",
+    "street_address": "Bisschopstraat 61",
+    "postal_code": "8325BB",
+    "locality": "Vollenhove",
+    "region": "Overijssel",
+    "latitude": "52.681226",
+    "longitude": "5.9534413"
+  },
+  {
+    "name": "S. Alebatool Haarmode Emmeloord",
+    "street_address": "Lange Nering 144",
+    "postal_code": "8302EG",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.71107139999999",
+    "longitude": "5.7619146"
+  },
+  {
+    "name": "Creatief Kappers College",
+    "street_address": "Televisieweg 64",
+    "postal_code": "1322AM",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3501188",
+    "longitude": "5.1804701"
+  },
+  {
+    "name": "Kapsalon Rieneke",
+    "street_address": "Korte Omgang 1",
+    "postal_code": "8314AC",
+    "locality": "Bant",
+    "region": "Flevoland",
+    "latitude": "52.7683462",
+    "longitude": "5.7509247"
+  },
+  {
+    "name": "Kapsalon Hoogewerf",
+    "street_address": "Zuiderwinkels 2",
+    "postal_code": "8308AE",
+    "locality": "Nagele",
+    "region": "Flevoland",
+    "latitude": "52.643717",
+    "longitude": "5.722781599999999"
+  },
+  {
+    "name": "Lon's Knipperij",
+    "street_address": "Hondsrug 224",
+    "postal_code": "8251VB",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.5135902",
+    "longitude": "5.726196400000001"
+  },
+  {
+    "name": "La Coupe",
+    "street_address": "Oslostraat 3",
+    "postal_code": "1334CB",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3963326",
+    "longitude": "5.2757212"
+  },
+  {
+    "name": "Kapsalon Dominicana",
+    "street_address": "Allegrostraat 3",
+    "postal_code": "1312TB",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3759662",
+    "longitude": "5.1812813"
+  },
+  {
+    "name": "Suus Hair Creations",
+    "street_address": "Kempenaar ",
+    "postal_code": "8231VH",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5167527",
+    "longitude": "5.463959"
+  },
+  {
+    "name": "Hair Vision",
+    "street_address": "Philipsdaalder 10",
+    "postal_code": "8253CL",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.529668",
+    "longitude": "5.7072213"
+  },
+  {
+    "name": "Linda's Hairshop",
+    "street_address": "Bevrijdingstraat 15",
+    "postal_code": "1318AN",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3775135",
+    "longitude": "5.2358671"
+  },
+  {
+    "name": "Moods",
+    "street_address": "Sondelstraat 23",
+    "postal_code": "8304GB",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.70376599999999",
+    "longitude": "5.7626247"
+  },
+  {
+    "name": "Ami Kappers Almere-Haven",
+    "street_address": "Kerkgracht 21",
+    "postal_code": "1354AD",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3363279",
+    "longitude": "5.219281"
+  },
+  {
+    "name": "Team Kapsalon",
+    "street_address": "De Reling 2",
+    "postal_code": "8251CL",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.5243184",
+    "longitude": "5.7172871"
+  },
+  {
+    "name": "TipTop Hairstyling",
+    "street_address": "Molenberg 13",
+    "postal_code": "8325CA",
+    "locality": "Vollenhove",
+    "region": "Overijssel",
+    "latitude": "52.681469",
+    "longitude": "5.957025199999999"
+  },
+  {
+    "name": "Cinny's Knip",
+    "street_address": "De Jachthoorn 29",
+    "postal_code": "8255EE",
+    "locality": "Swifterbant",
+    "region": "Flevoland",
+    "latitude": "52.5660641",
+    "longitude": "5.649331699999999"
+  },
+  {
+    "name": "Kapsalon Klein Knip",
+    "street_address": "Wijk 1 1 77",
+    "postal_code": "8321EN",
+    "locality": "Urk",
+    "region": "Flevoland",
+    "latitude": "52.6611967",
+    "longitude": "5.59765"
+  },
+  {
+    "name": "Haarstudio Gesane",
+    "street_address": "Erik Satiestraat 28",
+    "postal_code": "1323SN",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.36313699999999",
+    "longitude": "5.1895239"
+  },
+  {
+    "name": "Ellis",
+    "street_address": "Wittesteijn 3",
+    "postal_code": "8303XV",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.7063078",
+    "longitude": "5.736576299999999"
+  },
+  {
+    "name": "A.C. Kruishaar-Ponstein",
+    "street_address": "Schouw 3501",
+    "postal_code": "8232DJ",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.50929310000001",
+    "longitude": "5.4680262"
+  },
+  {
+    "name": "Hairfashion Rutten",
+    "street_address": "Meerweg 8",
+    "postal_code": "8313AJ",
+    "locality": "Rutten",
+    "region": "Flevoland",
+    "latitude": "52.8051407",
+    "longitude": "5.6958436"
+  },
+  {
+    "name": "GLOSS haar studio!",
+    "street_address": "Waterland 11",
+    "postal_code": "8245GG",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.4968906",
+    "longitude": "5.4536609"
+  },
+  {
+    "name": "Salon P. Dekens",
+    "street_address": "Noordeinde 51",
+    "postal_code": "1334AL",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.395874",
+    "longitude": "5.276203799999999"
+  },
+  {
+    "name": "Hair Flair",
+    "street_address": "Raadhuisstraat 16",
+    "postal_code": "3891EB",
+    "locality": "Zeewolde",
+    "region": "Flevoland",
+    "latitude": "52.3315104",
+    "longitude": "5.5429628"
+  },
+  {
+    "name": "The Hairboutique Chris",
+    "street_address": "Vulcanuspad 5",
+    "postal_code": "1363ZE",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3563102",
+    "longitude": "5.1585827"
+  },
+  {
+    "name": "Daar Heb Je Haar Weer",
+    "street_address": "Winde 49",
+    "postal_code": "3892HD",
+    "locality": "Zeewolde",
+    "region": "Flevoland",
+    "latitude": "52.31950339999999",
+    "longitude": "5.547994399999999"
+  },
+  {
+    "name": "Come 2 you",
+    "street_address": "Marjoleinstraat 5",
+    "postal_code": "1314JP",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3789163",
+    "longitude": "5.2026456"
+  },
+  {
+    "name": "Double You Hairstyling",
+    "street_address": "Basilicumweg 264",
+    "postal_code": "1313EJ",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3819038",
+    "longitude": "5.1994365"
+  },
+  {
+    "name": "Kapsalon Dick en Tineke van Dij..",
+    "street_address": "Langestreek 24",
+    "postal_code": "8531HW",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.8450474",
+    "longitude": "5.7079865"
+  },
+  {
+    "name": "Own Look",
+    "street_address": "Kerkplein 19",
+    "postal_code": "3891ED",
+    "locality": "Zeewolde",
+    "region": "Flevoland",
+    "latitude": "52.3313638",
+    "longitude": "5.5415052"
+  },
+  {
+    "name": "Kapper aan de Deur",
+    "street_address": "Alkmaargracht 160",
+    "postal_code": "1324PT",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3659768",
+    "longitude": "5.2062487"
+  },
+  {
+    "name": "Jurrien`s  Hairstyling",
+    "street_address": "Klipper 23",
+    "postal_code": "3891ZT",
+    "locality": "Zeewolde",
+    "region": "Flevoland",
+    "latitude": "52.3358628",
+    "longitude": "5.5327214"
+  },
+  {
+    "name": "Chaydie's top hair",
+    "street_address": "Sportlaan 77",
+    "postal_code": "8302AX",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.7147206",
+    "longitude": "5.7627925"
+  },
+  {
+    "name": "Casa Coiffure",
+    "street_address": "Botter 28 28/96",
+    "postal_code": "8232KL",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5042005",
+    "longitude": "5.463230299999999"
+  },
+  {
+    "name": "Afke Haar Salon",
+    "street_address": "Klutenweg 35",
+    "postal_code": "8312PC",
+    "locality": "Creil",
+    "region": "Flevoland",
+    "latitude": "52.7525966",
+    "longitude": "5.6773739"
+  },
+  {
+    "name": "Kapsalon Prins Haarmode",
+    "street_address": "Achterste Wei 15",
+    "postal_code": "3844HR",
+    "locality": "Harderwijk",
+    "region": "Gelderland",
+    "latitude": "52.3368963",
+    "longitude": "5.6081556"
+  },
+  {
+    "name": "Bianca's Haarmode",
+    "street_address": "Kamp 1279",
+    "postal_code": "8225DD",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.504715",
+    "longitude": "5.4804315"
+  },
+  {
+    "name": "Hair Factory Hilversum",
+    "street_address": "Zeelt 27",
+    "postal_code": "3892HK",
+    "locality": "Zeewolde",
+    "region": "Flevoland",
+    "latitude": "52.3199832",
+    "longitude": "5.5454881"
+  },
+  {
+    "name": "Kapsalon Ria",
+    "street_address": "Archipel 2220",
+    "postal_code": "8224GM",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.50996840000001",
+    "longitude": "5.4869998"
+  },
+  {
+    "name": "Hizi Hair",
+    "street_address": "Horsterplein 34",
+    "postal_code": "3891ES",
+    "locality": "Zeewolde",
+    "region": "Flevoland",
+    "latitude": "52.3308159",
+    "longitude": "5.5440001"
+  },
+  {
+    "name": "Cariene's Hair Service",
+    "street_address": "Plein 24",
+    "postal_code": "8256AZ",
+    "locality": "Biddinghuizen",
+    "region": "Flevoland",
+    "latitude": "52.45532499999999",
+    "longitude": "5.6930895"
+  },
+  {
+    "name": "Hair2wear",
+    "street_address": "Kornwierde 70",
+    "postal_code": "1353KG",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3394312",
+    "longitude": "5.202894"
+  },
+  {
+    "name": "Aurelia",
+    "street_address": "Schouw 4105",
+    "postal_code": "8232AP",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5089512",
+    "longitude": "5.4680117"
+  },
+  {
+    "name": "Hairservice At Yours",
+    "street_address": "De Sikkel 12",
+    "postal_code": "8253CS",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.5268115",
+    "longitude": "5.7016411"
+  },
+  {
+    "name": "TipTop Hair & Care",
+    "street_address": "Randweg 25",
+    "postal_code": "8304AS",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.7000792",
+    "longitude": "5.751764199999999"
+  },
+  {
+    "name": "Kapsalon Suderigge",
+    "street_address": "Christiaan de Vriesstraat 2",
+    "postal_code": "8531EL",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.84484",
+    "longitude": "5.7141131"
+  },
+  {
+    "name": "Style 4 You",
+    "street_address": "Parkwijklaan 73",
+    "postal_code": "1326BS",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3751851",
+    "longitude": "5.2501929"
+  },
+  {
+    "name": "M & S Haarmode",
+    "street_address": "Grootzeil 3",
+    "postal_code": "1319AS",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3874595",
+    "longitude": "5.1802788"
+  },
+  {
+    "name": "Haarstudio Lyan",
+    "street_address": "Fluessenstraat 10",
+    "postal_code": "8531RE",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.8489345",
+    "longitude": "5.6970247"
+  },
+  {
+    "name": "Ellis",
+    "street_address": "Lange Nering 71",
+    "postal_code": "8302EB",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.711654",
+    "longitude": "5.7577054"
+  },
+  {
+    "name": "Salon van Mourik",
+    "street_address": "Kamp 4303",
+    "postal_code": "8225HL",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.50163569999999",
+    "longitude": "5.488178800000001"
+  },
+  {
+    "name": "Kapsalon New Look Almere",
+    "street_address": "Markerkant 10 10-132 b",
+    "postal_code": "1316AA",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3877465",
+    "longitude": "5.2196887"
+  },
+  {
+    "name": "Leo's Hair Design",
+    "street_address": "Neringweg 386",
+    "postal_code": "8224KK",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.50662759999999",
+    "longitude": "5.4775034"
+  },
+  {
+    "name": "All About Hair",
+    "street_address": "Jimi Hendrixstraat 49",
+    "postal_code": "1311HV",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3677146",
+    "longitude": "5.1755992"
+  },
+  {
+    "name": "Hairfriends Haarverzorgers",
+    "street_address": "Kop van Het Ruim 79-91",
+    "postal_code": "8251KD",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.5253831",
+    "longitude": "5.719332"
+  },
+  {
+    "name": "House of Hair",
+    "street_address": "Okapistraat 46",
+    "postal_code": "1338JW",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3848401",
+    "longitude": "5.2742549"
+  },
+  {
+    "name": "Kapsalon Beautycenter Helen",
+    "street_address": "Hitchcocklaan 56",
+    "postal_code": "1325TE",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.35891669999999",
+    "longitude": "5.2454429"
+  },
+  {
+    "name": "Kapster Monique",
+    "street_address": "Bazuinpad 5",
+    "postal_code": "3845DX",
+    "locality": "Harderwijk",
+    "region": "Gelderland",
+    "latitude": "52.3273047",
+    "longitude": "5.5992623"
+  },
+  {
+    "name": "Kamila Mobiele Kapster",
+    "street_address": "Langs de Bogen 11",
+    "postal_code": "8255GG",
+    "locality": "Swifterbant",
+    "region": "Flevoland",
+    "latitude": "52.565406",
+    "longitude": "5.646680600000001"
+  },
+  {
+    "name": "Thuiskapster La Bella",
+    "street_address": "Horst 38 38 17",
+    "postal_code": "8225NL",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5026524",
+    "longitude": "5.490075699999999"
+  },
+  {
+    "name": "Kapsalon 't Kniphuus",
+    "street_address": "Henric de Cranestraat 7",
+    "postal_code": "8374KK",
+    "locality": "Kuinre",
+    "region": "Overijssel",
+    "latitude": "52.7875508",
+    "longitude": "5.8401127"
+  },
+  {
+    "name": "Kapsalon Petra",
+    "street_address": "Zeeasterpad 1",
+    "postal_code": "8219PM",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5070452",
+    "longitude": "5.5728475"
+  },
+  {
+    "name": "Kapsalon de Kap-zone",
+    "street_address": "Revalmeen 22",
+    "postal_code": "3844CE",
+    "locality": "Harderwijk",
+    "region": "Gelderland",
+    "latitude": "52.341832",
+    "longitude": "5.6110682"
+  },
+  {
+    "name": "My Dream",
+    "street_address": "Jol 13 13-12",
+    "postal_code": "8243EH",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.50788600000001",
+    "longitude": "5.4462981"
+  },
+  {
+    "name": "Kapsalon Rosa",
+    "street_address": "Burchtstraat 7",
+    "postal_code": "8374KC",
+    "locality": "Kuinre",
+    "region": "Overijssel",
+    "latitude": "52.78605899999999",
+    "longitude": "5.8424837"
+  },
+  {
+    "name": "Top Hair",
+    "street_address": "Rolklaverpad 24",
+    "postal_code": "1314PE",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3817874",
+    "longitude": "5.2071977"
+  },
+  {
+    "name": "Dyzl Barbershop",
+    "street_address": "Kolkweg 20 - 14",
+    "postal_code": "8243PN",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5053727",
+    "longitude": "5.4365234"
+  },
+  {
+    "name": "You & Me Hairstyling",
+    "street_address": "De Bunder 61",
+    "postal_code": "8252JK",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.5175969",
+    "longitude": "5.697248399999999"
+  },
+  {
+    "name": "Thuiskapster Yvette",
+    "street_address": "Galjoen 06 06-45",
+    "postal_code": "8243MJ",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.50835",
+    "longitude": "5.435499999999999"
+  },
+  {
+    "name": "Agnes' Hair Line",
+    "street_address": "Zuidsingel 42",
+    "postal_code": "8255CH",
+    "locality": "Swifterbant",
+    "region": "Flevoland",
+    "latitude": "52.57107449999999",
+    "longitude": "5.6436392"
+  },
+  {
+    "name": "Trendline Kappers",
+    "street_address": "Prozastraat 111 A",
+    "postal_code": "1321GZ",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3576166",
+    "longitude": "5.1830896"
+  },
+  {
+    "name": "Kapsalon Ri Jo",
+    "street_address": "Beursstraat 8",
+    "postal_code": "8302CW",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.7113871",
+    "longitude": "5.7539298"
+  },
+  {
+    "name": "Petra's Haarstudio",
+    "street_address": "Noordzeestraat 30",
+    "postal_code": "8303VK",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.7121947",
+    "longitude": "5.734236999999999"
+  },
+  {
+    "name": "Luxurious-Hairextensions",
+    "street_address": "De Vecht 6",
+    "postal_code": "8253PH",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.542745",
+    "longitude": "5.7037984"
+  },
+  {
+    "name": "Gait's Hairsalon",
+    "street_address": "Weversstraat 34",
+    "postal_code": "8223AC",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.51971229999999",
+    "longitude": "5.4829662"
+  },
+  {
+    "name": "Hairstudio Mixed",
+    "street_address": "Albrecht Dürerweg 172",
+    "postal_code": "1328TM",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3687534",
+    "longitude": "5.2738607"
+  },
+  {
+    "name": "Allround Hairstyling by Patrici..",
+    "street_address": "Donizettipad 9",
+    "postal_code": "1323BN",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3653558",
+    "longitude": "5.199879399999999"
+  },
+  {
+    "name": "Noëmi Keijzer H.O. B Creative H..",
+    "street_address": "Belfort 9",
+    "postal_code": "1315VA",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3701672",
+    "longitude": "5.218081"
+  },
+  {
+    "name": "Trendline Kappers",
+    "street_address": "Haagbeukweg 48",
+    "postal_code": "1326CP",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.37555889999999",
+    "longitude": "5.243319899999999"
+  },
+  {
+    "name": "Queens Hairstyling",
+    "street_address": "Flipjestraat 31",
+    "postal_code": "1336BC",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.404002",
+    "longitude": "5.3143487"
+  },
+  {
+    "name": "Knappe Koppie",
+    "street_address": "Kamp 3036",
+    "postal_code": "8225GN",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5023867",
+    "longitude": "5.4851316"
+  },
+  {
+    "name": "bij jolandas",
+    "street_address": "Zuiderpoort 4",
+    "postal_code": "8308AG",
+    "locality": "Nagele",
+    "region": "Flevoland",
+    "latitude": "52.6431063",
+    "longitude": "5.7226292"
+  },
+  {
+    "name": "Carin's Hair Service",
+    "street_address": "Tweelingen 97",
+    "postal_code": "3893DX",
+    "locality": "Zeewolde",
+    "region": "Flevoland",
+    "latitude": "52.33690610000001",
+    "longitude": "5.5166439"
+  },
+  {
+    "name": "Salon Bouclé",
+    "street_address": "De Schakel 1",
+    "postal_code": "8316AW",
+    "locality": "Marknesse",
+    "region": "Flevoland",
+    "latitude": "52.70854199999999",
+    "longitude": "5.862128299999999"
+  },
+  {
+    "name": "Nathalie Haarstudio",
+    "street_address": "Delacroixstraat 6",
+    "postal_code": "1328RD",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3667972",
+    "longitude": "5.264240399999999"
+  },
+  {
+    "name": "All Seasons",
+    "street_address": "Eeuwenweg 14-16",
+    "postal_code": "1335CR",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.4020047",
+    "longitude": "5.2898399"
+  },
+  {
+    "name": "De Knip Corner",
+    "street_address": "De Morinel 85",
+    "postal_code": "8251HT",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.5312546",
+    "longitude": "5.730959599999999"
+  },
+  {
+    "name": "Anthony's Hair Fashion",
+    "street_address": "Noordzijde 6 A",
+    "postal_code": "8302GL",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.7118134",
+    "longitude": "5.7545515"
+  },
+  {
+    "name": "Mirjam's Haarmode",
+    "street_address": "Trommelstraat 13",
+    "postal_code": "1312WD",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3739926",
+    "longitude": "5.1834107"
+  },
+  {
+    "name": "Afro Curls Beauty Salon",
+    "street_address": "Sumatraweg 5",
+    "postal_code": "1335HW",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.39956369999999",
+    "longitude": "5.294993499999999"
+  },
+  {
+    "name": "Behind The Mirror",
+    "street_address": "Wessel Ilckenstraat 233-235",
+    "postal_code": "1311RR",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3681489",
+    "longitude": "5.1876662"
+  },
+  {
+    "name": "Hair on Wheels",
+    "street_address": "Jan van Eyckstraat 87",
+    "postal_code": "1318GC",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3868174",
+    "longitude": "5.252286799999999"
+  },
+  {
+    "name": "Öz Gümüs Kapsalon",
+    "street_address": "Rode Klif 210",
+    "postal_code": "8223CK",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.522258",
+    "longitude": "5.4849352"
+  },
+  {
+    "name": "Junona",
+    "street_address": "Anjerstraat 10",
+    "postal_code": "1338TN",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3848095",
+    "longitude": "5.2808743"
+  },
+  {
+    "name": "Kapsalon Jowy",
+    "street_address": "Wijk 8 8 12 A",
+    "postal_code": "8321TG",
+    "locality": "Urk",
+    "region": "Flevoland",
+    "latitude": "52.66328980000001",
+    "longitude": "5.5981329"
+  },
+  {
+    "name": "Hairbeauty's",
+    "street_address": "Spot Mortonstraat 2",
+    "postal_code": "1336CW",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.4061172",
+    "longitude": "5.3196355"
+  },
+  {
+    "name": "Kapsalon ZieSoo Art",
+    "street_address": "Wardhof 4",
+    "postal_code": "8251TH",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.5128405",
+    "longitude": "5.7211968"
+  },
+  {
+    "name": "Andrea Haarstudio",
+    "street_address": "Buitenplaats 26",
+    "postal_code": "8212AJ",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5161701",
+    "longitude": "5.4991084"
+  },
+  {
+    "name": "Haar Bloemen",
+    "street_address": "Flakkee 93",
+    "postal_code": "8245GE",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.4957308",
+    "longitude": "5.4501365"
+  },
+  {
+    "name": "Flair Sun & Beauty Knipqueen",
+    "street_address": "De Rede 6",
+    "postal_code": "8251EV",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.5235132",
+    "longitude": "5.7162827"
+  },
+  {
+    "name": "Hairstudio Estelle",
+    "street_address": "De Binckhorst 31",
+    "postal_code": "8226RN",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.4967763",
+    "longitude": "5.5073938"
+  },
+  {
+    "name": "Knippen & Zo",
+    "street_address": "Regenboogweg 50",
+    "postal_code": "1339BE",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3939574",
+    "longitude": "5.2935623"
+  },
+  {
+    "name": "Miracle's Hair Design",
+    "street_address": "Punter 4866",
+    "postal_code": "8242GL",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5189019",
+    "longitude": "5.4451871"
+  },
+  {
+    "name": "Christel's Hairdesign",
+    "street_address": "Karveelstraat 8",
+    "postal_code": "1335SN",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.4088631",
+    "longitude": "5.2919909"
+  },
+  {
+    "name": "The Young Studio",
+    "street_address": "Jozef Israëlslaan 28",
+    "postal_code": "1318LR",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3794858",
+    "longitude": "5.2542184"
+  },
+  {
+    "name": "Trendy's Hair & Nails",
+    "street_address": "Busplein 3",
+    "postal_code": "1315KP",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3743476",
+    "longitude": "5.216648999999999"
+  },
+  {
+    "name": "Trend Line Kappers",
+    "street_address": "Stationsplein 32",
+    "postal_code": "1315KT",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3749473",
+    "longitude": "5.2190762"
+  },
+  {
+    "name": "Haarstudi Jo",
+    "street_address": "Graaf Florislaan 51 B",
+    "postal_code": "8312AW",
+    "locality": "Creil",
+    "region": "Flevoland",
+    "latitude": "52.7631403",
+    "longitude": "5.6612955"
+  },
+  {
+    "name": "Monique's Hairfashion",
+    "street_address": "Land van Saaftinge 12",
+    "postal_code": "8302PE",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.7176475",
+    "longitude": "5.7237826"
+  },
+  {
+    "name": "De Kapster aan Huis Marian",
+    "street_address": "Stieltjesstraat 30",
+    "postal_code": "8302GZ",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.7140432",
+    "longitude": "5.761025699999999"
+  },
+  {
+    "name": "Giovanna Haarmode",
+    "street_address": "Marktmeesterstraat 113",
+    "postal_code": "1315GC",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3732646",
+    "longitude": "5.217643499999999"
+  },
+  {
+    "name": "Hairstudio Farah",
+    "street_address": "Siennastraat 59",
+    "postal_code": "1339AR",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3961657",
+    "longitude": "5.294633000000001"
+  },
+  {
+    "name": "Kapsalon De Regenboog",
+    "street_address": "De Regenboog 100 A",
+    "postal_code": "8254AB",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.52382",
+    "longitude": "5.7254498"
+  },
+  {
+    "name": "Flash Look",
+    "street_address": "Topshoofd 33",
+    "postal_code": "8321CV",
+    "locality": "Urk",
+    "region": "Flevoland",
+    "latitude": "52.6616683",
+    "longitude": "5.6100975"
+  },
+  {
+    "name": "Bruid en Beauty Almere",
+    "street_address": "Jozef Israëlslaan 157",
+    "postal_code": "1318RK",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3818551",
+    "longitude": "5.259278399999999"
+  },
+  {
+    "name": "Get Fixed",
+    "street_address": "Mickey Mousestraat 7",
+    "postal_code": "1336ZG",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.40144009999999",
+    "longitude": "5.330898299999999"
+  },
+  {
+    "name": "4 Hair 22",
+    "street_address": "Concourslaan 22",
+    "postal_code": "8252GJ",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.5142329",
+    "longitude": "5.706712899999999"
+  },
+  {
+    "name": "Hairstudio mariska",
+    "street_address": "Schoener 18 18 16",
+    "postal_code": "8243TP",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5021931",
+    "longitude": "5.4536688"
+  },
+  {
+    "name": "Caroleyes",
+    "street_address": "Gondel 1245",
+    "postal_code": "8243BK",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5093094",
+    "longitude": "5.4565813"
+  },
+  {
+    "name": "Kapsalon Johan",
+    "street_address": "Bisschopstraat 3",
+    "postal_code": "8325BA",
+    "locality": "Vollenhove",
+    "region": "Overijssel",
+    "latitude": "52.68097419999999",
+    "longitude": "5.9496968"
+  },
+  {
+    "name": "Hairstyling Edith",
+    "street_address": "Deltastraat 1",
+    "postal_code": "8303HB",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.7135441",
+    "longitude": "5.739031199999999"
+  },
+  {
+    "name": "Haar",
+    "street_address": "Horst 3205",
+    "postal_code": "8225NP",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5048424",
+    "longitude": "5.492021299999999"
+  },
+  {
+    "name": "My Sizzor",
+    "street_address": "Creilerpad 5",
+    "postal_code": "8312PP",
+    "locality": "Creil",
+    "region": "Flevoland",
+    "latitude": "52.76947920000001",
+    "longitude": "5.6519115"
+  },
+  {
+    "name": "Hair@Home",
+    "street_address": "Lavendelplantsoen 77",
+    "postal_code": "1313GA",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3817901",
+    "longitude": "5.197386700000001"
+  },
+  {
+    "name": "Salon Joke",
+    "street_address": "De Sikkel 13",
+    "postal_code": "8253CS",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.5271117",
+    "longitude": "5.701721099999999"
+  },
+  {
+    "name": "Nicole Hair & Beauty",
+    "street_address": "Baksteen 73",
+    "postal_code": "8253LB",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.5404537",
+    "longitude": "5.6844883"
+  },
+  {
+    "name": "Patricia's Hairstyling",
+    "street_address": "Mercuriusstraat 30",
+    "postal_code": "8303BG",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.7038229",
+    "longitude": "5.737221"
+  },
+  {
+    "name": "Rainbow Hair & Beauty",
+    "street_address": "Schieland 46",
+    "postal_code": "8245GH",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.4950942",
+    "longitude": "5.446721"
+  },
+  {
+    "name": "Priscilla\\'s hairfashion",
+    "street_address": "Kolkweg 20-22",
+    "postal_code": "8243PN",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5048797",
+    "longitude": "5.436558799999999"
+  },
+  {
+    "name": "Monaliza Hair & Beauty",
+    "street_address": "Botter 39 39-07",
+    "postal_code": "8243KA",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.506241",
+    "longitude": "5.4600313"
+  },
+  {
+    "name": "Hairsalon Antonia",
+    "street_address": "Neringpassage 74",
+    "postal_code": "8224JN",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5086222",
+    "longitude": "5.476185"
+  },
+  {
+    "name": "DahliaSilkyHair Design",
+    "street_address": "Capricciostraat 02",
+    "postal_code": "1312SG",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3777602",
+    "longitude": "5.1876488"
+  },
+  {
+    "name": "Kapper Avci",
+    "street_address": "Fjord 141",
+    "postal_code": "8224DJ",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5146796",
+    "longitude": "5.4875257"
+  },
+  {
+    "name": "HAAR studio",
+    "street_address": "De Zate 20",
+    "postal_code": "8251HD",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.5278043",
+    "longitude": "5.7224279"
+  },
+  {
+    "name": "Somvang Hairline",
+    "street_address": "Swingdreef 39",
+    "postal_code": "3845BV",
+    "locality": "Harderwijk",
+    "region": "Gelderland",
+    "latitude": "52.3295738",
+    "longitude": "5.5969406"
+  },
+  {
+    "name": "Kapsalon Joyce",
+    "street_address": "De IJslander 13",
+    "postal_code": "8252HG",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.513077",
+    "longitude": "5.7046746"
+  },
+  {
+    "name": "Bubbels",
+    "street_address": "Grutterswal 126",
+    "postal_code": "8223AE",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.52008350000001",
+    "longitude": "5.4843999"
+  },
+  {
+    "name": "Hair@Home Petra Warmolts",
+    "street_address": "Leliestraat 6",
+    "postal_code": "8311AG",
+    "locality": "Espel",
+    "region": "Flevoland",
+    "latitude": "52.7263451",
+    "longitude": "5.6425032"
+  },
+  {
+    "name": "Haarfijn Zeewolde",
+    "street_address": "Corridor 43",
+    "postal_code": "3893BB",
+    "locality": "Zeewolde",
+    "region": "Flevoland",
+    "latitude": "52.3332576",
+    "longitude": "5.5227556"
+  },
+  {
+    "name": "Sita Beauty Center",
+    "street_address": "Neringpassage 63",
+    "postal_code": "8224JC",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5085858",
+    "longitude": "5.4767889"
+  },
+  {
+    "name": "Hair and Body Adventure",
+    "street_address": "Breestraat 30",
+    "postal_code": "8316AR",
+    "locality": "Marknesse",
+    "region": "Flevoland",
+    "latitude": "52.7078195",
+    "longitude": "5.863008199999999"
+  },
+  {
+    "name": "Salon Viable",
+    "street_address": "Beneluxlaan 612",
+    "postal_code": "1363BB",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3482863",
+    "longitude": "5.1526805"
+  },
+  {
+    "name": "Knip Boetiek",
+    "street_address": "Bredehof 1",
+    "postal_code": "8311AH",
+    "locality": "Espel",
+    "region": "Flevoland",
+    "latitude": "52.7247503",
+    "longitude": "5.6443886"
+  },
+  {
+    "name": "Hizi Hair",
+    "street_address": "Noordeinde 249",
+    "postal_code": "1334BN",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.39417839999999",
+    "longitude": "5.2787236"
+  },
+  {
+    "name": "Gerth Coiffures",
+    "street_address": "Houtstraat 22-24",
+    "postal_code": "1353BB",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.33485899999999",
+    "longitude": "5.216587"
+  },
+  {
+    "name": "Anna's Mobiele Haarstudio",
+    "street_address": "Amersfoortweg 64",
+    "postal_code": "1324PH",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.36461200000001",
+    "longitude": "5.2070911"
+  },
+  {
+    "name": "Barbershop barberiano",
+    "street_address": "Kerkstraat 8",
+    "postal_code": "8325BK",
+    "locality": "Vollenhove",
+    "region": "Overijssel",
+    "latitude": "52.6812881",
+    "longitude": "5.9488309"
+  },
+  {
+    "name": "Kapsalon Jet",
+    "street_address": "Lemsterpoort 10",
+    "postal_code": "8313AD",
+    "locality": "Rutten",
+    "region": "Flevoland",
+    "latitude": "52.80599729999999",
+    "longitude": "5.6981926"
+  },
+  {
+    "name": "Lizaan",
+    "street_address": "Chicagostraat 2",
+    "postal_code": "1334AA",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3953371",
+    "longitude": "5.2742494"
+  },
+  {
+    "name": "kapsalon jolanthe",
+    "street_address": "Baan 29 a",
+    "postal_code": "8307AS",
+    "locality": "Ens",
+    "region": "Flevoland",
+    "latitude": "52.6364539",
+    "longitude": "5.8253938"
+  },
+  {
+    "name": "'t Kappers Koppie",
+    "street_address": "Oudeweg 45",
+    "postal_code": "8316AD",
+    "locality": "Marknesse",
+    "region": "Flevoland",
+    "latitude": "52.7100152",
+    "longitude": "5.867904800000001"
+  },
+  {
+    "name": "Kapsalon Vive La Fête!",
+    "street_address": "Moerasandijviestraat 28",
+    "postal_code": "8302CK",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.7122822",
+    "longitude": "5.746271999999999"
+  },
+  {
+    "name": "Scissors Cut & Color",
+    "street_address": "De Amstel 52",
+    "postal_code": "8253PC",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.5416642",
+    "longitude": "5.7009554"
+  },
+  {
+    "name": "Kapsalon Leni",
+    "street_address": "Atheneplantsoen 1",
+    "postal_code": "1334EL",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3962915",
+    "longitude": "5.2798204"
+  },
+  {
+    "name": "Sylvana Tjin-Tjoen-Jin Hairstyl..",
+    "street_address": "Nescioplantsoen 8",
+    "postal_code": "1321BJ",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3598452",
+    "longitude": "5.1881733"
+  },
+  {
+    "name": "Ruby's Hairfashion",
+    "street_address": "Voorstraat 2",
+    "postal_code": "8317AG",
+    "locality": "Kraggenburg",
+    "region": "Flevoland",
+    "latitude": "52.6631035",
+    "longitude": "5.8989156"
+  },
+  {
+    "name": "Radi's Beauty",
+    "street_address": "Westerwolde 22",
+    "postal_code": "8245DD",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.495856",
+    "longitude": "5.469636100000001"
+  },
+  {
+    "name": "Kappersbedrijf Van de Ven-van L..",
+    "street_address": "Zwolleweg 22",
+    "postal_code": "1324EN",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.36715359999999",
+    "longitude": "5.211852599999999"
+  },
+  {
+    "name": "Joana Rosa Afro European Hairdr..",
+    "street_address": "Markerkant 1201- 09",
+    "postal_code": "1314AJ",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3862466",
+    "longitude": "5.214127299999999"
+  },
+  {
+    "name": "Rose Hairstyling",
+    "street_address": "Verlengde Baan 8",
+    "postal_code": "8256HB",
+    "locality": "Biddinghuizen",
+    "region": "Flevoland",
+    "latitude": "52.4552619",
+    "longitude": "5.694288200000001"
+  },
+  {
+    "name": "Haarstudio 4",
+    "street_address": "Diadeemstraat 104",
+    "postal_code": "1336TS",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.411221",
+    "longitude": "5.303813799999999"
+  },
+  {
+    "name": "Hair in Motion",
+    "street_address": "Raadhuisplein 15",
+    "postal_code": "3891ER",
+    "locality": "Zeewolde",
+    "region": "Flevoland",
+    "latitude": "52.3321982",
+    "longitude": "5.5448568"
+  },
+  {
+    "name": "Kapsalon Gert van der Graaf",
+    "street_address": "Wittesteijn 5",
+    "postal_code": "8303XV",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.7062985",
+    "longitude": "5.7366946"
+  },
+  {
+    "name": "Bibob",
+    "street_address": "Madridweg 20-24",
+    "postal_code": "1334DP",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3950493",
+    "longitude": "5.277766499999999"
+  },
+  {
+    "name": "Hairstyliste Helga",
+    "street_address": "Pierre Kempstraat 10",
+    "postal_code": "1321PL",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3558053",
+    "longitude": "5.1802796"
+  },
+  {
+    "name": "Kinki Kappers Almere",
+    "street_address": "Grote Markt 51",
+    "postal_code": "1315JC",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.372833",
+    "longitude": "5.217512999999999"
+  },
+  {
+    "name": "Yvon's Hair/Nails Shop",
+    "street_address": "Stellingmolenstraat 2-4",
+    "postal_code": "1333CK",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.4003471",
+    "longitude": "5.270192"
+  },
+  {
+    "name": "Kapsalon Elo",
+    "street_address": "Kerkstraat 23",
+    "postal_code": "8325BH",
+    "locality": "Vollenhove",
+    "region": "Overijssel",
+    "latitude": "52.6816433",
+    "longitude": "5.949721299999999"
+  },
+  {
+    "name": "Mevr. N. Moes H.O. B Creative H..",
+    "street_address": "Belfort 9",
+    "postal_code": "1315VA",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3701672",
+    "longitude": "5.218081"
+  },
+  {
+    "name": "Kapsalon Margreet",
+    "street_address": "Ringdijk 56 I",
+    "postal_code": "8244BB",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.4997884",
+    "longitude": "5.4193468"
+  },
+  {
+    "name": "Hairstudio 'Desiree'",
+    "street_address": "Weversstraat 16",
+    "postal_code": "8223AC",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.52034219999999",
+    "longitude": "5.4833053"
+  },
+  {
+    "name": "Debby's",
+    "street_address": "Sont 18",
+    "postal_code": "8226AB",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.4976186",
+    "longitude": "5.4910947"
+  },
+  {
+    "name": "Claudia's Haarstudio",
+    "street_address": "Dinsdagstraat 17",
+    "postal_code": "1335LH",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.40767719999999",
+    "longitude": "5.279087"
+  },
+  {
+    "name": "Society Hair",
+    "street_address": "Wold 2061",
+    "postal_code": "8225AV",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5048533",
+    "longitude": "5.491924399999999"
+  },
+  {
+    "name": "Capelli",
+    "street_address": "Rumbastraat 63",
+    "postal_code": "1326NK",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.36722",
+    "longitude": "5.2562226"
+  },
+  {
+    "name": "Haarstudio Marianne",
+    "street_address": "Schans 12 A",
+    "postal_code": "8531DW",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.8433727",
+    "longitude": "5.7117423"
+  },
+  {
+    "name": "Adija",
+    "street_address": "Wijk 2 2 97",
+    "postal_code": "8321EV",
+    "locality": "Urk",
+    "region": "Flevoland",
+    "latitude": "52.6618346",
+    "longitude": "5.597786"
+  },
+  {
+    "name": "Haircules Hairstyling",
+    "street_address": "Schoutstraat 29",
+    "postal_code": "1315EV",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3740733",
+    "longitude": "5.2176674"
+  },
+  {
+    "name": "Haarmode Judith",
+    "street_address": "Schildmeerstraat 9",
+    "postal_code": "1317BE",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3882768",
+    "longitude": "5.2301062"
+  },
+  {
+    "name": "Mobiele Hairdressing Pascal",
+    "street_address": "Biotoop 43",
+    "postal_code": "3893BH",
+    "locality": "Zeewolde",
+    "region": "Flevoland",
+    "latitude": "52.3321097",
+    "longitude": "5.5234567"
+  },
+  {
+    "name": "Studio Silvia",
+    "street_address": "Leendert Valstarstraat 27",
+    "postal_code": "1318CH",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3815604",
+    "longitude": "5.2451796"
+  },
+  {
+    "name": "Family Hairstyle",
+    "street_address": "Hengelostraat 68",
+    "postal_code": "1324GT",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.36655349999999",
+    "longitude": "5.2132204"
+  },
+  {
+    "name": "BrainWash Almere Stad",
+    "street_address": "Korte Promenade 2-6",
+    "postal_code": "1315HA",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3706889",
+    "longitude": "5.2170431"
+  },
+  {
+    "name": "Kapsalon Arja",
+    "street_address": "Jan Rijksenstraat 114",
+    "postal_code": "1335NV",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.405524",
+    "longitude": "5.2931853"
+  },
+  {
+    "name": "Kapsalon Veringa",
+    "street_address": "Smeden 2",
+    "postal_code": "8301XH",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.7089992",
+    "longitude": "5.7530813"
+  },
+  {
+    "name": "RAFI'S Kapsalon",
+    "street_address": "Brink 2",
+    "postal_code": "1354HJ",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3376721",
+    "longitude": "5.218525"
+  },
+  {
+    "name": "Kapsalon Karin",
+    "street_address": "Händelstraat 19",
+    "postal_code": "1323AC",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3674366",
+    "longitude": "5.2015018"
+  },
+  {
+    "name": "Flash Hair",
+    "street_address": "Kimwierde 33",
+    "postal_code": "1353DC",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3367831",
+    "longitude": "5.2084282"
+  },
+  {
+    "name": "Kapsalon Evert",
+    "street_address": "De Poort 2",
+    "postal_code": "8255AA",
+    "locality": "Swifterbant",
+    "region": "Flevoland",
+    "latitude": "52.5715678",
+    "longitude": "5.6436118"
+  },
+  {
+    "name": "Kapsalon P. Dekens",
+    "street_address": "'s-Hertogenboschplein 19",
+    "postal_code": "1324WB",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.359686",
+    "longitude": "5.2052657"
+  },
+  {
+    "name": "Joy for Hair",
+    "street_address": "Karveel ",
+    "postal_code": "8242XG",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5227357",
+    "longitude": "5.4540465"
+  },
+  {
+    "name": "Kapsalon De Horsterhoek",
+    "street_address": "Fokko Kortlanglaan 2",
+    "postal_code": "3853KG",
+    "locality": "Ermelo",
+    "region": "Gelderland",
+    "latitude": "52.3104774",
+    "longitude": "5.5933595"
+  },
+  {
+    "name": "Hairline Kapsalon",
+    "street_address": "Wijk 7 7 136",
+    "postal_code": "8321TE",
+    "locality": "Urk",
+    "region": "Flevoland",
+    "latitude": "52.6612601",
+    "longitude": "5.602424399999999"
+  },
+  {
+    "name": "Jolanda's Hairstyling",
+    "street_address": "Deltastraat 106",
+    "postal_code": "8303HE",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.71250569999999",
+    "longitude": "5.7376171"
+  },
+  {
+    "name": "Thuiskapster Charlotte",
+    "street_address": "Griend 2266",
+    "postal_code": "8225RB",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.4993966",
+    "longitude": "5.4872624"
+  },
+  {
+    "name": "Mobiele Hairstyling",
+    "street_address": "Archipel 2305",
+    "postal_code": "8224GR",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5116042",
+    "longitude": "5.486807799999999"
+  },
+  {
+    "name": "Cisa's Haie & Body Fashion",
+    "street_address": "Haarlemmermeer 6",
+    "postal_code": "8302NP",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.7202509",
+    "longitude": "5.7302615"
+  },
+  {
+    "name": "KC Kappers",
+    "street_address": "Kempenaar 03 0329 a",
+    "postal_code": "8242BD",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5174797",
+    "longitude": "5.4592303"
+  },
+  {
+    "name": "HairJo",
+    "street_address": "Archipel 2539",
+    "postal_code": "8224GV",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5116042",
+    "longitude": "5.486807799999999"
+  },
+  {
+    "name": "Belhair",
+    "street_address": "Leeuwstraat 29",
+    "postal_code": "1338BK",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3872704",
+    "longitude": "5.2727768"
+  },
+  {
+    "name": "Haarsucces",
+    "street_address": "Wijnvat 13",
+    "postal_code": "8253LL",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.5395207",
+    "longitude": "5.6834623"
+  },
+  {
+    "name": "Michéle Topstyliste",
+    "street_address": "Oosterom 38",
+    "postal_code": "8303KL",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.7142407",
+    "longitude": "5.7281748"
+  },
+  {
+    "name": "De Knipcorner",
+    "street_address": "Waagpassage 122",
+    "postal_code": "8232DW",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.5098097",
+    "longitude": "5.474626199999999"
+  },
+  {
+    "name": "Kapsalon Restylers",
+    "street_address": "Stevinhof 6",
+    "postal_code": "3891HD",
+    "locality": "Zeewolde",
+    "region": "Flevoland",
+    "latitude": "52.3323443",
+    "longitude": "5.5438788"
+  },
+  {
+    "name": "Hizi Hair",
+    "street_address": "Spoordreef 47",
+    "postal_code": "1315GL",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3712133",
+    "longitude": "5.2161536"
+  },
+  {
+    "name": "Renate's Haar Express",
+    "street_address": "Karveel 4701",
+    "postal_code": "8242VE",
+    "locality": "Lelystad",
+    "region": "Flevoland",
+    "latitude": "52.52130769999999",
+    "longitude": "5.4580994"
+  },
+  {
+    "name": "Simone's Hairfashion",
+    "street_address": "Dominee Bleekerstraat 7",
+    "postal_code": "8316CV",
+    "locality": "Marknesse",
+    "region": "Flevoland",
+    "latitude": "52.7114205",
+    "longitude": "5.868167199999999"
+  },
+  {
+    "name": "So Beautiful",
+    "street_address": "Meindert Hobbemastraat 194",
+    "postal_code": "1318PH",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.383266",
+    "longitude": "5.2592009"
+  },
+  {
+    "name": "Barbier Rogier Almere",
+    "street_address": "Deventerpad 18",
+    "postal_code": "1324EE",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3678307",
+    "longitude": "5.213876099999999"
+  },
+  {
+    "name": "M. Werkman Haarmode",
+    "street_address": "Belfort 138",
+    "postal_code": "1315VD",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.36999309999999",
+    "longitude": "5.2176119"
+  },
+  {
+    "name": "Zizzors Hairstyling",
+    "street_address": "Annie M.G. Schmidtweg 107",
+    "postal_code": "1321JB",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3550373",
+    "longitude": "5.1884297"
+  },
+  {
+    "name": "Mondria Haarmode",
+    "street_address": "Kerkstraat 62",
+    "postal_code": "8325BL",
+    "locality": "Vollenhove",
+    "region": "Overijssel",
+    "latitude": "52.6816064",
+    "longitude": "5.9528251"
+  },
+  {
+    "name": "Sissors",
+    "street_address": "Remise 5",
+    "postal_code": "8316EE",
+    "locality": "Marknesse",
+    "region": "Flevoland",
+    "latitude": "52.7084425",
+    "longitude": "5.8577474"
+  },
+  {
+    "name": "Twogether",
+    "street_address": "Europalaan 116",
+    "postal_code": "8303GL",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.7109598",
+    "longitude": "5.740727"
+  },
+  {
+    "name": "10 voor Haar",
+    "street_address": "Barkentijn 44",
+    "postal_code": "8531CZ",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.8427588",
+    "longitude": "5.7224832"
+  },
+  {
+    "name": "Op & Top Thuiskappers",
+    "street_address": "Corsicastraat 4",
+    "postal_code": "1324KW",
+    "locality": "Almere",
+    "region": "Flevoland",
+    "latitude": "52.3978573",
+    "longitude": "5.302963"
+  }
+]
