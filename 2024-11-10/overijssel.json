@@ -1,0 +1,677 @@
+[
+  {
+    "name": "Kapsalon gwoon Sanne",
+    "street_address": "Kooiweg 1",
+    "postal_code": "7683RR",
+    "locality": "Den Ham",
+    "region": "Overijssel",
+    "latitude": "52.4651507",
+    "longitude": "6.5277121"
+  },
+  {
+    "name": "Haarmode Sunny Look",
+    "street_address": "de Eik 6",
+    "postal_code": "7482WB",
+    "locality": "Haaksbergen",
+    "region": "Overijssel",
+    "latitude": "52.16691609999999",
+    "longitude": "6.7501642"
+  },
+  {
+    "name": "Sophie's Perfect Picture",
+    "street_address": "Havikskruid 18",
+    "postal_code": "7443MD",
+    "locality": "Nijverdal",
+    "region": "Overijssel",
+    "latitude": "52.3812323",
+    "longitude": "6.479996"
+  },
+  {
+    "name": "Lúx by Robin",
+    "street_address": "Taanderij 6",
+    "postal_code": "8531WD",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.8571837",
+    "longitude": "5.720397"
+  },
+  {
+    "name": "Uw kapster Janine",
+    "street_address": "Alsemhof 23",
+    "postal_code": "7641GD",
+    "locality": "Wierden",
+    "region": "Overijssel",
+    "latitude": "52.3609259",
+    "longitude": "6.6059354"
+  },
+  {
+    "name": "TipTop Hair & Care",
+    "street_address": "Randweg 25",
+    "postal_code": "8304AS",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.7000792",
+    "longitude": "5.751764199999999"
+  },
+  {
+    "name": "Infinity Hairsalon",
+    "street_address": "Grotestraat 185 a",
+    "postal_code": "7607CL",
+    "locality": "Almelo",
+    "region": "Overijssel",
+    "latitude": "52.3527181",
+    "longitude": "6.6648033"
+  },
+  {
+    "name": "Kapsalon Mus’ab",
+    "street_address": "Oudestraat 97",
+    "postal_code": "8261CJ",
+    "locality": "Kampen",
+    "region": "Overijssel",
+    "latitude": "52.5578115",
+    "longitude": "5.9176179"
+  },
+  {
+    "name": "Haarfashion",
+    "street_address": "De Vos van Steenwijklaan 54 A",
+    "postal_code": "7902NS",
+    "locality": "Hoogeveen",
+    "region": "Drenthe",
+    "latitude": "52.7262093",
+    "longitude": "6.4927307"
+  },
+  {
+    "name": "lienekejansenhairstylist",
+    "street_address": "Coevorderweg 27 7",
+    "postal_code": "7737PE",
+    "locality": "Stegeren",
+    "region": "Overijssel",
+    "latitude": "52.5477643",
+    "longitude": "6.5021088"
+  },
+  {
+    "name": "Home Alone Hairstyling & more",
+    "street_address": "Zwartekolk 15",
+    "postal_code": "8191TJ",
+    "locality": "Wapenveld",
+    "region": "Gelderland",
+    "latitude": "52.435208",
+    "longitude": "6.0820571"
+  },
+  {
+    "name": "Coco Jari",
+    "street_address": "Vleeshouwerstraat 9",
+    "postal_code": "7411JN",
+    "locality": "Deventer",
+    "region": "Overijssel",
+    "latitude": "52.2522453",
+    "longitude": "6.1574105"
+  },
+  {
+    "name": "Way 4 Hair",
+    "street_address": "Het Bijvank 89 A",
+    "postal_code": "7544DA",
+    "locality": "Enschede",
+    "region": "Overijssel",
+    "latitude": "52.19532969999999",
+    "longitude": "6.8754021"
+  },
+  {
+    "name": "Chique Design",
+    "street_address": "De Krumpel 5",
+    "postal_code": "7761GV",
+    "locality": "Schoonebeek",
+    "region": "Drenthe",
+    "latitude": "52.66567380000001",
+    "longitude": "6.8791803"
+  },
+  {
+    "name": "Hairstyliste Ina",
+    "street_address": "De Omloop 22",
+    "postal_code": "8326DM",
+    "locality": "Sint Jansklooster",
+    "region": "Overijssel",
+    "latitude": "52.68033459999999",
+    "longitude": "6.0006108"
+  },
+  {
+    "name": "Hairbysimon",
+    "street_address": "Gasthuisstraat 11",
+    "postal_code": "7201MN",
+    "locality": "Zutphen",
+    "region": "Gelderland",
+    "latitude": "52.1438664",
+    "longitude": "6.1956725"
+  },
+  {
+    "name": "Sher kapper twello",
+    "street_address": "van Ghentstraat 17",
+    "postal_code": "7391CR",
+    "locality": "Twello",
+    "region": "Gelderland",
+    "latitude": "52.2362921",
+    "longitude": "6.1040563"
+  },
+  {
+    "name": "Kapsalon A New Look",
+    "street_address": "Van Hetenstraat 63 A",
+    "postal_code": "7415TT",
+    "locality": "Deventer",
+    "region": "Overijssel",
+    "latitude": "52.2679509",
+    "longitude": "6.16376"
+  },
+  {
+    "name": "Hairstyle by E",
+    "street_address": "Wilhelminastraat 1",
+    "postal_code": "7442GC",
+    "locality": "Nijverdal",
+    "region": "Overijssel",
+    "latitude": "52.36103689999999",
+    "longitude": "6.472639"
+  },
+  {
+    "name": "Barbershop Silvan in Lochem",
+    "street_address": "Walderstraat 15",
+    "postal_code": "7241BH",
+    "locality": "Lochem",
+    "region": "Gelderland",
+    "latitude": "52.1620303",
+    "longitude": "6.4136413"
+  },
+  {
+    "name": "Figaro's Haarmode",
+    "street_address": "Edveensweg 7",
+    "postal_code": "7861AM",
+    "locality": "Oosterhesselen",
+    "region": "Drenthe",
+    "latitude": "52.7578378",
+    "longitude": "6.7193514"
+  },
+  {
+    "name": "Shef's Haircenter",
+    "street_address": "Brinkgreverweg 28 A",
+    "postal_code": "7413AC",
+    "locality": "Deventer",
+    "region": "Overijssel",
+    "latitude": "52.2566801",
+    "longitude": "6.1651755"
+  },
+  {
+    "name": "Hendy's Herensalon",
+    "street_address": "Hassinklaan 39",
+    "postal_code": "7214AB",
+    "locality": "Epse",
+    "region": "Gelderland",
+    "latitude": "52.2247671",
+    "longitude": "6.2010136"
+  },
+  {
+    "name": "De mannen kapper Hattem",
+    "street_address": "Kerkstraat 42",
+    "postal_code": "8051GM",
+    "locality": "Hattem",
+    "region": "Gelderland",
+    "latitude": "52.4749796",
+    "longitude": "6.0670274"
+  },
+  {
+    "name": "Shiba Hair and Beauty",
+    "street_address": "Hofveld 107",
+    "postal_code": "7333BK",
+    "locality": "Apeldoorn",
+    "region": "Gelderland",
+    "latitude": "52.19080959999999",
+    "longitude": "5.966187"
+  },
+  {
+    "name": "HairbyLizz",
+    "street_address": "M.C. Escherweg 2",
+    "postal_code": "7425RJ",
+    "locality": "Deventer",
+    "region": "Overijssel",
+    "latitude": "52.2639734",
+    "longitude": "6.2324828"
+  },
+  {
+    "name": "Estilona, uw natuurkapster aan..",
+    "street_address": "Pathmossingel 167",
+    "postal_code": "7513CG",
+    "locality": "Enschede",
+    "region": "Overijssel",
+    "latitude": "52.2164049",
+    "longitude": "6.875755"
+  },
+  {
+    "name": "Salon 1850",
+    "street_address": "Spittaalstraat 36",
+    "postal_code": "7201EE",
+    "locality": "Zutphen",
+    "region": "Gelderland",
+    "latitude": "52.1380511",
+    "longitude": "6.1996361"
+  },
+  {
+    "name": "Kapsalon Patricia",
+    "street_address": "Oosterbrugstraat 19",
+    "postal_code": "8281BT",
+    "locality": "Genemuiden",
+    "region": "Overijssel",
+    "latitude": "52.625138",
+    "longitude": "6.0425557"
+  },
+  {
+    "name": "Goodhairday by Rachel",
+    "street_address": "Broederenstraat 45",
+    "postal_code": "7411LB",
+    "locality": "Deventer",
+    "region": "Overijssel",
+    "latitude": "52.2540451",
+    "longitude": "6.156462899999999"
+  },
+  {
+    "name": "Haaridee Apeldoorn in Ugchelen",
+    "street_address": "Bouwhofweg 61",
+    "postal_code": "7339HC",
+    "locality": "Ugchelen",
+    "region": "Gelderland",
+    "latitude": "52.188089",
+    "longitude": "5.9484993"
+  },
+  {
+    "name": "Hairstyling Manon",
+    "street_address": "Schupstoel 5 a",
+    "postal_code": "7201CZ",
+    "locality": "Zutphen",
+    "region": "Gelderland",
+    "latitude": "52.1408739",
+    "longitude": "6.1982195"
+  },
+  {
+    "name": "Mariska Maakt Mooi",
+    "street_address": "Beekstraat 8 d",
+    "postal_code": "7311LD",
+    "locality": "Apeldoorn",
+    "region": "Gelderland",
+    "latitude": "52.21351019999999",
+    "longitude": "5.964765499999999"
+  },
+  {
+    "name": "Kapsalon Arif",
+    "street_address": "Assendorperstraat 22 A",
+    "postal_code": "8011KB",
+    "locality": "Zwolle",
+    "region": "Overijssel",
+    "latitude": "52.5080848",
+    "longitude": "6.0986923"
+  },
+  {
+    "name": "De Kapsalon",
+    "street_address": "Eurowerft 18",
+    "postal_code": "7591DG",
+    "locality": "Denekamp",
+    "region": "Overijssel",
+    "latitude": "52.37555090000001",
+    "longitude": "7.007071"
+  },
+  {
+    "name": "Home alone hairstyling",
+    "street_address": "Zwartekolk 15",
+    "postal_code": "8191TJ",
+    "locality": "Wapenveld",
+    "region": "Gelderland",
+    "latitude": "52.435208",
+    "longitude": "6.0820571"
+  },
+  {
+    "name": "Kapsalon tamara",
+    "street_address": "Burgemeester G W Stroinkweg 88",
+    "postal_code": "8343XL",
+    "locality": "Zuidveen",
+    "region": "Overijssel",
+    "latitude": "52.7739423",
+    "longitude": "6.1207458"
+  },
+  {
+    "name": "Curly’s Hair & Styling",
+    "street_address": "Laan 13",
+    "postal_code": "8071JG",
+    "locality": "Nunspeet",
+    "region": "Gelderland",
+    "latitude": "52.3773633",
+    "longitude": "5.7864966"
+  },
+  {
+    "name": "Luxurious-Hairextensions",
+    "street_address": "De Vecht 6",
+    "postal_code": "8253PH",
+    "locality": "Dronten",
+    "region": "Flevoland",
+    "latitude": "52.542745",
+    "longitude": "5.7037984"
+  },
+  {
+    "name": "BRUSH. salons",
+    "street_address": "Grotestraat 204",
+    "postal_code": "7622GT",
+    "locality": "Borne",
+    "region": "Overijssel",
+    "latitude": "52.3013546",
+    "longitude": "6.754189999999999"
+  },
+  {
+    "name": "Salon Evelien",
+    "street_address": "Brinkstraat 2",
+    "postal_code": "7591DP",
+    "locality": "Denekamp",
+    "region": "Overijssel",
+    "latitude": "52.3756872",
+    "longitude": "7.0042621"
+  },
+  {
+    "name": "Trends4beauty",
+    "street_address": "Elswout 22",
+    "postal_code": "7608JN",
+    "locality": "Almelo",
+    "region": "Overijssel",
+    "latitude": "52.377588",
+    "longitude": "6.6732309"
+  },
+  {
+    "name": "Cleo Hairfashion",
+    "street_address": "Sassenstraat 51",
+    "postal_code": "8011PB",
+    "locality": "Zwolle",
+    "region": "Overijssel",
+    "latitude": "52.5100985",
+    "longitude": "6.0956166"
+  },
+  {
+    "name": "Glow by Debby",
+    "street_address": "Jan Sluytersstraat 7",
+    "postal_code": "7731ML",
+    "locality": "Ommen",
+    "region": "Overijssel",
+    "latitude": "52.5346963",
+    "longitude": "6.4275177"
+  },
+  {
+    "name": "TipTop Hairstyling",
+    "street_address": "Molenberg 13",
+    "postal_code": "8325CA",
+    "locality": "Vollenhove",
+    "region": "Overijssel",
+    "latitude": "52.681469",
+    "longitude": "5.957025199999999"
+  },
+  {
+    "name": "Coiffure de Paris",
+    "street_address": "Vossenbrinkweg 10",
+    "postal_code": "7491DD",
+    "locality": "Delden",
+    "region": "Overijssel",
+    "latitude": "52.2587994",
+    "longitude": "6.718984"
+  },
+  {
+    "name": "Kapsalon Zwolle",
+    "street_address": "Diezerplein 13",
+    "postal_code": "8021CS",
+    "locality": "Zwolle",
+    "region": "Overijssel",
+    "latitude": "52.5159625",
+    "longitude": "6.1009259"
+  },
+  {
+    "name": "Silvan-babershop",
+    "street_address": "Walderstraat 15",
+    "postal_code": "7241BH",
+    "locality": "Lochem",
+    "region": "Gelderland",
+    "latitude": "52.1620303",
+    "longitude": "6.4136413"
+  },
+  {
+    "name": "De Knipzus",
+    "street_address": "Rietdekkersweg 18",
+    "postal_code": "8091LD",
+    "locality": "Wezep",
+    "region": "Gelderland",
+    "latitude": "52.4611662",
+    "longitude": "6.0063866"
+  },
+  {
+    "name": "Debbys Hoofdzaak",
+    "street_address": "Langkamp 5",
+    "postal_code": "7981DT",
+    "locality": "Diever",
+    "region": "Drenthe",
+    "latitude": "52.8552423",
+    "longitude": "6.3100686"
+  },
+  {
+    "name": "Anova Kappers",
+    "street_address": "Bloemstraat 34",
+    "postal_code": "8081CW",
+    "locality": "Elburg",
+    "region": "Gelderland",
+    "latitude": "52.4475093",
+    "longitude": "5.8341783"
+  },
+  {
+    "name": "Desmo Hair",
+    "street_address": "G.J. van Heekstraat 342",
+    "postal_code": "7521EM",
+    "locality": "Enschede",
+    "region": "Overijssel",
+    "latitude": "52.228249",
+    "longitude": "6.8645866"
+  },
+  {
+    "name": "Hairstyle Carola",
+    "street_address": "Burgemeester Folkertslaan 33",
+    "postal_code": "8081AZ",
+    "locality": "Elburg",
+    "region": "Gelderland",
+    "latitude": "52.44003",
+    "longitude": "5.82867"
+  },
+  {
+    "name": "Roliens Kapschuur",
+    "street_address": "Hoofdvaart 147",
+    "postal_code": "7701JJ",
+    "locality": "Dedemsvaart",
+    "region": "Overijssel",
+    "latitude": "52.5976514",
+    "longitude": "6.4382592"
+  },
+  {
+    "name": "Tape extensions kampen",
+    "street_address": "Teding van Berkhoutstraat 37",
+    "postal_code": "8265ZH",
+    "locality": "Kampen",
+    "region": "Overijssel",
+    "latitude": "52.5464162",
+    "longitude": "5.910519600000001"
+  },
+  {
+    "name": "My Roots Barbershop",
+    "street_address": "Lijsterweg 49",
+    "postal_code": "7557PL",
+    "locality": "Hengelo",
+    "region": "Overijssel",
+    "latitude": "52.2682718",
+    "longitude": "6.8033823"
+  },
+  {
+    "name": "Kapsalon Lille",
+    "street_address": "Zwartkate Es 12",
+    "postal_code": "7541CC",
+    "locality": "Enschede",
+    "region": "Overijssel",
+    "latitude": "52.204291",
+    "longitude": "6.908227300000001"
+  },
+  {
+    "name": "Double Boost Hairstyling",
+    "street_address": "Langestraat 9",
+    "postal_code": "8281AE",
+    "locality": "Genemuiden",
+    "region": "Overijssel",
+    "latitude": "52.6234273",
+    "longitude": "6.0399633"
+  },
+  {
+    "name": "Cuts by Jules",
+    "street_address": "Biesterweg 1",
+    "postal_code": "7608RN",
+    "locality": "Almelo",
+    "region": "Overijssel",
+    "latitude": "52.3725453",
+    "longitude": "6.6798401"
+  },
+  {
+    "name": "BAKKES herenkappers | baardkwek..",
+    "street_address": "Sassenstraat 50",
+    "postal_code": "8011PC",
+    "locality": "Zwolle",
+    "region": "Overijssel",
+    "latitude": "52.510682",
+    "longitude": "6.094558399999999"
+  },
+  {
+    "name": "mevr.",
+    "street_address": "Dr. Martin Luther Kingstraat 46",
+    "postal_code": "7557LV",
+    "locality": "Hengelo",
+    "region": "Overijssel",
+    "latitude": "52.2761991",
+    "longitude": "6.8183877"
+  },
+  {
+    "name": "Carole hairfashion",
+    "street_address": "Kanaalweg 17 A",
+    "postal_code": "7591NH",
+    "locality": "Denekamp",
+    "region": "Overijssel",
+    "latitude": "52.3943808",
+    "longitude": "7.0313857"
+  },
+  {
+    "name": "Nineveh",
+    "street_address": "Groenmarkt 15 a",
+    "postal_code": "7201HW",
+    "locality": "Zutphen",
+    "region": "Gelderland",
+    "latitude": "52.1416289",
+    "longitude": "6.193762400000001"
+  },
+  {
+    "name": "Lieneke Hairstylist",
+    "street_address": "Hagelstege 6",
+    "postal_code": "7683CH",
+    "locality": "Den Ham",
+    "region": "Overijssel",
+    "latitude": "52.46133390000001",
+    "longitude": "6.4927362"
+  },
+  {
+    "name": "Pure Hairstudio",
+    "street_address": "Ootmarsumsestraat 1",
+    "postal_code": "7607AV",
+    "locality": "Almelo",
+    "region": "Overijssel",
+    "latitude": "52.35976100000001",
+    "longitude": "6.667460999999999"
+  },
+  {
+    "name": "Kapsalon Lucky Scissors",
+    "street_address": "Koperwiek 35",
+    "postal_code": "7423EB",
+    "locality": "Deventer",
+    "region": "Overijssel",
+    "latitude": "52.2557827",
+    "longitude": "6.2100652"
+  },
+  {
+    "name": "Haarstudio Ying",
+    "street_address": "Industriestraat 65",
+    "postal_code": "7553CL",
+    "locality": "Hengelo",
+    "region": "Overijssel",
+    "latitude": "52.256161",
+    "longitude": "6.786449"
+  },
+  {
+    "name": "Kapsalon Medisch Pedicure Stell..",
+    "street_address": "van Heutszpark 20",
+    "postal_code": "7741CV",
+    "locality": "Coevorden",
+    "region": "Drenthe",
+    "latitude": "52.6645782",
+    "longitude": "6.742854599999999"
+  },
+  {
+    "name": "Kapsalon @Sabine",
+    "street_address": "2e Walsteeg 10",
+    "postal_code": "8051EW",
+    "locality": "Hattem",
+    "region": "Gelderland",
+    "latitude": "52.4750897",
+    "longitude": "6.0683557"
+  },
+  {
+    "name": "Your Hairline",
+    "street_address": "Koningsweg 8",
+    "postal_code": "7672GD",
+    "locality": "Vriezenveen",
+    "region": "Overijssel",
+    "latitude": "52.4140804",
+    "longitude": "6.6261058"
+  },
+  {
+    "name": "Barber Jessie",
+    "street_address": "Groenmarkt 39",
+    "postal_code": "7201HW",
+    "locality": "Zutphen",
+    "region": "Gelderland",
+    "latitude": "52.1416372",
+    "longitude": "6.1949874"
+  },
+  {
+    "name": "kapsalon Zahra",
+    "street_address": "Ida Gerhardtsingel 20",
+    "postal_code": "7207CN",
+    "locality": "Zutphen",
+    "region": "Gelderland",
+    "latitude": "52.1300016",
+    "longitude": "6.2214602"
+  },
+  {
+    "name": "Haarsalon Michelle",
+    "street_address": "Voortsweg 204 C2",
+    "postal_code": "7523CK",
+    "locality": "Enschede",
+    "region": "Overijssel",
+    "latitude": "52.2349729",
+    "longitude": "6.9004784"
+  },
+  {
+    "name": "M&J Kappers",
+    "street_address": "Stadskade 480",
+    "postal_code": "7311XZ",
+    "locality": "Apeldoorn",
+    "region": "Gelderland",
+    "latitude": "52.2121256",
+    "longitude": "5.974628699999999"
+  },
+  {
+    "name": "Nancy’s HairSalon",
+    "street_address": "Zwartsstraat 10",
+    "postal_code": "8441GH",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9627789",
+    "longitude": "5.926578"
+  }
+]

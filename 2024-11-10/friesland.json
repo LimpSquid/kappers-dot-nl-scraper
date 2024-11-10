@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Puur Haar Kappers",
+    "street_address": "Molehiem 16",
+    "postal_code": "9011TC",
+    "locality": "Irnsum",
+    "region": "Friesland",
+    "latitude": "53.0799742",
+    "longitude": "5.7953166"
+  },
+  {
+    "name": "Studio Headlines",
+    "street_address": "Oudestraat 3",
+    "postal_code": "9401EG",
+    "locality": "Assen",
+    "region": "Drenthe",
+    "latitude": "52.9960562",
+    "longitude": "6.5630782"
+  },
+  {
+    "name": "TipTop Hair & Care",
+    "street_address": "Randweg 25",
+    "postal_code": "8304AS",
+    "locality": "Emmeloord",
+    "region": "Flevoland",
+    "latitude": "52.7000792",
+    "longitude": "5.751764199999999"
+  },
+  {
+    "name": "Debbys Hoofdzaak",
+    "street_address": "Langkamp 5",
+    "postal_code": "7981DT",
+    "locality": "Diever",
+    "region": "Drenthe",
+    "latitude": "52.8552423",
+    "longitude": "6.3100686"
+  },
+  {
+    "name": "Kapsalon Wilma",
+    "street_address": "Hottingawei 4",
+    "postal_code": "8771ST",
+    "locality": "Nijland",
+    "region": "Friesland",
+    "latitude": "53.0505833",
+    "longitude": "5.5762855"
+  },
+  {
+    "name": "haarstudio grolloo",
+    "street_address": "Schoonloërstraat 2",
+    "postal_code": "9444PP",
+    "locality": "Grolloo",
+    "region": "Drenthe",
+    "latitude": "52.9333429",
+    "longitude": "6.6739296"
+  },
+  {
+    "name": "Kapsalon Haar & Daar",
+    "street_address": "Súdhoekster Faart 15",
+    "postal_code": "8801XD",
+    "locality": "Franeker",
+    "region": "Friesland",
+    "latitude": "53.1794407",
+    "longitude": "5.5495624"
+  },
+  {
+    "name": "HairCare",
+    "street_address": "Rolderstraat 14 A",
+    "postal_code": "9401AS",
+    "locality": "Assen",
+    "region": "Drenthe",
+    "latitude": "52.995949",
+    "longitude": "6.5648532"
+  },
+  {
+    "name": "RKS Roels Knip Service",
+    "street_address": "Molendwarsstraat 15",
+    "postal_code": "9494RC",
+    "locality": "Yde",
+    "region": "Drenthe",
+    "latitude": "53.1158839",
+    "longitude": "6.5947607"
+  },
+  {
+    "name": "Lúx by Robin",
+    "street_address": "Taanderij 6",
+    "postal_code": "8531WD",
+    "locality": "Lemmer",
+    "region": "Friesland",
+    "latitude": "52.8571837",
+    "longitude": "5.720397"
+  },
+  {
+    "name": "House of Hair Roden ( voorheen..",
+    "street_address": "Nieuweweg 1",
+    "postal_code": "9301GP",
+    "locality": "Roden",
+    "region": "Drenthe",
+    "latitude": "53.1366851",
+    "longitude": "6.4297995"
+  },
+  {
+    "name": "Salon Rapunzel",
+    "street_address": "Kruizebroederstraat 29",
+    "postal_code": "8601CK",
+    "locality": "Sneek",
+    "region": "Friesland",
+    "latitude": "53.03341349999999",
+    "longitude": "5.658914200000001"
+  },
+  {
+    "name": "Nancy’s HairSalon",
+    "street_address": "Zwartsstraat 10",
+    "postal_code": "8441GH",
+    "locality": "Heerenveen",
+    "region": "Friesland",
+    "latitude": "52.9627789",
+    "longitude": "5.926578"
+  },
+  {
+    "name": "Hairstyliste Ina",
+    "street_address": "De Omloop 22",
+    "postal_code": "8326DM",
+    "locality": "Sint Jansklooster",
+    "region": "Overijssel",
+    "latitude": "52.68033459999999",
+    "longitude": "6.0006108"
+  },
+  {
+    "name": "Thuis met Haar",
+    "street_address": "Lindelaan 54",
+    "postal_code": "9431CL",
+    "locality": "Westerbork",
+    "region": "Drenthe",
+    "latitude": "52.8522236",
+    "longitude": "6.6057611"
+  },
+  {
+    "name": "Kapsalon Hier by Agnetha",
+    "street_address": "Brouwersstrjitte 14",
+    "postal_code": "9251JA",
+    "locality": "Burgum",
+    "region": "Friesland",
+    "latitude": "53.1904797",
+    "longitude": "5.995141299999999"
+  },
+  {
+    "name": "Kapsalon Groen",
+    "street_address": "Warmoesstraat 3",
+    "postal_code": "9076DL",
+    "locality": "St.-Annaparochie",
+    "region": "Friesland",
+    "latitude": "53.27604830000001",
+    "longitude": "5.657263599999999"
+  },
+  {
+    "name": "Kapsalon Subliem - Keppelstraat..",
+    "street_address": "Keppelstraat 25",
+    "postal_code": "9101MT",
+    "locality": "Dokkum",
+    "region": "Friesland",
+    "latitude": "53.3242583",
+    "longitude": "5.9996024"
+  },
+  {
+    "name": "Pietrix' Kapmobiel",
+    "street_address": "Sjouke Helfrichstraat 8",
+    "postal_code": "8802VD",
+    "locality": "Franeker",
+    "region": "Friesland",
+    "latitude": "53.1886041",
+    "longitude": "5.529544"
+  },
+  {
+    "name": "Kapsalon Subliem - Grote Breeds..",
+    "street_address": "Grote Breedstraat 5",
+    "postal_code": "9101KH",
+    "locality": "Dokkum",
+    "region": "Friesland",
+    "latitude": "53.3261192",
+    "longitude": "5.9994187"
+  },
+  {
+    "name": "Kapsalon Methilda",
+    "street_address": "Kommisjewei 149",
+    "postal_code": "9218PE",
+    "locality": "Opeinde",
+    "region": "Friesland",
+    "latitude": "53.1354801",
+    "longitude": "6.0529516"
+  },
+  {
+    "name": "Kapsalon Promise",
+    "street_address": "Dijkstraat 25",
+    "postal_code": "8701KC",
+    "locality": "Bolsward",
+    "region": "Friesland",
+    "latitude": "53.0617112",
+    "longitude": "5.5190316"
+  },
+  {
+    "name": "Kapsalon tamara",
+    "street_address": "Burgemeester G W Stroinkweg 88",
+    "postal_code": "8343XL",
+    "locality": "Zuidveen",
+    "region": "Overijssel",
+    "latitude": "52.7739423",
+    "longitude": "6.1207458"
+  },
+  {
+    "name": "Color & Curly by Chris",
+    "street_address": "Rengersweg 21 B",
+    "postal_code": "9062EA",
+    "locality": "Oentsjerk",
+    "region": "Friesland",
+    "latitude": "53.249057",
+    "longitude": "5.896068"
+  },
+  {
+    "name": "Salon Postma Kappers",
+    "street_address": "Nieuwestad 12",
+    "postal_code": "8911CS",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2015391",
+    "longitude": "5.789955"
+  },
+  {
+    "name": "Vrouwenzaken Kerastase kappers",
+    "street_address": "Oostersingel 3",
+    "postal_code": "9401JX",
+    "locality": "Assen",
+    "region": "Drenthe",
+    "latitude": "52.99406820000001",
+    "longitude": "6.5658962"
+  },
+  {
+    "name": "Hairstudio New Image",
+    "street_address": "Veenhoopsweg 1 A",
+    "postal_code": "9422AA",
+    "locality": "Smilde",
+    "region": "Drenthe",
+    "latitude": "52.9514831",
+    "longitude": "6.448258399999999"
+  },
+  {
+    "name": "Haarstudio Bouwina",
+    "street_address": "Drachtsterweg 30",
+    "postal_code": "9865VH",
+    "locality": "Opende",
+    "region": "Groningen",
+    "latitude": "53.17003219999999",
+    "longitude": "6.1979045"
+  },
+  {
+    "name": "Knipstudio Jacqueline",
+    "street_address": "Johan Dijkstralaan 81",
+    "postal_code": "9744DC",
+    "locality": "Groningen",
+    "region": "Groningen",
+    "latitude": "53.2047256",
+    "longitude": "6.513657500000001"
+  },
+  {
+    "name": "Salon Drachten",
+    "street_address": "Noordkade 45 a",
+    "postal_code": "9203CE",
+    "locality": "Drachten",
+    "region": "Friesland",
+    "latitude": "53.1070944",
+    "longitude": "6.1030396"
+  },
+  {
+    "name": "K & K Kappers & Knippers",
+    "street_address": "Ruiterskwartier 121",
+    "postal_code": "8911BS",
+    "locality": "Leeuwarden",
+    "region": "Friesland",
+    "latitude": "53.2000992",
+    "longitude": "5.7932771"
+  },
+  {
+    "name": "Rianne's haarmode",
+    "street_address": "Bakkeveensterweg 14 C",
+    "postal_code": "8434NP",
+    "locality": "Waskemeer",
+    "region": "Friesland",
+    "latitude": "53.0588174",
+    "longitude": "6.2820073"
+  },
+  {
+    "name": "EsraVDMhair",
+    "street_address": "Tjalling H. Haismastraat 20",
+    "postal_code": "9251AV",
+    "locality": "Burgum",
+    "region": "Friesland",
+    "latitude": "53.19629949999999",
+    "longitude": "5.996133299999999"
+  },
+  {
+    "name": "Home hair",
+    "street_address": "Jonkersvaart 58",
+    "postal_code": "9366TE",
+    "locality": "Jonkersvaart",
+    "region": "Groningen",
+    "latitude": "53.1316069",
+    "longitude": "6.319742799999999"
+  },
+  {
+    "name": "Schoonheidsinstituut Het Hogela..",
+    "street_address": "Plantsoenweg 13",
+    "postal_code": "9771AC",
+    "locality": "Sauwerd",
+    "region": "Groningen",
+    "latitude": "53.2927848",
+    "longitude": "6.5340554"
+  },
+  {
+    "name": "TipTop Hairstyling",
+    "street_address": "Molenberg 13",
+    "postal_code": "8325CA",
+    "locality": "Vollenhove",
+    "region": "Overijssel",
+    "latitude": "52.681469",
+    "longitude": "5.957025199999999"
+  }
+]

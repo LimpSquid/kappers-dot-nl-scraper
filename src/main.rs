@@ -94,7 +94,7 @@ async fn scrape_region(
             }
         };
 
-        println!("Found {} unique salons at {}", details.len(), page_url);
+        println!("Found {} salons at {}", details.len(), page_url);
         salon_details.extend(details);
 
         // Write everything to the file every iteration

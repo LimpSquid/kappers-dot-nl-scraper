@@ -1,0 +1,614 @@
+[
+  {
+    "name": "Hairfashion by Diana",
+    "street_address": "Heuvelakkerstraat 1",
+    "postal_code": "5356PD",
+    "locality": "Neerloon",
+    "region": "Noord-Brabant",
+    "latitude": "51.789379",
+    "longitude": "5.6743565"
+  },
+  {
+    "name": "Latin@Haar",
+    "street_address": "Kasteellaan 3",
+    "postal_code": "5725AD",
+    "locality": "Heusden",
+    "region": "Noord-Brabant",
+    "latitude": "51.3911436",
+    "longitude": "5.7527193"
+  },
+  {
+    "name": "HaarMaNi haarstylist",
+    "street_address": "de Geerkamp 1136",
+    "postal_code": "6545HE",
+    "locality": "Nijmegen",
+    "region": "Gelderland",
+    "latitude": "51.82784299999999",
+    "longitude": "5.8000532"
+  },
+  {
+    "name": "Signature Hair & Beauty",
+    "street_address": "Akerstraat-Noord 124",
+    "postal_code": "6431HP",
+    "locality": "Hoensbroek",
+    "region": "Limburg",
+    "latitude": "50.9307084",
+    "longitude": "5.9348907"
+  },
+  {
+    "name": "Different Choice",
+    "street_address": "van Ghoorstraat 4",
+    "postal_code": "6081BC",
+    "locality": "Haelen",
+    "region": "Limburg",
+    "latitude": "51.2357539",
+    "longitude": "5.9549559"
+  },
+  {
+    "name": "Thuiskapster Marlie",
+    "street_address": "Florastraat 114",
+    "postal_code": "6031XN",
+    "locality": "Nederweert",
+    "region": "Limburg",
+    "latitude": "51.2828561",
+    "longitude": "5.7379361"
+  },
+  {
+    "name": "Mooi bij Mieke",
+    "street_address": "Hoogveldseweg 25 c",
+    "postal_code": "5451AA",
+    "locality": "Mill",
+    "region": "Noord-Brabant",
+    "latitude": "51.689995",
+    "longitude": "5.7790965"
+  },
+  {
+    "name": "HairOscope",
+    "street_address": "Hoogstraat 14 a",
+    "postal_code": "6001EV",
+    "locality": "Weert",
+    "region": "Limburg",
+    "latitude": "51.254593",
+    "longitude": "5.7075665"
+  },
+  {
+    "name": "On Fleek Hair & Nails by Lynn",
+    "street_address": "Broekkant 15",
+    "postal_code": "6021CR",
+    "locality": "Budel",
+    "region": "Noord-Brabant",
+    "latitude": "51.27889529999999",
+    "longitude": "5.5837068"
+  },
+  {
+    "name": "Dalal Hairstyling",
+    "street_address": "Queenstraat 58",
+    "postal_code": "6663HD",
+    "locality": "Nijmegen",
+    "region": "Gelderland",
+    "latitude": "51.8714345",
+    "longitude": "5.8690628"
+  },
+  {
+    "name": "Londa Hairstudio",
+    "street_address": "Brugstraat 35",
+    "postal_code": "5712AX",
+    "locality": "Someren",
+    "region": "Noord-Brabant",
+    "latitude": "51.36356300000001",
+    "longitude": "5.740057699999999"
+  },
+  {
+    "name": "Magic Hair by R.N.",
+    "street_address": "Promenade 9",
+    "postal_code": "6581BW",
+    "locality": "Malden",
+    "region": "Gelderland",
+    "latitude": "51.7818615",
+    "longitude": "5.8525151"
+  },
+  {
+    "name": "Will's Hairstyling Barbershop",
+    "street_address": "Dokter van de Wouwstraat 46",
+    "postal_code": "6031HC",
+    "locality": "Nederweert",
+    "region": "Limburg",
+    "latitude": "51.2901967",
+    "longitude": "5.7464176"
+  },
+  {
+    "name": "Radha Hairstyling",
+    "street_address": "Karstraat 66",
+    "postal_code": "6851DM",
+    "locality": "Huissen",
+    "region": "Gelderland",
+    "latitude": "51.9169731",
+    "longitude": "5.926239"
+  },
+  {
+    "name": "de Haarsmit",
+    "street_address": "Hertogstraat 11",
+    "postal_code": "6511RV",
+    "locality": "Nijmegen",
+    "region": "Gelderland",
+    "latitude": "51.8461465",
+    "longitude": "5.8692199"
+  },
+  {
+    "name": "Hair @ Home by Anita",
+    "street_address": "Sint Jozefstraat 48",
+    "postal_code": "5753AW",
+    "locality": "Deurne",
+    "region": "Noord-Brabant",
+    "latitude": "51.4504441",
+    "longitude": "5.785888"
+  },
+  {
+    "name": "Anja van Asseldonk Hairstyling",
+    "street_address": "Cortenbachstraat 2",
+    "postal_code": "5421KJ",
+    "locality": "Gemert",
+    "region": "Noord-Brabant",
+    "latitude": "51.5557951",
+    "longitude": "5.6863176"
+  },
+  {
+    "name": "Hairfashion By Marlon",
+    "street_address": "Thornstraat 115",
+    "postal_code": "6004JR",
+    "locality": "Weert",
+    "region": "Limburg",
+    "latitude": "51.2536356",
+    "longitude": "5.727756200000001"
+  },
+  {
+    "name": "Knippen voor een tientje in Spi..",
+    "street_address": "Hofstraat 8",
+    "postal_code": "6917BE",
+    "locality": "Spijk",
+    "region": "Gelderland",
+    "latitude": "51.84986",
+    "longitude": "6.15545"
+  },
+  {
+    "name": "Gaston Ubachs",
+    "street_address": "Maastrichter Heidenstraat 5 B",
+    "postal_code": "6211HV",
+    "locality": "Maastricht",
+    "region": "Limburg",
+    "latitude": "50.8484699",
+    "longitude": "5.6942258"
+  },
+  {
+    "name": "Haarstudio KIK",
+    "street_address": "Slutelakker 17",
+    "postal_code": "5715CB",
+    "locality": "Lierop",
+    "region": "Noord-Brabant",
+    "latitude": "51.419823",
+    "longitude": "5.6845032"
+  },
+  {
+    "name": "Kapsalon Gaby van der Made",
+    "street_address": "Graaf Gerhardstraat 17",
+    "postal_code": "5913VP",
+    "locality": "Venlo",
+    "region": "Limburg",
+    "latitude": "51.3687558",
+    "longitude": "6.184416"
+  },
+  {
+    "name": "YOH. HAIR -  Your own Hair!",
+    "street_address": "Fleursstraat 30",
+    "postal_code": "5963AV",
+    "locality": "Hegelsom",
+    "region": "Limburg",
+    "latitude": "51.4402528",
+    "longitude": "6.0411673"
+  },
+  {
+    "name": "Salon Living Hair",
+    "street_address": "Kaakstraat 39",
+    "postal_code": "6181HN",
+    "locality": "Elsloo",
+    "region": "Limburg",
+    "latitude": "50.9449414",
+    "longitude": "5.7631714"
+  },
+  {
+    "name": "Kapsalon Hairjoy",
+    "street_address": "Chrysantstraat 18",
+    "postal_code": "5701EK",
+    "locality": "Helmond",
+    "region": "Noord-Brabant",
+    "latitude": "51.4772901",
+    "longitude": "5.676501099999999"
+  },
+  {
+    "name": "Kapsalon Haarsalon Haar & Lifes..",
+    "street_address": "Zandbosweg 108",
+    "postal_code": "5751CH",
+    "locality": "Deurne",
+    "region": "Noord-Brabant",
+    "latitude": "51.464737",
+    "longitude": "5.7888477"
+  },
+  {
+    "name": "Linette Beckers",
+    "street_address": "Oude Rijksweg Zuid 11 E",
+    "postal_code": "6114RC",
+    "locality": "Susteren",
+    "region": "Limburg",
+    "latitude": "51.0587599",
+    "longitude": "5.8467889"
+  },
+  {
+    "name": "Pcm Dreessen",
+    "street_address": "Hoogveldsweg 18",
+    "postal_code": "6102CB",
+    "locality": "Echt",
+    "region": "Limburg",
+    "latitude": "51.1001818",
+    "longitude": "5.8905916"
+  },
+  {
+    "name": "Thuiskapper | Esmie's Hairstyli..",
+    "street_address": "Burg. Savelkoulstraat 15",
+    "postal_code": "6122EE",
+    "locality": "Buchten",
+    "region": "Limburg",
+    "latitude": "51.0402478",
+    "longitude": "5.8153043"
+  },
+  {
+    "name": "TWO Barber & Whitening",
+    "street_address": "Borner Markt 2 D",
+    "postal_code": "6121LT",
+    "locality": "Born",
+    "region": "Limburg",
+    "latitude": "51.0317011",
+    "longitude": "5.809950499999999"
+  },
+  {
+    "name": "Loods 12",
+    "street_address": "Pastoor Leonardus Canisiusstraat 12",
+    "postal_code": "6231JK",
+    "locality": "Meerssen",
+    "region": "Limburg",
+    "latitude": "50.8895344",
+    "longitude": "5.7551218"
+  },
+  {
+    "name": "Danielle's Hairstyle",
+    "street_address": "Einsteinstraat 13",
+    "postal_code": "5756AX",
+    "locality": "Vlierden",
+    "region": "Noord-Brabant",
+    "latitude": "51.4461295",
+    "longitude": "5.7579626"
+  },
+  {
+    "name": "Looks4all",
+    "street_address": "Aalsburg 1707",
+    "postal_code": "6602VA",
+    "locality": "Wijchen",
+    "region": "Gelderland",
+    "latitude": "51.8104644",
+    "longitude": "5.731667499999999"
+  },
+  {
+    "name": "Kapper gochmer",
+    "street_address": "St. Jacobslaan 275",
+    "postal_code": "6533VC",
+    "locality": "Nijmegen",
+    "region": "Gelderland",
+    "latitude": "51.8178335",
+    "longitude": "5.8496636"
+  },
+  {
+    "name": "A La Fran",
+    "street_address": "de Lingert 6401",
+    "postal_code": "6605DZ",
+    "locality": "Wijchen",
+    "region": "Gelderland",
+    "latitude": "51.7910048",
+    "longitude": "5.737591999999999"
+  },
+  {
+    "name": "Jeanette's Hairspray",
+    "street_address": "Bisschop van Mierlostraat 49",
+    "postal_code": "5731GB",
+    "locality": "Mierlo",
+    "region": "Noord-Brabant",
+    "latitude": "51.4413345",
+    "longitude": "5.6221818"
+  },
+  {
+    "name": "Elegance Hairdesign",
+    "street_address": "Brunenberghof 3",
+    "postal_code": "6004MA",
+    "locality": "Weert",
+    "region": "Limburg",
+    "latitude": "51.2554288",
+    "longitude": "5.7357492"
+  },
+  {
+    "name": "Thuiskapster sabrina",
+    "street_address": "Louerstraat 30",
+    "postal_code": "6114CZ",
+    "locality": "Susteren",
+    "region": "Limburg",
+    "latitude": "51.0678937",
+    "longitude": "5.85585"
+  },
+  {
+    "name": "kapsalon _Nicole_",
+    "street_address": "Mierloseweg 51 A",
+    "postal_code": "5707AC",
+    "locality": "Helmond",
+    "region": "Noord-Brabant",
+    "latitude": "51.47661859999999",
+    "longitude": "5.6429956"
+  },
+  {
+    "name": "Kapsalon ut'natasch",
+    "street_address": "Vinkerstraat 122 A",
+    "postal_code": "6464GM",
+    "locality": "Kerkrade",
+    "region": "Limburg",
+    "latitude": "50.8828316",
+    "longitude": "6.0634529"
+  },
+  {
+    "name": "Kapsalon De Hooftzaak",
+    "street_address": "Beusakker 2",
+    "postal_code": "5712MG",
+    "locality": "Someren",
+    "region": "Noord-Brabant",
+    "latitude": "51.38457460000001",
+    "longitude": "5.6996012"
+  },
+  {
+    "name": "Jes hairstyling",
+    "street_address": "Ceres 47",
+    "postal_code": "6681PR",
+    "locality": "Bemmel",
+    "region": "Gelderland",
+    "latitude": "51.8929288",
+    "longitude": "5.8813365"
+  },
+  {
+    "name": "D & M Haarmode",
+    "street_address": "Mariaplein 5 A",
+    "postal_code": "6685AT",
+    "locality": "Haalderen",
+    "region": "Gelderland",
+    "latitude": "51.8868837",
+    "longitude": "5.9312527"
+  },
+  {
+    "name": "Hairstyliste Angelique",
+    "street_address": "Zwanenhorst 45",
+    "postal_code": "5361TR",
+    "locality": "Grave",
+    "region": "Noord-Brabant",
+    "latitude": "51.7540112",
+    "longitude": "5.7273986"
+  },
+  {
+    "name": "Liesual",
+    "street_address": "Pastoor van Schijndelstraat 16",
+    "postal_code": "5469PT",
+    "locality": "Erp",
+    "region": "Noord-Brabant",
+    "latitude": "51.5598989",
+    "longitude": "5.6232384"
+  },
+  {
+    "name": "Kappersplein",
+    "street_address": "Bloemerstraat 106",
+    "postal_code": "6511EN",
+    "locality": "Nijmegen",
+    "region": "Gelderland",
+    "latitude": "51.8456815",
+    "longitude": "5.8617859"
+  },
+  {
+    "name": "Kapsalon Nathalie",
+    "street_address": "Amansweg 13",
+    "postal_code": "5455RD",
+    "locality": "Wilbertoord",
+    "region": "Noord-Brabant",
+    "latitude": "51.6509545",
+    "longitude": "5.7800012"
+  },
+  {
+    "name": "By Marlinda",
+    "street_address": "Haffmansstraat 7",
+    "postal_code": "5735CR",
+    "locality": "Aarle-Rixtel",
+    "region": "Noord-Brabant",
+    "latitude": "51.5121267",
+    "longitude": "5.6434028"
+  },
+  {
+    "name": "Complete style",
+    "street_address": "Fabriekstraat 10 a",
+    "postal_code": "5753AH",
+    "locality": "Deurne",
+    "region": "Noord-Brabant",
+    "latitude": "51.455763",
+    "longitude": "5.7858982"
+  },
+  {
+    "name": "Heren- en Kinderkapsalon Hee Ba..",
+    "street_address": "Kerkstraat 70",
+    "postal_code": "6137SP",
+    "locality": "Sittard",
+    "region": "Limburg",
+    "latitude": "51.0033341",
+    "longitude": "5.890425599999999"
+  },
+  {
+    "name": "Hairdesign Henny",
+    "street_address": "Roserije 210 A",
+    "postal_code": "6228DP",
+    "locality": "Maastricht",
+    "region": "Limburg",
+    "latitude": "50.8263755",
+    "longitude": "5.7257909"
+  },
+  {
+    "name": "Doevelaar Haarmode",
+    "street_address": "Ysselsteynseweg 48",
+    "postal_code": "5813BM",
+    "locality": "Ysselsteyn",
+    "region": "Limburg",
+    "latitude": "51.49659010000001",
+    "longitude": "5.9208888"
+  },
+  {
+    "name": "Friendly Hairdesign",
+    "street_address": "Daalseweg 238",
+    "postal_code": "6521GR",
+    "locality": "Nijmegen",
+    "region": "Gelderland",
+    "latitude": "51.8377597",
+    "longitude": "5.8758817"
+  },
+  {
+    "name": "Kapsalon Marli",
+    "street_address": "Runstraat 8 C",
+    "postal_code": "5374AC",
+    "locality": "Schaijk",
+    "region": "Noord-Brabant",
+    "latitude": "51.7474123",
+    "longitude": "5.6304246"
+  },
+  {
+    "name": "Your hair & nails",
+    "street_address": "Ingen Nulandtstraat 7",
+    "postal_code": "6675AL",
+    "locality": "Valburg",
+    "region": "Gelderland",
+    "latitude": "51.91243",
+    "longitude": "5.7937071"
+  },
+  {
+    "name": "De Kapper Nathalie",
+    "street_address": "Sint Jans-Minnestraat 9",
+    "postal_code": "6151BW",
+    "locality": "Munstergeleen",
+    "region": "Limburg",
+    "latitude": "50.971542",
+    "longitude": "5.8667166"
+  },
+  {
+    "name": "Hairfantasy Joice",
+    "street_address": "Oude Boterdijk 26",
+    "postal_code": "6582AT",
+    "locality": "Heumen",
+    "region": "Gelderland",
+    "latitude": "51.765727",
+    "longitude": "5.8442618"
+  },
+  {
+    "name": "Mooi by Haar",
+    "street_address": "Lindenlaan 4",
+    "postal_code": "5854AM",
+    "locality": "Bergen",
+    "region": "Limburg",
+    "latitude": "51.603683",
+    "longitude": "6.0470128"
+  },
+  {
+    "name": "Hair Confidence",
+    "street_address": "Loperweg 1 C",
+    "postal_code": "6101AE",
+    "locality": "Echt",
+    "region": "Limburg",
+    "latitude": "51.1064811",
+    "longitude": "5.857125"
+  },
+  {
+    "name": "Williams & Grey",
+    "street_address": "Van 't Santstraat 1",
+    "postal_code": "6523BA",
+    "locality": "Nijmegen",
+    "region": "Gelderland",
+    "latitude": "51.8354588",
+    "longitude": "5.8746439"
+  },
+  {
+    "name": "Daniëlla's Hair & Nail Styling",
+    "street_address": "Burgemeester Rietmanstraat 4 A",
+    "postal_code": "5421JX",
+    "locality": "Gemert",
+    "region": "Noord-Brabant",
+    "latitude": "51.554505",
+    "longitude": "5.69236"
+  },
+  {
+    "name": "Colors Haircare",
+    "street_address": "Mariastraat 20",
+    "postal_code": "6467EG",
+    "locality": "Kerkrade",
+    "region": "Limburg",
+    "latitude": "50.867522",
+    "longitude": "6.026152000000001"
+  },
+  {
+    "name": "Hairsalon van Gils",
+    "street_address": "Hubertusstraat 12",
+    "postal_code": "6102AV",
+    "locality": "Echt",
+    "region": "Limburg",
+    "latitude": "51.0958113",
+    "longitude": "5.8885818"
+  },
+  {
+    "name": "Thuis bij Janneke",
+    "street_address": "Damenweg 2",
+    "postal_code": "6027NK",
+    "locality": "Soerendonk",
+    "region": "Noord-Brabant",
+    "latitude": "51.3022487",
+    "longitude": "5.5724217"
+  },
+  {
+    "name": "Kapsalon Ria Stals",
+    "street_address": "Neelstraat 2 a",
+    "postal_code": "6014BG",
+    "locality": "Ittervoort",
+    "region": "Limburg",
+    "latitude": "51.17026329999999",
+    "longitude": "5.8201196"
+  },
+  {
+    "name": "MOOD",
+    "street_address": "van Ommerenstraat 49",
+    "postal_code": "5708KD",
+    "locality": "Helmond",
+    "region": "Noord-Brabant",
+    "latitude": "51.49006860000001",
+    "longitude": "5.6209716"
+  },
+  {
+    "name": "kappers Plein",
+    "street_address": "Bloemerstraat 106",
+    "postal_code": "6511EN",
+    "locality": "Nijmegen",
+    "region": "Gelderland",
+    "latitude": "51.8456815",
+    "longitude": "5.8617859"
+  },
+  {
+    "name": "Kapsalon N-Style",
+    "street_address": "Havenstraat 14",
+    "postal_code": "6171EE",
+    "locality": "Stein",
+    "region": "Limburg",
+    "latitude": "50.9730015",
+    "longitude": "5.760892699999999"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "name": "IVONN haar design",
+    "street_address": "Schoolstraat 22",
+    "postal_code": "4417AB",
+    "locality": "Hansweert",
+    "region": "Zeeland",
+    "latitude": "51.4481408",
+    "longitude": "4.0048525"
+  },
+  {
+    "name": "Penny Friedenberg-Kuiters",
+    "street_address": "Klaverblad 13",
+    "postal_code": "4661NA",
+    "locality": "Halsteren",
+    "region": "Noord-Brabant",
+    "latitude": "51.5236005",
+    "longitude": "4.277915399999999"
+  },
+  {
+    "name": "Haarmode Pico Bello",
+    "street_address": "Boulevard 68 A",
+    "postal_code": "4701EW",
+    "locality": "Roosendaal",
+    "region": "Noord-Brabant",
+    "latitude": "51.534633",
+    "longitude": "4.4661791"
+  },
+  {
+    "name": "Color- and Hairstudio Solo",
+    "street_address": "Ter Hoogestraat 27",
+    "postal_code": "4335EM",
+    "locality": "Middelburg",
+    "region": "Zeeland",
+    "latitude": "51.49244479999999",
+    "longitude": "3.5993054"
+  },
+  {
+    "name": "Holy Snit!",
+    "street_address": "Markt 4",
+    "postal_code": "4551BK",
+    "locality": "Sas van Gent",
+    "region": "Zeeland",
+    "latitude": "51.2278554",
+    "longitude": "3.7994205"
+  },
+  {
+    "name": "Hair Touch by Myrthe",
+    "street_address": "Stormezandeweg 26",
+    "postal_code": "4424ER",
+    "locality": "Wemeldinge",
+    "region": "Zeeland",
+    "latitude": "51.519545",
+    "longitude": "4.0001745"
+  },
+  {
+    "name": "Hanneke's Hairfashion",
+    "street_address": "Braggert 6",
+    "postal_code": "3252CM",
+    "locality": "Goedereede",
+    "region": "Zuid-Holland",
+    "latitude": "51.8199029",
+    "longitude": "3.9862399"
+  },
+  {
+    "name": "Salon Les Montagnes",
+    "street_address": "Pastoor Versterplein 1 105K",
+    "postal_code": "4587CW",
+    "locality": "Kloosterzande",
+    "region": "Zeeland",
+    "latitude": "51.3716278",
+    "longitude": "4.0082496"
+  },
+  {
+    "name": "Mooi Haar bij Marije",
+    "street_address": "Burgemeester van der Havestraat 75",
+    "postal_code": "4307BC",
+    "locality": "Oosterland",
+    "region": "Zeeland",
+    "latitude": "51.6504766",
+    "longitude": "4.0388388"
+  },
+  {
+    "name": "Myrthe's Haarboutique",
+    "street_address": "Melkweg 16",
+    "postal_code": "4501GK",
+    "locality": "Oostburg",
+    "region": "Zeeland",
+    "latitude": "51.3271786",
+    "longitude": "3.4960428"
+  },
+  {
+    "name": "Do's New Hair",
+    "street_address": "Turkeijeweg 43",
+    "postal_code": "4515RL",
+    "locality": "IJzendijke",
+    "region": "Zeeland",
+    "latitude": "51.32032479999999",
+    "longitude": "3.5953429"
+  },
+  {
+    "name": "Diana Liefting",
+    "street_address": "Polderboom 5",
+    "postal_code": "3267BH",
+    "locality": "Goudswaard",
+    "region": "Zuid-Holland",
+    "latitude": "51.7935605",
+    "longitude": "4.2812123"
+  },
+  {
+    "name": "House of Beauty Lorraine",
+    "street_address": "Polderlaan 8",
+    "postal_code": "3241SK",
+    "locality": "Middelharnis",
+    "region": "Zuid-Holland",
+    "latitude": "51.7701557",
+    "longitude": "4.1917366"
+  },
+  {
+    "name": "Dé Energetisch Kapper",
+    "street_address": "'s-Gravenpoldersestraat 15",
+    "postal_code": "4433AG",
+    "locality": "Hoedekenskerke",
+    "region": "Zeeland",
+    "latitude": "51.4261493",
+    "longitude": "3.9101763"
+  },
+  {
+    "name": "CoCo Hairstyling",
+    "street_address": "Slikkenburg 14",
+    "postal_code": "4691TC",
+    "locality": "Tholen",
+    "region": "Zeeland",
+    "latitude": "51.533039",
+    "longitude": "4.226979"
+  },
+  {
+    "name": "Dehaarboutique",
+    "street_address": "Walstraat 2",
+    "postal_code": "4531ED",
+    "locality": "Terneuzen",
+    "region": "Zeeland",
+    "latitude": "51.3380997",
+    "longitude": "3.826486"
+  },
+  {
+    "name": "M.H. Haarstyliste",
+    "street_address": "O Lv Vrouw ter Duinenln 130",
+    "postal_code": "4641RM",
+    "locality": "Ossendrecht",
+    "region": "Noord-Brabant",
+    "latitude": "51.4024192",
+    "longitude": "4.3426338"
+  },
+  {
+    "name": "Janine's Hairstyling",
+    "street_address": "Reeweg 2",
+    "postal_code": "4417PB",
+    "locality": "Hansweert",
+    "region": "Zeeland",
+    "latitude": "51.4736628",
+    "longitude": "4.0078922"
+  },
+  {
+    "name": "Sandra's Hairstyling",
+    "street_address": "Prins Bernhardstraat 11",
+    "postal_code": "4471PW",
+    "locality": "Wolphaartsdijk",
+    "region": "Zeeland",
+    "latitude": "51.5329097",
+    "longitude": "3.8060407"
+  },
+  {
+    "name": "Mandy's Hairtime",
+    "street_address": "Enclaveberg 170",
+    "postal_code": "4708EC",
+    "locality": "Roosendaal",
+    "region": "Noord-Brabant",
+    "latitude": "51.5150368",
+    "longitude": "4.4419738"
+  }
+]
